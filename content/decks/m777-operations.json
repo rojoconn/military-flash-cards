@@ -1,0 +1,110 @@
+{
+  "deck": {
+    "name": "M777A2 Pre-Fire Checks",
+    "description": "Essential pre-fire checks and procedures for the M777A2 Howitzer",
+    "category": "MOS",
+    "subcategory": "13B - Cannon Crewmember"
+  },
+  "cards": [
+    {
+      "front": "What is the first step in performing M777A2 pre-fire checks?",
+      "back": "Ensure the weapon is in SAFE mode and the breech is clear of all ammunition and obstructions.",
+      "source": "TC_3_09.81_FA Manual Cannon Battery.pdf"
+    },
+    {
+      "front": "What is the maximum effective range of the M777A2 with standard ammunition?",
+      "back": "22 kilometers (approximately 13.7 miles) with standard ammunition. Up to 30km with rocket-assisted projectiles.",
+      "source": "FM_6_40_TTP FOR FA MANUAL GUNNERY.pdf"
+    },
+    {
+      "front": "What caliber is the M777A2 Howitzer?",
+      "back": "155mm",
+      "source": "TM_9_1025_215_10_M777A2 OPERATOR MANUAL.pdf"
+    },
+    {
+      "front": "What is the weight of the M777A2 Howitzer?",
+      "back": "Approximately 9,300 pounds (4,218 kg), making it the lightest 155mm towed howitzer in the world.",
+      "source": "TM_9_1025_215_10_M777A2 OPERATOR MANUAL.pdf"
+    },
+    {
+      "front": "What does DFCS stand for in the M777A2?",
+      "back": "Digital Fire Control System",
+      "source": "TC_3_09.81_FA Manual Cannon Battery.pdf"
+    },
+    {
+      "front": "What is the purpose of the DFCS on the M777A2?",
+      "back": "The DFCS provides automated firing data computation, self-location, and pointing data to improve accuracy and reduce crew workload.",
+      "source": "TC_3_09.81_FA Manual Cannon Battery.pdf"
+    },
+    {
+      "front": "What is the maximum rate of fire for the M777A2?",
+      "back": "5 rounds per minute maximum, 2 rounds per minute sustained.",
+      "source": "FM_6_50_FIELD ARTILLERY CANNON BATTERY.pdf"
+    },
+    {
+      "front": "What is the traverse range of the M777A2?",
+      "back": "800 mils left or right (45 degrees each direction, 90 degrees total)",
+      "source": "TM_9_1025_215_10_M777A2 OPERATOR MANUAL.pdf"
+    },
+    {
+      "front": "What is the elevation range of the M777A2?",
+      "back": "-89 to +1,232 mils (-5 to +69.2 degrees)",
+      "source": "TM_9_1025_215_10_M777A2 OPERATOR MANUAL.pdf"
+    },
+    {
+      "front": "What crew size is required for the M777A2?",
+      "back": "Minimum crew of 5, optimal crew of 8 personnel.",
+      "source": "FM_6_50_FIELD ARTILLERY CANNON BATTERY.pdf"
+    },
+    {
+      "front": "What is the purpose of the scavenge system on the M777A2?",
+      "back": "To remove propellant gases from the barrel after firing, preventing gas from entering the crew area when the breech opens.",
+      "source": "TC_3_09.81_FA Manual Cannon Battery.pdf"
+    },
+    {
+      "front": "What type of breech mechanism does the M777A2 use?",
+      "back": "A screw-type interrupted thread breech mechanism.",
+      "source": "TM_9_1025_215_10_M777A2 OPERATOR MANUAL.pdf"
+    },
+    {
+      "front": "What is the primary material used in the M777A2 construction?",
+      "back": "Titanium and aluminum alloys, reducing weight while maintaining strength.",
+      "source": "TM_9_1025_215_10_M777A2 OPERATOR MANUAL.pdf"
+    },
+    {
+      "front": "How long does it take to emplace the M777A2 from travel mode?",
+      "back": "Approximately 3 minutes with a trained crew.",
+      "source": "FM_6_50_FIELD ARTILLERY CANNON BATTERY.pdf"
+    },
+    {
+      "front": "What is the purpose of the M1156 PGK (Precision Guidance Kit)?",
+      "back": "A GPS-guided fuze that converts standard 155mm artillery rounds into precision munitions, reducing CEP to approximately 30 meters.",
+      "source": "TC_3_09.81_FA Manual Cannon Battery.pdf"
+    },
+    {
+      "front": "What is the M982 Excalibur?",
+      "back": "A GPS-guided extended range artillery projectile with a CEP of less than 2 meters, capable of ranges up to 40km.",
+      "source": "TC_3_09.81_FA Manual Cannon Battery.pdf"
+    },
+    {
+      "front": "What does CEP stand for in artillery terms?",
+      "back": "Circular Error Probable - the radius of a circle within which 50% of rounds will land.",
+      "source": "FM_6_40_TTP FOR FA MANUAL GUNNERY.pdf"
+    },
+    {
+      "front": "What is the purpose of the panoramic telescope (PANTEL) on the M777A2?",
+      "back": "To lay the howitzer for direction (azimuth) using aiming points and to provide fire direction center data.",
+      "source": "FM_6_40_TTP FOR FA MANUAL GUNNERY.pdf"
+    },
+    {
+      "front": "What immediate action should be taken in case of a misfire?",
+      "back": "Wait 30 seconds (hangfire interval), then announce 'MISFIRE' and follow unit SOP for misfire procedures.",
+      "source": "TC_3_09.81_FA Manual Cannon Battery.pdf"
+    },
+    {
+      "front": "What is the hangfire interval for artillery?",
+      "back": "30 seconds - the minimum time to wait before opening the breech after a misfire to allow for a potential hangfire.",
+      "source": "TC_3_09.81_FA Manual Cannon Battery.pdf"
+    }
+  ]
+}

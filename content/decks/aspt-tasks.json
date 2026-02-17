@@ -1,0 +1,100 @@
+{
+  "deck": {
+    "name": "13B ASPT Tasks",
+    "description": "Annual Skill Proficiency Test tasks for 13B Cannon Crewmember",
+    "category": "STP",
+    "subcategory": "13B ASPT"
+  },
+  "cards": [
+    {
+      "front": "What are the steps to set up the M2A2 Aiming Circle?",
+      "back": "1. Select a level position\n2. Extend tripod legs and level the tripod head\n3. Mount the aiming circle on the tripod\n4. Center the circular level\n5. Center the tubular level\n6. Verify orientation if required",
+      "source": "061-266-4000_Set up the M2 or M2A2 Aiming Circle.pdf"
+    },
+    {
+      "front": "What is the purpose of the M2A2 Aiming Circle?",
+      "back": "To measure horizontal and vertical angles, lay howitzers for direction, and establish the azimuth of an orienting line for artillery operations.",
+      "source": "061-266-4000_Set up the M2 or M2A2 Aiming Circle.pdf"
+    },
+    {
+      "front": "What does 'orienting' the M2A2 Aiming Circle mean?",
+      "back": "Setting the instrument so that when the azimuth counter reads the grid azimuth to a known point, the 0-3200 line is parallel to the grid north-south line.",
+      "source": "061-266-5302_Orient the M2 or M2A2 Aiming Circle.pdf"
+    },
+    {
+      "front": "What is the purpose of declinating the M2A2 Aiming Circle?",
+      "back": "To convert magnetic readings to grid readings by setting the declination constant, which accounts for the difference between magnetic north and grid north.",
+      "source": "061-13B-4013_Declinate the M2A2 Aiming Circle.pdf"
+    },
+    {
+      "front": "What is a Distant Aiming Point (DAP)?",
+      "back": "A clearly defined point at least 1,500 meters away used to verify boresight and lay the howitzer for direction.",
+      "source": "061-266-2238_Establish a Distant Aiming Point.pdf"
+    },
+    {
+      "front": "How do you perform the Gunner's Quadrant End-for-End Test?",
+      "back": "1. Place quadrant on reference surface\n2. Record elevation reading\n3. Rotate quadrant 180 degrees (end-for-end)\n4. Record second reading\n5. Difference should not exceed 0.2 mils",
+      "source": "061-266-3311_Perform an M1A1 Gunner's Quadrant End-for-End Test.pdf"
+    },
+    {
+      "front": "What is the purpose of a Range Card for a Howitzer?",
+      "back": "To record data needed for direct fire engagement, including aiming points, deflection and elevation settings, and range to targets in the sector.",
+      "source": "061-266-3313_Prepare a Range Card for a Howitzer.pdf"
+    },
+    {
+      "front": "What information is recorded on DA Form 4513-R?",
+      "back": "Record of Missions Fired - includes mission number, time, target location, ammunition type/lot, fuze settings, charge, deflection, quadrant, and number of rounds.",
+      "source": "061-266-1102_Maintain Fire Mission Data on a DA Form 4513-R.pdf"
+    },
+    {
+      "front": "What is the purpose of referring a piece?",
+      "back": "To verify or reestablish the lay of a howitzer by comparing the current sight reading to a recorded reading on an aiming point.",
+      "source": "061-266-2231_Refer a Piece.pdf"
+    },
+    {
+      "front": "What are Close-In Aiming Points (CIAPs)?",
+      "back": "Collimators or aiming posts placed 50-100 meters from the howitzer that provide a reference for laying the weapon when the primary aiming point is not visible.",
+      "source": "061-266-1106_Emplace Close in Aiming Points.pdf"
+    },
+    {
+      "front": "What is the purpose of the Gunner's Reference Card (DA Form 5212)?",
+      "back": "To record boresight data, deflection differences, and sight data for the howitzer to ensure accurate lay during fire missions.",
+      "source": "061-266-2010_Prepare DA Form 5212 Gunner's Reference Card.pdf"
+    },
+    {
+      "front": "What does 'site to crest' mean in artillery?",
+      "back": "The vertical angle from the muzzle of the howitzer to the highest point of terrain (crest) between the weapon and the target that could mask fire.",
+      "source": "061-266-3305_Determine Site Angle and Piece to Crest.pdf"
+    },
+    {
+      "front": "What is minimum quadrant elevation (QE)?",
+      "back": "The lowest safe quadrant elevation at which the howitzer can fire without the projectile striking the crest in front of the weapon position.",
+      "source": "061-266-4009_Compute Position Minimum Quadrant Elevation.pdf"
+    },
+    {
+      "front": "What are the steps to initialize the DFCS on the M777A2?",
+      "back": "1. Power on the system\n2. Wait for self-test completion\n3. Enter surveyed position data\n4. Enter ammunition data\n5. Verify settings\n6. Confirm initialization complete",
+      "source": "061-13B-3001_Initialize the Digital Fire Control System (M777A2).pdf"
+    },
+    {
+      "front": "What is the purpose of boresighting the Panoramic Telescope?",
+      "back": "To align the optical axis of the sight with the axis of the bore, ensuring that the point of aim and point of impact coincide.",
+      "source": "061-266-2005_Boresight the Panoramic Telescope by Using a Distant Aiming Point (DAP).pdf"
+    },
+    {
+      "front": "What is a reciprocal lay?",
+      "back": "A method of laying the howitzer for initial direction using the aiming circle where the circle observes the weapon and the weapon observes the circle simultaneously.",
+      "source": "061-266-2002_Lay a Howitzer for Initial Direction by Reciprocal Lay with a PANTEL.pdf"
+    },
+    {
+      "front": "What are the safety checks before firing the M777A2?",
+      "back": "1. Verify safe firing data\n2. Check clear zone behind breech\n3. Verify all personnel clear of recoil area\n4. Ensure proper ammunition and charge\n5. Confirm quadrant/deflection settings",
+      "source": "061-266-3315_Verify that Howitzer Data is Safe to Fire.pdf"
+    },
+    {
+      "front": "How do you prepare a 155mm round for firing?",
+      "back": "1. Inspect projectile for damage\n2. Set and install fuze\n3. Verify propellant charge\n4. Check primer\n5. Announce 'ROUND READY' when complete",
+      "source": "061-13B-1001_Prepare a 155MM Round for Firing (M777A2).pdf"
+    }
+  ]
+}

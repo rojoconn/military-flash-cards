@@ -39,3 +39,23 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# EAS
+.eas/
+
+# Secrets (never commit)
+*.p12
+*.mobileprovision
+play-store-key.json
+google-services.json
+GoogleService-Info.plist
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Database (local development)
+*.db
+*.sqlite
