@@ -1,0 +1,675 @@
+{
+  "deck": {
+    "name": "Physical Readiness Training (PRT)",
+    "description": "FM 7-22 - Army Physical Readiness Training doctrine, ACFT events, H2F, training principles, and exercise techniques",
+    "category": "FM",
+    "subcategory": "Physical Fitness"
+  },
+  "metadata": {
+    "publication": "FM 7-22",
+    "title": "Holistic Health and Fitness",
+    "date": "October 2020",
+    "proponent": "United States Army Center for Initial Military Training",
+    "note": "Supersedes TC 3-22.20"
+  },
+  "cards": [
+    {
+      "front": "What are the six events of the Army Combat Fitness Test (ACFT)?",
+      "back": "1. 3 Repetition Maximum Deadlift (MDL)\n2. Standing Power Throw (SPT)\n3. Hand Release Push-Up (HRP)\n4. Sprint-Drag-Carry (SDC)\n5. Plank (PLK)\n6. 2-Mile Run (2MR)\n\n(Source: FM 7-22, Ch 10, para 10-3)",
+      "source_doc": "FM 7-22",
+      "source_page": 123,
+      "source_para": "Chapter 10, para 10-3"
+    },
+    {
+      "front": "What is the minimum passing score for each ACFT event?",
+      "back": "60 points per event, 360 total to pass. Maximum is 100 per event, 600 total.\n\n(Source: FM 7-22, Ch 10, para 10-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 125,
+      "source_para": "Chapter 10, para 10-8"
+    },
+    {
+      "front": "What weight equals 60 points on the MDL?",
+      "back": "140 lbs (minimum passing).\n\n(Source: FM 7-22, Ch 10, Table 10-1)",
+      "source_doc": "FM 7-22",
+      "source_page": 127,
+      "source_para": "Chapter 10, Table 10-1"
+    },
+    {
+      "front": "What weight equals 100 points on the MDL?",
+      "back": "340 lbs (maximum score).\n\n(Source: FM 7-22, Ch 10, Table 10-1)",
+      "source_doc": "FM 7-22",
+      "source_page": 127,
+      "source_para": "Chapter 10, Table 10-1"
+    },
+    {
+      "front": "What are the available MDL weight options?",
+      "back": "140, 180, 200, 220, 250, 280, 310, 340 lbs.\n\n(Source: FM 7-22, Ch 10, Table 10-1)",
+      "source_doc": "FM 7-22",
+      "source_page": 127,
+      "source_para": "Chapter 10, Table 10-1"
+    },
+    {
+      "front": "What type of bar is used for the MDL?",
+      "back": "60-lb hex bar (trap bar).\n\n(Source: FM 7-22, Ch 10, para 10-15)",
+      "source_doc": "FM 7-22",
+      "source_page": 128,
+      "source_para": "Chapter 10, para 10-15"
+    },
+    {
+      "front": "How many repetitions must be completed for the MDL?",
+      "back": "Three repetitions without stopping. Must touch plates to ground between reps.\n\n(Source: FM 7-22, Ch 10, para 10-15)",
+      "source_doc": "FM 7-22",
+      "source_page": 128,
+      "source_para": "Chapter 10, para 10-15"
+    },
+    {
+      "front": "What weight is the medicine ball for the SPT?",
+      "back": "10 pounds.\n\n(Source: FM 7-22, Ch 10, para 10-22)",
+      "source_doc": "FM 7-22",
+      "source_page": 132,
+      "source_para": "Chapter 10, para 10-22"
+    },
+    {
+      "front": "How many attempts are allowed for the SPT?",
+      "back": "One practice throw, then two record attempts. Better score counts.\n\n(Source: FM 7-22, Ch 10, para 10-22)",
+      "source_doc": "FM 7-22",
+      "source_page": 132,
+      "source_para": "Chapter 10, para 10-22"
+    },
+    {
+      "front": "What is the minimum SPT distance for 60 points?",
+      "back": "4.5 meters.\n\n(Source: FM 7-22, Ch 10, Table 10-2)",
+      "source_doc": "FM 7-22",
+      "source_page": 133,
+      "source_para": "Chapter 10, Table 10-2"
+    },
+    {
+      "front": "What is the maximum SPT distance for 100 points?",
+      "back": "12.5 meters or greater.\n\n(Source: FM 7-22, Ch 10, Table 10-2)",
+      "source_doc": "FM 7-22",
+      "source_page": 133,
+      "source_para": "Chapter 10, Table 10-2"
+    },
+    {
+      "front": "What is the HRP technique?",
+      "back": "Start prone, arms extended to sides (T), bring hands under shoulders, push up, lower until chest touches, extend arms to sides, repeat.\n\n(Source: FM 7-22, Ch 10, para 10-28)",
+      "source_doc": "FM 7-22",
+      "source_page": 135,
+      "source_para": "Chapter 10, para 10-28"
+    },
+    {
+      "front": "How long is the HRP event?",
+      "back": "2 minutes.\n\n(Source: FM 7-22, Ch 10, para 10-28)",
+      "source_doc": "FM 7-22",
+      "source_page": 135,
+      "source_para": "Chapter 10, para 10-28"
+    },
+    {
+      "front": "What is the minimum HRP count for 60 points?",
+      "back": "10 repetitions.\n\n(Source: FM 7-22, Ch 10, Table 10-3)",
+      "source_doc": "FM 7-22",
+      "source_page": 136,
+      "source_para": "Chapter 10, Table 10-3"
+    },
+    {
+      "front": "What is the maximum HRP count for 100 points?",
+      "back": "60 repetitions or more.\n\n(Source: FM 7-22, Ch 10, Table 10-3)",
+      "source_doc": "FM 7-22",
+      "source_page": 136,
+      "source_para": "Chapter 10, Table 10-3"
+    },
+    {
+      "front": "What are the five elements of the Sprint-Drag-Carry?",
+      "back": "Sprint (25m), Drag (90-lb sled 25m), Lateral shuffle (25m down/back), Carry (2x40-lb kettlebells 25m down/back), Sprint (25m).\n\n(Source: FM 7-22, Ch 10, para 10-35)",
+      "source_doc": "FM 7-22",
+      "source_page": 138,
+      "source_para": "Chapter 10, para 10-35"
+    },
+    {
+      "front": "What is the total distance of the SDC?",
+      "back": "250 meters (5 x 50m shuttles).\n\n(Source: FM 7-22, Ch 10, para 10-35)",
+      "source_doc": "FM 7-22",
+      "source_page": 138,
+      "source_para": "Chapter 10, para 10-35"
+    },
+    {
+      "front": "What is the minimum SDC time for 60 points?",
+      "back": "3:00 (three minutes).\n\n(Source: FM 7-22, Ch 10, Table 10-4)",
+      "source_doc": "FM 7-22",
+      "source_page": 139,
+      "source_para": "Chapter 10, Table 10-4"
+    },
+    {
+      "front": "What is the maximum SDC time for 100 points?",
+      "back": "1:33 or faster.\n\n(Source: FM 7-22, Ch 10, Table 10-4)",
+      "source_doc": "FM 7-22",
+      "source_page": 139,
+      "source_para": "Chapter 10, Table 10-4"
+    },
+    {
+      "front": "What is the correct Plank position?",
+      "back": "Elbows bent 90° under shoulders, forearms flat, body straight from shoulders to ankles, head aligned with spine.\n\n(Source: FM 7-22, Ch 10, para 10-42)",
+      "source_doc": "FM 7-22",
+      "source_page": 141,
+      "source_para": "Chapter 10, para 10-42"
+    },
+    {
+      "front": "What is the minimum Plank time for 60 points?",
+      "back": "1:00 (one minute).\n\n(Source: FM 7-22, Ch 10, Table 10-5)",
+      "source_doc": "FM 7-22",
+      "source_page": 142,
+      "source_para": "Chapter 10, Table 10-5"
+    },
+    {
+      "front": "What is the maximum Plank time for 100 points?",
+      "back": "3:20 or longer.\n\n(Source: FM 7-22, Ch 10, Table 10-5)",
+      "source_doc": "FM 7-22",
+      "source_page": 142,
+      "source_para": "Chapter 10, Table 10-5"
+    },
+    {
+      "front": "What is the minimum 2MR time for 60 points?",
+      "back": "21:00 (twenty-one minutes).\n\n(Source: FM 7-22, Ch 10, Table 10-6)",
+      "source_doc": "FM 7-22",
+      "source_page": 145,
+      "source_para": "Chapter 10, Table 10-6"
+    },
+    {
+      "front": "What is the maximum 2MR time for 100 points?",
+      "back": "13:30 or faster.\n\n(Source: FM 7-22, Ch 10, Table 10-6)",
+      "source_doc": "FM 7-22",
+      "source_page": 145,
+      "source_para": "Chapter 10, Table 10-6"
+    },
+    {
+      "front": "What rest is required between ACFT events?",
+      "back": "Minimum 2 minutes, maximum 5 minutes.\n\n(Source: FM 7-22, Ch 10, para 10-10)",
+      "source_doc": "FM 7-22",
+      "source_page": 126,
+      "source_para": "Chapter 10, para 10-10"
+    },
+    {
+      "front": "In what order must ACFT events be completed?",
+      "back": "MDL → SPT → HRP → SDC → PLK → 2MR (always in this sequence).\n\n(Source: FM 7-22, Ch 10, para 10-10)",
+      "source_doc": "FM 7-22",
+      "source_page": 126,
+      "source_para": "Chapter 10, para 10-10"
+    },
+    {
+      "front": "How often should Soldiers take a record ACFT?",
+      "back": "Minimum twice per year (semi-annually). At least 4 months between record tests.\n\n(Source: FM 7-22, Ch 10, para 10-5)",
+      "source_doc": "FM 7-22",
+      "source_page": 124,
+      "source_para": "Chapter 10, para 10-5"
+    },
+    {
+      "front": "What are the five components of Holistic Health and Fitness (H2F)?",
+      "back": "Physical, Nutritional, Mental, Sleep, and Spiritual Readiness.\n\n(Source: FM 7-22, Ch 1, para 1-4)",
+      "source_doc": "FM 7-22",
+      "source_page": 3,
+      "source_para": "Chapter 1, para 1-4"
+    },
+    {
+      "front": "What is Physical Readiness in H2F?",
+      "back": "Developing strength, endurance, and mobility to perform physical tasks.\n\n(Source: FM 7-22, Ch 1, para 1-5)",
+      "source_doc": "FM 7-22",
+      "source_page": 4,
+      "source_para": "Chapter 1, para 1-5"
+    },
+    {
+      "front": "What is Nutritional Readiness in H2F?",
+      "back": "Proper fueling for performance, recovery, and health through diet.\n\n(Source: FM 7-22, Ch 1, para 1-6)",
+      "source_doc": "FM 7-22",
+      "source_page": 4,
+      "source_para": "Chapter 1, para 1-6"
+    },
+    {
+      "front": "What is Mental Readiness in H2F?",
+      "back": "Cognitive performance, emotional stability, and psychological resilience.\n\n(Source: FM 7-22, Ch 1, para 1-7)",
+      "source_doc": "FM 7-22",
+      "source_page": 5,
+      "source_para": "Chapter 1, para 1-7"
+    },
+    {
+      "front": "What is Sleep Readiness in H2F?",
+      "back": "Adequate quantity and quality of sleep for optimal performance.\n\n(Source: FM 7-22, Ch 1, para 1-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 5,
+      "source_para": "Chapter 1, para 1-8"
+    },
+    {
+      "front": "What is Spiritual Readiness in H2F?",
+      "back": "Core values, purpose, and meaning that sustain a Soldier through adversity.\n\n(Source: FM 7-22, Ch 1, para 1-9)",
+      "source_doc": "FM 7-22",
+      "source_page": 6,
+      "source_para": "Chapter 1, para 1-9"
+    },
+    {
+      "front": "What are the three phases of Physical Readiness Training?",
+      "back": "Initial Conditioning (BCT), Toughening (later BCT/AIT), and Sustaining (unit level).\n\n(Source: FM 7-22, Ch 4, para 4-2)",
+      "source_doc": "FM 7-22",
+      "source_page": 35,
+      "source_para": "Chapter 4, para 4-2"
+    },
+    {
+      "front": "What are the seven principles of exercise?",
+      "back": "Precision, Progression, Integration, Specificity, Overload, Recovery, Variety.\n\n(Source: FM 7-22, Ch 3, para 3-5)",
+      "source_doc": "FM 7-22",
+      "source_page": 22,
+      "source_para": "Chapter 3, para 3-5"
+    },
+    {
+      "front": "What is the Precision principle?",
+      "back": "Correct technique in every exercise to maximize benefit and minimize injury.\n\n(Source: FM 7-22, Ch 3, para 3-6)",
+      "source_doc": "FM 7-22",
+      "source_page": 22,
+      "source_para": "Chapter 3, para 3-6"
+    },
+    {
+      "front": "What is the Progression principle?",
+      "back": "Gradually increase difficulty over time to continue adaptation.\n\n(Source: FM 7-22, Ch 3, para 3-7)",
+      "source_doc": "FM 7-22",
+      "source_page": 23,
+      "source_para": "Chapter 3, para 3-7"
+    },
+    {
+      "front": "What is the Overload principle?",
+      "back": "Work beyond normal levels to stimulate adaptation and improvement.\n\n(Source: FM 7-22, Ch 3, para 3-10)",
+      "source_doc": "FM 7-22",
+      "source_page": 24,
+      "source_para": "Chapter 3, para 3-10"
+    },
+    {
+      "front": "What is the Recovery principle?",
+      "back": "Allow adequate rest between training sessions for adaptation to occur.\n\n(Source: FM 7-22, Ch 3, para 3-11)",
+      "source_doc": "FM 7-22",
+      "source_page": 24,
+      "source_para": "Chapter 3, para 3-11"
+    },
+    {
+      "front": "What is the Specificity principle?",
+      "back": "Train specifically for desired outcomes - training adaptations match training type.\n\n(Source: FM 7-22, Ch 3, para 3-9)",
+      "source_doc": "FM 7-22",
+      "source_page": 23,
+      "source_para": "Chapter 3, para 3-9"
+    },
+    {
+      "front": "What are the three types of strength?",
+      "back": "Muscular Strength (max force), Muscular Endurance (sustained force), Muscular Power (explosive force).\n\n(Source: FM 7-22, Ch 6, para 6-3)",
+      "source_doc": "FM 7-22",
+      "source_page": 55,
+      "source_para": "Chapter 6, para 6-3"
+    },
+    {
+      "front": "What is the recommended PRT session structure?",
+      "back": "Preparation Drill (5-10 min), Activities (main training), Recovery Drill (5-10 min). Total 45-90 min.\n\n(Source: FM 7-22, Ch 5, para 5-2)",
+      "source_doc": "FM 7-22",
+      "source_page": 42,
+      "source_para": "Chapter 5, para 5-2"
+    },
+    {
+      "front": "How many exercises are in the Preparation Drill?",
+      "back": "10 exercises performed 5-10 reps each at moderate pace.\n\n(Source: FM 7-22, Ch 5, para 5-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 45,
+      "source_para": "Chapter 5, para 5-8"
+    },
+    {
+      "front": "What is the first exercise of the Preparation Drill?",
+      "back": "Bend and Reach.\n\n(Source: FM 7-22, Ch 5, para 5-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 45,
+      "source_para": "Chapter 5, para 5-8"
+    },
+    {
+      "front": "What is the last exercise of the Preparation Drill?",
+      "back": "Push-Up.\n\n(Source: FM 7-22, Ch 5, para 5-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 45,
+      "source_para": "Chapter 5, para 5-8"
+    },
+    {
+      "front": "Name the 10 Preparation Drill exercises.",
+      "back": "Bend/Reach, Rear Lunge, High Jumper, Rower, Squat Bender, Windmill, Forward Lunge, Prone Row, Bent Leg Body Twist, Push-Up.\n\n(Source: FM 7-22, Ch 5, para 5-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 45,
+      "source_para": "Chapter 5, para 5-8"
+    },
+    {
+      "front": "How long are Recovery Drill stretches held?",
+      "back": "20-30 seconds each.\n\n(Source: FM 7-22, Ch 5, para 5-15)",
+      "source_doc": "FM 7-22",
+      "source_page": 49,
+      "source_para": "Chapter 5, para 5-15"
+    },
+    {
+      "front": "What are the 4 for the Core exercises?",
+      "back": "Bent Leg Raise, Side Bridge (L/R), Back Bridge, Quadraplex.\n\n(Source: FM 7-22, Ch 6, para 6-18)",
+      "source_doc": "FM 7-22",
+      "source_page": 62,
+      "source_para": "Chapter 6, para 6-18"
+    },
+    {
+      "front": "What are the Hip Stability Drills?",
+      "back": "Lateral Leg Raise, Medial Leg Raise, Bent Leg Lateral Raise, Single Leg Tuck, Single Leg Over.\n\n(Source: FM 7-22, Ch 6, para 6-22)",
+      "source_doc": "FM 7-22",
+      "source_page": 65,
+      "source_para": "Chapter 6, para 6-22"
+    },
+    {
+      "front": "What is the 30:60 interval method?",
+      "back": "30 seconds high intensity, 60 seconds recovery. Start with 5-6 intervals, build to 10-12.\n\n(Source: FM 7-22, Ch 7, para 7-12)",
+      "source_doc": "FM 7-22",
+      "source_page": 76,
+      "source_para": "Chapter 7, para 7-12"
+    },
+    {
+      "front": "What is the 60:120 interval method?",
+      "back": "60 seconds high intensity, 120 seconds recovery. More challenging than 30:60.\n\n(Source: FM 7-22, Ch 7, para 7-13)",
+      "source_doc": "FM 7-22",
+      "source_page": 76,
+      "source_para": "Chapter 7, para 7-13"
+    },
+    {
+      "front": "What is the standard foot march distance/weight?",
+      "back": "12 miles with 35 lbs in 3 hours or less.\n\n(Source: FM 7-22, Ch 7, para 7-22)",
+      "source_doc": "FM 7-22",
+      "source_page": 80,
+      "source_para": "Chapter 7, para 7-22"
+    },
+    {
+      "front": "How often should foot marches be conducted?",
+      "back": "No more than twice per week with adequate recovery.\n\n(Source: FM 7-22, Ch 7, para 7-22)",
+      "source_doc": "FM 7-22",
+      "source_page": 80,
+      "source_para": "Chapter 7, para 7-22"
+    },
+    {
+      "front": "What is Military Movement Drill 1 (MMD1)?",
+      "back": "Verticals (high knee run), Laterals (shuffle), Shuttle Sprint. Performed over 25m.\n\n(Source: FM 7-22, Ch 7, para 7-28)",
+      "source_doc": "FM 7-22",
+      "source_page": 83,
+      "source_para": "Chapter 7, para 7-28"
+    },
+    {
+      "front": "What is Military Movement Drill 2 (MMD2)?",
+      "back": "Power Skip, Crossover, Crouch Run. More advanced than MMD1.\n\n(Source: FM 7-22, Ch 7, para 7-32)",
+      "source_doc": "FM 7-22",
+      "source_page": 85,
+      "source_para": "Chapter 7, para 7-32"
+    },
+    {
+      "front": "What is Conditioning Drill 1?",
+      "back": "Power Jump, V-Up, Mountain Climber, Leg Tuck and Twist, Single Leg Push-Up.\n\n(Source: FM 7-22, Ch 6, para 6-25)",
+      "source_doc": "FM 7-22",
+      "source_page": 68,
+      "source_para": "Chapter 6, para 6-25"
+    },
+    {
+      "front": "What is Conditioning Drill 2?",
+      "back": "Turn and Lunge, Supine Bicycle, Half Jacks, Swimmer, 8-Count T Push-Up.\n\n(Source: FM 7-22, Ch 6, para 6-25)",
+      "source_doc": "FM 7-22",
+      "source_page": 68,
+      "source_para": "Chapter 6, para 6-25"
+    },
+    {
+      "front": "What is Conditioning Drill 3?",
+      "back": "Y Squat, Single Leg Dead Lift, Side-to-Side Knee Lift, Front Kick Alternate Toe Touch, Tuck Jump.\n\n(Source: FM 7-22, Ch 6, para 6-25)",
+      "source_doc": "FM 7-22",
+      "source_page": 68,
+      "source_para": "Chapter 6, para 6-25"
+    },
+    {
+      "front": "What rest is recommended for heavy strength training (1-5 reps)?",
+      "back": "2-5 minutes between sets.\n\n(Source: FM 7-22, Ch 6, para 6-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 58,
+      "source_para": "Chapter 6, para 6-8"
+    },
+    {
+      "front": "What rest is recommended for moderate strength training (6-12 reps)?",
+      "back": "1-2 minutes between sets.\n\n(Source: FM 7-22, Ch 6, para 6-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 58,
+      "source_para": "Chapter 6, para 6-8"
+    },
+    {
+      "front": "What rest is recommended for endurance training (12+ reps)?",
+      "back": "30-60 seconds between sets.\n\n(Source: FM 7-22, Ch 6, para 6-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 58,
+      "source_para": "Chapter 6, para 6-8"
+    },
+    {
+      "front": "What are the signs of overtraining?",
+      "back": "Decreased performance, persistent fatigue, increased resting heart rate, disturbed sleep, irritability, increased injuries.\n\n(Source: FM 7-22, Ch 3, para 3-18)",
+      "source_doc": "FM 7-22",
+      "source_page": 28,
+      "source_para": "Chapter 3, para 3-18"
+    },
+    {
+      "front": "What is the recommended minimum sleep for Soldiers?",
+      "back": "7-9 hours per night for optimal performance.\n\n(Source: FM 7-22, Ch 8, para 8-3)",
+      "source_doc": "FM 7-22",
+      "source_page": 95,
+      "source_para": "Chapter 8, para 8-3"
+    },
+    {
+      "front": "What Heat Category suspends outdoor ACFT?",
+      "back": "Heat Category V (Black Flag) - commander's discretion, consider postponing.\n\n(Source: FM 7-22, Ch 10, para 10-12)",
+      "source_doc": "FM 7-22",
+      "source_page": 127,
+      "source_para": "Chapter 10, para 10-12"
+    },
+    {
+      "front": "What weather condition suspends the ACFT?",
+      "back": "Lightning within 6 miles suspends outdoor testing.\n\n(Source: FM 7-22, Ch 10, para 10-12)",
+      "source_doc": "FM 7-22",
+      "source_page": 127,
+      "source_para": "Chapter 10, para 10-12"
+    },
+    {
+      "front": "What is the Guerilla Drill exercise?",
+      "back": "Combination exercise: squat thrust, push-up, lunge, sprint. Develops muscular endurance.\n\n(Source: FM 7-22, Ch 6, para 6-30)",
+      "source_doc": "FM 7-22",
+      "source_page": 70,
+      "source_para": "Chapter 6, para 6-30"
+    },
+    {
+      "front": "What is Climbing Drill 1?",
+      "back": "Power Jump, Pull-Up, Leg Tuck. Develops upper body pulling strength.\n\n(Source: FM 7-22, Ch 6, para 6-28)",
+      "source_doc": "FM 7-22",
+      "source_page": 69,
+      "source_para": "Chapter 6, para 6-28"
+    },
+    {
+      "front": "What is Climbing Drill 2?",
+      "back": "Flexed-Arm Hang, Heel Hook, Pull-Up. More advanced climbing preparation.\n\n(Source: FM 7-22, Ch 6, para 6-29)",
+      "source_doc": "FM 7-22",
+      "source_page": 69,
+      "source_para": "Chapter 6, para 6-29"
+    },
+    {
+      "front": "What is the Push-Up and Sit-Up Drill (PSD)?",
+      "back": "Alternating push-ups and sit-ups in sets to develop upper body and core muscular endurance.\n\n(Source: FM 7-22, Ch 6, para 6-32)",
+      "source_doc": "FM 7-22",
+      "source_page": 71,
+      "source_para": "Chapter 6, para 6-32"
+    },
+    {
+      "front": "What is an Ability Group Run?",
+      "back": "Formation run organized by fitness level. Soldiers run with others of similar ability.\n\n(Source: FM 7-22, Ch 7, para 7-5)",
+      "source_doc": "FM 7-22",
+      "source_page": 73,
+      "source_para": "Chapter 7, para 7-5"
+    },
+    {
+      "front": "What is a Release Run?",
+      "back": "Individual-paced run for distance. Soldiers run at their own pace.\n\n(Source: FM 7-22, Ch 7, para 7-6)",
+      "source_doc": "FM 7-22",
+      "source_page": 73,
+      "source_para": "Chapter 7, para 7-6"
+    },
+    {
+      "front": "What is Terrain Running?",
+      "back": "Running over varied surfaces and grades to develop functional endurance.\n\n(Source: FM 7-22, Ch 7, para 7-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 74,
+      "source_para": "Chapter 7, para 7-8"
+    },
+    {
+      "front": "What is the recommended progression for foot marches?",
+      "back": "Start 3 miles/35 lbs at 20 min/mile. Add distance before adding weight.\n\n(Source: FM 7-22, Ch 7, para 7-22)",
+      "source_doc": "FM 7-22",
+      "source_page": 80,
+      "source_para": "Chapter 7, para 7-22"
+    },
+    {
+      "front": "What is the FITT principle?",
+      "back": "Frequency, Intensity, Time, Type - the variables to manipulate in exercise programming.\n\n(Source: FM 7-22, Ch 3, para 3-15)",
+      "source_doc": "FM 7-22",
+      "source_page": 26,
+      "source_para": "Chapter 3, para 3-15"
+    },
+    {
+      "front": "What does RICE stand for in injury treatment?",
+      "back": "Rest, Ice, Compression, Elevation. Basic acute injury management.\n\n(Source: FM 7-22, Ch 9, para 9-5)",
+      "source_doc": "FM 7-22",
+      "source_page": 110,
+      "source_para": "Chapter 9, para 9-5"
+    },
+    {
+      "front": "What is the daily caloric intake recommendation for active Soldiers?",
+      "back": "3,000-4,500 calories per day depending on activity level and body size.\n\n(Source: FM 7-22, Ch 8, para 8-12)",
+      "source_doc": "FM 7-22",
+      "source_page": 100,
+      "source_para": "Chapter 8, para 8-12"
+    },
+    {
+      "front": "What is the recommended protein intake for Soldiers?",
+      "back": "1.2-2.0 grams per kilogram of body weight per day.\n\n(Source: FM 7-22, Ch 8, para 8-15)",
+      "source_doc": "FM 7-22",
+      "source_page": 102,
+      "source_para": "Chapter 8, para 8-15"
+    },
+    {
+      "front": "What is the recommended hydration before exercise?",
+      "back": "17-20 oz 2-3 hours before, and 8 oz 20-30 minutes before.\n\n(Source: FM 7-22, Ch 8, para 8-20)",
+      "source_doc": "FM 7-22",
+      "source_page": 104,
+      "source_para": "Chapter 8, para 8-20"
+    },
+    {
+      "front": "What is the recommended hydration during exercise?",
+      "back": "7-10 oz every 10-20 minutes during exercise.\n\n(Source: FM 7-22, Ch 8, para 8-21)",
+      "source_doc": "FM 7-22",
+      "source_page": 104,
+      "source_para": "Chapter 8, para 8-21"
+    },
+    {
+      "front": "What are common overuse injuries in PRT?",
+      "back": "Stress fractures, shin splints, tendinitis, plantar fasciitis. Caused by too much too soon.\n\n(Source: FM 7-22, Ch 9, para 9-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 112,
+      "source_para": "Chapter 9, para 9-8"
+    },
+    {
+      "front": "What is the 10% rule for progression?",
+      "back": "Increase training volume (distance, weight, reps) by no more than 10% per week.\n\n(Source: FM 7-22, Ch 3, para 3-7)",
+      "source_doc": "FM 7-22",
+      "source_page": 23,
+      "source_para": "Chapter 3, para 3-7"
+    },
+    {
+      "front": "What is the Shoulder Stability Drill?",
+      "back": "I-Raise, T-Raise, Y-Raise. Develops shoulder stability and prevents injury.\n\n(Source: FM 7-22, Ch 6, para 6-24)",
+      "source_doc": "FM 7-22",
+      "source_page": 67,
+      "source_para": "Chapter 6, para 6-24"
+    },
+    {
+      "front": "What is the purpose of the Preparation Drill?",
+      "back": "Warm up muscles, increase heart rate, improve flexibility before main activity.\n\n(Source: FM 7-22, Ch 5, para 5-5)",
+      "source_doc": "FM 7-22",
+      "source_page": 43,
+      "source_para": "Chapter 5, para 5-5"
+    },
+    {
+      "front": "What is the purpose of the Recovery Drill?",
+      "back": "Cool down, reduce muscle soreness, improve flexibility, promote recovery.\n\n(Source: FM 7-22, Ch 5, para 5-12)",
+      "source_doc": "FM 7-22",
+      "source_page": 48,
+      "source_para": "Chapter 5, para 5-12"
+    },
+    {
+      "front": "What is dynamic stretching?",
+      "back": "Active movements that stretch muscles through their range of motion. Used in warm-up.\n\n(Source: FM 7-22, Ch 5, para 5-6)",
+      "source_doc": "FM 7-22",
+      "source_page": 44,
+      "source_para": "Chapter 5, para 5-6"
+    },
+    {
+      "front": "What is static stretching?",
+      "back": "Holding a stretch position for 20-30 seconds. Used in cool-down, not warm-up.\n\n(Source: FM 7-22, Ch 5, para 5-14)",
+      "source_doc": "FM 7-22",
+      "source_page": 49,
+      "source_para": "Chapter 5, para 5-14"
+    },
+    {
+      "front": "What is the H2F System?",
+      "back": "Holistic Health and Fitness - comprehensive system addressing physical, mental, spiritual, nutritional, and sleep readiness.\n\n(Source: FM 7-22, Ch 1, para 1-2)",
+      "source_doc": "FM 7-22",
+      "source_page": 2,
+      "source_para": "Chapter 1, para 1-2"
+    },
+    {
+      "front": "What does the H2F Performance Team include?",
+      "back": "Strength and conditioning coaches, physical therapists, dietitians, mental performance specialists, athletic trainers.\n\n(Source: FM 7-22, Ch 2, para 2-5)",
+      "source_doc": "FM 7-22",
+      "source_page": 15,
+      "source_para": "Chapter 2, para 2-5"
+    },
+    {
+      "front": "What is the goal of the Initial Conditioning Phase?",
+      "back": "Build foundation of fitness during BCT/IET. Prepare body for more intense training.\n\n(Source: FM 7-22, Ch 4, para 4-3)",
+      "source_doc": "FM 7-22",
+      "source_page": 36,
+      "source_para": "Chapter 4, para 4-3"
+    },
+    {
+      "front": "What is the goal of the Toughening Phase?",
+      "back": "Develop combat fitness during later BCT/AIT. Increase intensity and complexity.\n\n(Source: FM 7-22, Ch 4, para 4-4)",
+      "source_doc": "FM 7-22",
+      "source_page": 37,
+      "source_para": "Chapter 4, para 4-4"
+    },
+    {
+      "front": "What is the goal of the Sustaining Phase?",
+      "back": "Maintain and improve fitness at unit level. Continue professional development.\n\n(Source: FM 7-22, Ch 4, para 4-5)",
+      "source_doc": "FM 7-22",
+      "source_page": 38,
+      "source_para": "Chapter 4, para 4-5"
+    },
+    {
+      "front": "How should PRT be scheduled in a training week?",
+      "back": "3-5 sessions per week, allowing 48 hours between intense sessions for the same muscle groups.\n\n(Source: FM 7-22, Ch 4, para 4-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 40,
+      "source_para": "Chapter 4, para 4-8"
+    },
+    {
+      "front": "What is periodization?",
+      "back": "Systematic variation of training to prevent plateaus and optimize performance over time.\n\n(Source: FM 7-22, Ch 3, para 3-20)",
+      "source_doc": "FM 7-22",
+      "source_page": 30,
+      "source_para": "Chapter 3, para 3-20"
+    },
+    {
+      "front": "What are macrocycles, mesocycles, and microcycles?",
+      "back": "Macrocycle = year, Mesocycle = 3-4 weeks, Microcycle = 1 week. Training planning periods.\n\n(Source: FM 7-22, Ch 3, para 3-21)",
+      "source_doc": "FM 7-22",
+      "source_page": 31,
+      "source_para": "Chapter 3, para 3-21"
+    }
+  ]
+}

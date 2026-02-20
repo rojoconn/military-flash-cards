@@ -1,0 +1,660 @@
+{
+  "deck": {
+    "name": "Combat First Aid & TCCC",
+    "description": "TC 4-02.1 & ATP 4-02.5 - Tactical Combat Casualty Care, MARCH, hemorrhage control, airway, chest injuries, shock, burns, and MEDEVAC",
+    "category": "TC",
+    "subcategory": "Combat Lifesaver"
+  },
+  "metadata": {
+    "publications": ["TC 4-02.1", "ATP 4-02.5"],
+    "title": "First Aid / Tactical Combat Casualty Care",
+    "proponent": "Army Medical Department",
+    "note": "TCCC guidelines updated regularly - verify current guidance"
+  },
+  "cards": [
+    {
+      "front": "What does MARCH stand for?",
+      "back": "Massive hemorrhage, Airway, Respiration, Circulation, Hypothermia/Head injury.\n\n(Source: ATP 4-02.5, Ch 3, para 3-1)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 15,
+      "source_para": "Chapter 3, para 3-1"
+    },
+    {
+      "front": "What are the three phases of TCCC?",
+      "back": "Care Under Fire (CUF), Tactical Field Care (TFC), Tactical Evacuation Care (TACEVAC).\n\n(Source: ATP 4-02.5, Ch 2, para 2-5)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 8,
+      "source_para": "Chapter 2, para 2-5"
+    },
+    {
+      "front": "What is the ONLY intervention during Care Under Fire?",
+      "back": "Stop life-threatening hemorrhage with tourniquet. Return fire and move to cover.\n\n(Source: ATP 4-02.5, Ch 3, para 3-4)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 16,
+      "source_para": "Chapter 3, para 3-4"
+    },
+    {
+      "front": "What is Care Under Fire?",
+      "back": "Care provided while under hostile fire. Limited to hemorrhage control and movement.\n\n(Source: ATP 4-02.5, Ch 2, para 2-6)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 8,
+      "source_para": "Chapter 2, para 2-6"
+    },
+    {
+      "front": "What is Tactical Field Care?",
+      "back": "Care when no longer under direct fire. Allows full MARCH assessment and treatment.\n\n(Source: ATP 4-02.5, Ch 4, para 4-1)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 35,
+      "source_para": "Chapter 4, para 4-1"
+    },
+    {
+      "front": "What is TACEVAC?",
+      "back": "Tactical Evacuation Care - care provided during casualty transport to higher level.\n\n(Source: ATP 4-02.5, Ch 5, para 5-1)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 45,
+      "source_para": "Chapter 5, para 5-1"
+    },
+    {
+      "front": "Where should a tourniquet be placed?",
+      "back": "HIGH and TIGHT - 2-3 inches above the wound, over clothing if necessary.\n\n(Source: TC 4-02.1, Ch 2, para 2-15)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 18,
+      "source_para": "Chapter 2, para 2-15"
+    },
+    {
+      "front": "Can a tourniquet be placed over a joint?",
+      "back": "No. Place above the joint if wound is near it.\n\n(Source: TC 4-02.1, Ch 2, para 2-15)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 18,
+      "source_para": "Chapter 2, para 2-15"
+    },
+    {
+      "front": "How long can a tourniquet remain in place?",
+      "back": "Up to 2 hours with minimal risk. Do NOT loosen if evacuation delayed beyond 2 hours.\n\n(Source: ATP 4-02.5, Ch 3, para 3-12)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 19,
+      "source_para": "Chapter 3, para 3-12"
+    },
+    {
+      "front": "How do you verify tourniquet is properly applied?",
+      "back": "Bleeding stopped, no distal pulse, time marked on tourniquet or forehead.\n\n(Source: TC 4-02.1, Ch 2, para 2-18)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 19,
+      "source_para": "Chapter 2, para 2-18"
+    },
+    {
+      "front": "What is junctional hemorrhage?",
+      "back": "Bleeding from areas where tourniquets cannot be applied: neck, axilla, groin.\n\n(Source: ATP 4-02.5, Ch 3, para 3-18)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 21,
+      "source_para": "Chapter 3, para 3-18"
+    },
+    {
+      "front": "How do you treat junctional hemorrhage?",
+      "back": "Direct pressure, wound packing with hemostatic gauze, pressure dressing.\n\n(Source: ATP 4-02.5, Ch 3, para 3-18)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 21,
+      "source_para": "Chapter 3, para 3-18"
+    },
+    {
+      "front": "What is Combat Gauze?",
+      "back": "Hemostatic (blood-clotting) gauze for wound packing.\n\n(Source: TC 4-02.1, Ch 2, para 2-24)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 22,
+      "source_para": "Chapter 2, para 2-24"
+    },
+    {
+      "front": "How do you apply hemostatic gauze?",
+      "back": "Pack TIGHTLY into wound on bleeding source, apply pressure 3+ minutes, then pressure dressing.\n\n(Source: TC 4-02.1, Ch 2, para 2-25)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 23,
+      "source_para": "Chapter 2, para 2-25"
+    },
+    {
+      "front": "What is tension pneumothorax?",
+      "back": "Air trapped in chest cavity, compressing lung and heart. Life-threatening emergency.\n\n(Source: ATP 4-02.5, Ch 3, para 3-30)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 27,
+      "source_para": "Chapter 3, para 3-30"
+    },
+    {
+      "front": "What are signs of tension pneumothorax?",
+      "back": "Severe respiratory distress, absent breath sounds on affected side, tracheal deviation, distended neck veins.\n\n(Source: ATP 4-02.5, Ch 3, para 3-31)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 28,
+      "source_para": "Chapter 3, para 3-31"
+    },
+    {
+      "front": "How do you treat tension pneumothorax?",
+      "back": "Needle decompression - 14-gauge needle at 2nd intercostal space midclavicular line.\n\n(Source: ATP 4-02.5, Ch 3, para 3-33)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 29,
+      "source_para": "Chapter 3, para 3-33"
+    },
+    {
+      "front": "Where is needle decompression performed?",
+      "back": "2nd intercostal space midclavicular line OR 5th intercostal space anterior axillary line.\n\n(Source: ATP 4-02.5, Ch 3, para 3-33)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 29,
+      "source_para": "Chapter 3, para 3-33"
+    },
+    {
+      "front": "Why insert needle over TOP of rib?",
+      "back": "To avoid intercostal blood vessels and nerves that run along bottom of ribs.\n\n(Source: ATP 4-02.5, Ch 3, para 3-34)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 29,
+      "source_para": "Chapter 3, para 3-34"
+    },
+    {
+      "front": "What is an open chest wound?",
+      "back": "Penetrating wound allowing air to enter chest cavity (sucking chest wound).\n\n(Source: TC 4-02.1, Ch 2, para 2-40)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 31,
+      "source_para": "Chapter 2, para 2-40"
+    },
+    {
+      "front": "How do you treat an open chest wound?",
+      "back": "Apply vented chest seal. If unavailable, tape occlusive dressing on THREE sides.\n\n(Source: TC 4-02.1, Ch 2, para 2-42)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 32,
+      "source_para": "Chapter 2, para 2-42"
+    },
+    {
+      "front": "What is a vented chest seal?",
+      "back": "Occlusive dressing with one-way valve allowing air out but not in.\n\n(Source: TC 4-02.1, Ch 2, para 2-41)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 31,
+      "source_para": "Chapter 2, para 2-41"
+    },
+    {
+      "front": "Why tape on three sides only?",
+      "back": "Creates flutter valve - air escapes on exhalation, seals on inhalation.\n\n(Source: TC 4-02.1, Ch 2, para 2-42)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 32,
+      "source_para": "Chapter 2, para 2-42"
+    },
+    {
+      "front": "What is the recovery position?",
+      "back": "Unconscious breathing casualty placed on their side to maintain airway.\n\n(Source: TC 4-02.1, Ch 3, para 3-8)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 35,
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "When is the recovery position used?",
+      "back": "Casualty unconscious but breathing, cannot constantly monitor airway, may vomit.\n\n(Source: TC 4-02.1, Ch 3, para 3-8)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 35,
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "What is a nasopharyngeal airway (NPA)?",
+      "back": "Soft rubber tube inserted through nostril to maintain open airway.\n\n(Source: TC 4-02.1, Ch 3, para 3-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 37,
+      "source_para": "Chapter 3, para 3-12"
+    },
+    {
+      "front": "How do you size an NPA?",
+      "back": "Measure from tip of nose to earlobe.\n\n(Source: TC 4-02.1, Ch 3, para 3-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 37,
+      "source_para": "Chapter 3, para 3-12"
+    },
+    {
+      "front": "Which nostril is preferred for NPA insertion?",
+      "back": "RIGHT nostril, bevel toward septum. Use left if resistance.\n\n(Source: TC 4-02.1, Ch 3, para 3-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 37,
+      "source_para": "Chapter 3, para 3-12"
+    },
+    {
+      "front": "When is NPA contraindicated?",
+      "back": "Suspected basal skull fracture (raccoon eyes, Battle's sign, CSF leak).\n\n(Source: TC 4-02.1, Ch 3, para 3-14)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 38,
+      "source_para": "Chapter 3, para 3-14"
+    },
+    {
+      "front": "What is Battle's sign?",
+      "back": "Bruising behind the ear - indicates basal skull fracture.\n\n(Source: TC 4-02.1, Ch 5, para 5-3)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 50,
+      "source_para": "Chapter 5, para 5-3"
+    },
+    {
+      "front": "What are raccoon eyes?",
+      "back": "Bruising around both eyes - indicates basal skull fracture.\n\n(Source: TC 4-02.1, Ch 5, para 5-3)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 50,
+      "source_para": "Chapter 5, para 5-3"
+    },
+    {
+      "front": "What are signs of hypovolemic shock?",
+      "back": "Altered mental status, pale/cold/clammy skin, rapid weak pulse, rapid shallow breathing.\n\n(Source: TC 4-02.1, Ch 4, para 4-6)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 42,
+      "source_para": "Chapter 4, para 4-6"
+    },
+    {
+      "front": "What is delayed capillary refill?",
+      "back": "More than 2 seconds for color to return after pressing fingernail - sign of shock.\n\n(Source: TC 4-02.1, Ch 4, para 4-7)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 43,
+      "source_para": "Chapter 4, para 4-7"
+    },
+    {
+      "front": "How do you treat shock in the field?",
+      "back": "Control bleeding, position flat, prevent heat loss, IV/IO fluids if trained, do NOT give oral fluids.\n\n(Source: TC 4-02.1, Ch 4, para 4-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 45,
+      "source_para": "Chapter 4, para 4-12"
+    },
+    {
+      "front": "Why prevent heat loss in shock?",
+      "back": "Hypothermia worsens blood clotting and cardiac function - part of lethal triad.\n\n(Source: TC 4-02.1, Ch 4, para 4-10)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 44,
+      "source_para": "Chapter 4, para 4-10"
+    },
+    {
+      "front": "What is the lethal triad of trauma?",
+      "back": "Hypothermia, Acidosis, Coagulopathy - each worsens the others.\n\n(Source: ATP 4-02.5, Ch 3, para 3-45)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 34,
+      "source_para": "Chapter 3, para 3-45"
+    },
+    {
+      "front": "What are the triage categories?",
+      "back": "IMMEDIATE (Red/T1), DELAYED (Yellow/T2), MINIMAL (Green/T3), EXPECTANT (Black/T4).\n\n(Source: ATP 4-02.5, Ch 5, para 5-8)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 48,
+      "source_para": "Chapter 5, para 5-8"
+    },
+    {
+      "front": "What is IMMEDIATE (Red/T1) triage?",
+      "back": "Life-threatening injury requiring immediate intervention to survive.\n\n(Source: ATP 4-02.5, Ch 5, para 5-9)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 48,
+      "source_para": "Chapter 5, para 5-9"
+    },
+    {
+      "front": "What is DELAYED (Yellow/T2) triage?",
+      "back": "Serious injury but can wait for treatment without immediate death.\n\n(Source: ATP 4-02.5, Ch 5, para 5-10)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 48,
+      "source_para": "Chapter 5, para 5-10"
+    },
+    {
+      "front": "What is MINIMAL (Green/T3) triage?",
+      "back": "Minor injuries - \"walking wounded.\"\n\n(Source: ATP 4-02.5, Ch 5, para 5-11)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 49,
+      "source_para": "Chapter 5, para 5-11"
+    },
+    {
+      "front": "What is EXPECTANT (Black/T4) triage?",
+      "back": "Unlikely to survive given available resources.\n\n(Source: ATP 4-02.5, Ch 5, para 5-12)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 49,
+      "source_para": "Chapter 5, para 5-12"
+    },
+    {
+      "front": "What is Line 1 of the MEDEVAC 9-line?",
+      "back": "Grid location of pickup site.\n\n(Source: ATP 4-02.5, Ch 6, para 6-4)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 54,
+      "source_para": "Chapter 6, para 6-4"
+    },
+    {
+      "front": "What is Line 2 of the MEDEVAC 9-line?",
+      "back": "Radio frequency and call sign.\n\n(Source: ATP 4-02.5, Ch 6, para 6-4)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 54,
+      "source_para": "Chapter 6, para 6-4"
+    },
+    {
+      "front": "What is Line 3 of the MEDEVAC 9-line?",
+      "back": "Number of patients by precedence (A, B, C, D, E).\n\n(Source: ATP 4-02.5, Ch 6, para 6-4)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 54,
+      "source_para": "Chapter 6, para 6-4"
+    },
+    {
+      "front": "What is Line 4 of the MEDEVAC 9-line?",
+      "back": "Special equipment required.\n\n(Source: ATP 4-02.5, Ch 6, para 6-4)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 54,
+      "source_para": "Chapter 6, para 6-4"
+    },
+    {
+      "front": "What is Line 5 of the MEDEVAC 9-line?",
+      "back": "Number of patients by type (litter/ambulatory).\n\n(Source: ATP 4-02.5, Ch 6, para 6-4)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 54,
+      "source_para": "Chapter 6, para 6-4"
+    },
+    {
+      "front": "What is Line 6 of the MEDEVAC 9-line?",
+      "back": "Security of pickup site (N, P, E, X).\n\n(Source: ATP 4-02.5, Ch 6, para 6-4)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 54,
+      "source_para": "Chapter 6, para 6-4"
+    },
+    {
+      "front": "What does N mean in Line 6?",
+      "back": "No enemy troops in area.\n\n(Source: ATP 4-02.5, Ch 6, para 6-10)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 56,
+      "source_para": "Chapter 6, para 6-10"
+    },
+    {
+      "front": "What does P mean in Line 6?",
+      "back": "Possible enemy troops - approach with caution.\n\n(Source: ATP 4-02.5, Ch 6, para 6-10)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 56,
+      "source_para": "Chapter 6, para 6-10"
+    },
+    {
+      "front": "What does E mean in Line 6?",
+      "back": "Enemy troops in area - armed escort required.\n\n(Source: ATP 4-02.5, Ch 6, para 6-10)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 56,
+      "source_para": "Chapter 6, para 6-10"
+    },
+    {
+      "front": "What does X mean in Line 6?",
+      "back": "Hot LZ - enemy troops, armed escort required.\n\n(Source: ATP 4-02.5, Ch 6, para 6-10)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 56,
+      "source_para": "Chapter 6, para 6-10"
+    },
+    {
+      "front": "What is URGENT precedence?",
+      "back": "Within 2 hours to save life, limb, or eyesight.\n\n(Source: ATP 4-02.5, Ch 6, para 6-6)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 55,
+      "source_para": "Chapter 6, para 6-6"
+    },
+    {
+      "front": "What is PRIORITY precedence?",
+      "back": "Within 4 hours - prevents deterioration.\n\n(Source: ATP 4-02.5, Ch 6, para 6-6)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 55,
+      "source_para": "Chapter 6, para 6-6"
+    },
+    {
+      "front": "What is ROUTINE precedence?",
+      "back": "Within 24 hours - no deterioration expected.\n\n(Source: ATP 4-02.5, Ch 6, para 6-6)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 55,
+      "source_para": "Chapter 6, para 6-6"
+    },
+    {
+      "front": "What is the Rule of Nines for burns?",
+      "back": "Head 9%, each arm 9%, chest 9%, abdomen 9%, back 18%, each leg 18%, groin 1%.\n\n(Source: TC 4-02.1, Ch 6, para 6-8)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 60,
+      "source_para": "Chapter 6, para 6-8"
+    },
+    {
+      "front": "How do you treat a burn casualty?",
+      "back": "Stop burning, remove jewelry, cover with DRY sterile dressing, prevent hypothermia.\n\n(Source: TC 4-02.1, Ch 6, para 6-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 62,
+      "source_para": "Chapter 6, para 6-12"
+    },
+    {
+      "front": "Why NOT use wet dressings on large burns?",
+      "back": "Risk of hypothermia - large wet area rapidly cools the body.\n\n(Source: TC 4-02.1, Ch 6, para 6-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 62,
+      "source_para": "Chapter 6, para 6-12"
+    },
+    {
+      "front": "Should you pop burn blisters?",
+      "back": "No - blisters protect underlying tissue from infection.\n\n(Source: TC 4-02.1, Ch 6, para 6-13)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 63,
+      "source_para": "Chapter 6, para 6-13"
+    },
+    {
+      "front": "What are signs of heat stroke?",
+      "back": "Temperature >104°F, hot/dry skin, altered mental status, rapid pulse.\n\n(Source: TC 4-02.1, Ch 7, para 7-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 72,
+      "source_para": "Chapter 7, para 7-12"
+    },
+    {
+      "front": "How do you treat heat stroke?",
+      "back": "Move to shade, remove clothing, cool rapidly (ice packs to neck/armpits/groin), URGENT evacuation.\n\n(Source: TC 4-02.1, Ch 7, para 7-14)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 73,
+      "source_para": "Chapter 7, para 7-14"
+    },
+    {
+      "front": "What are the stages of hypothermia?",
+      "back": "Mild (90-95°F): shivering. Moderate (82-90°F): confusion, stops shivering. Severe (<82°F): unconscious.\n\n(Source: TC 4-02.1, Ch 7, para 7-22)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 76,
+      "source_para": "Chapter 7, para 7-22"
+    },
+    {
+      "front": "Why handle hypothermia casualty GENTLY?",
+      "back": "Cold heart is irritable - rough handling can cause cardiac arrest.\n\n(Source: TC 4-02.1, Ch 7, para 7-25)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 78,
+      "source_para": "Chapter 7, para 7-25"
+    },
+    {
+      "front": "How do you treat hypothermia?",
+      "back": "Remove wet clothing, insulate from ground, apply heat to torso, give warm drinks if conscious.\n\n(Source: TC 4-02.1, Ch 7, para 7-25)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 78,
+      "source_para": "Chapter 7, para 7-25"
+    },
+    {
+      "front": "How do you treat a suspected fracture?",
+      "back": "Check CSM, splint in position found, include joint above and below, recheck CSM.\n\n(Source: TC 4-02.1, Ch 5, para 5-15)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 55,
+      "source_para": "Chapter 5, para 5-15"
+    },
+    {
+      "front": "What is CSM?",
+      "back": "Circulation, Sensation, Movement - checked before and after splinting.\n\n(Source: TC 4-02.1, Ch 5, para 5-14)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 54,
+      "source_para": "Chapter 5, para 5-14"
+    },
+    {
+      "front": "What does AVPU stand for?",
+      "back": "Alert, Voice responsive, Pain responsive, Unresponsive (neurological status).\n\n(Source: TC 4-02.1, Ch 1, para 1-8)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 6,
+      "source_para": "Chapter 1, para 1-8"
+    },
+    {
+      "front": "What is the leading cause of preventable death on the battlefield?",
+      "back": "Hemorrhage (massive bleeding) - approximately 90% of preventable deaths.\n\n(Source: ATP 4-02.5, Ch 1, para 1-5)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 3,
+      "source_para": "Chapter 1, para 1-5"
+    },
+    {
+      "front": "How do you perform head-tilt chin-lift?",
+      "back": "Hand on forehead tilts head back, fingertips lift chin forward. Opens airway.\n\n(Source: TC 4-02.1, Ch 3, para 3-5)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 34,
+      "source_para": "Chapter 3, para 3-5"
+    },
+    {
+      "front": "When is head-tilt chin-lift contraindicated?",
+      "back": "When cervical spine injury is suspected - use jaw thrust instead.\n\n(Source: TC 4-02.1, Ch 3, para 3-5)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 34,
+      "source_para": "Chapter 3, para 3-5"
+    },
+    {
+      "front": "How do you perform the jaw thrust?",
+      "back": "Kneel above head, place fingers behind jaw angles, push jaw forward while keeping neck straight.\n\n(Source: TC 4-02.1, Ch 3, para 3-7)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 35,
+      "source_para": "Chapter 3, para 3-7"
+    },
+    {
+      "front": "What is normal adult heart rate?",
+      "back": "60-100 beats per minute at rest.\n\n(Source: TC 4-02.1, Ch 1, para 1-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 8,
+      "source_para": "Chapter 1, para 1-12"
+    },
+    {
+      "front": "Where do you check for a radial pulse?",
+      "back": "Inner wrist, below the thumb.\n\n(Source: TC 4-02.1, Ch 1, para 1-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 8,
+      "source_para": "Chapter 1, para 1-12"
+    },
+    {
+      "front": "What is the TCCC Card?",
+      "back": "DD Form 1380 - documents all treatments, vitals, and medications given to casualty.\n\n(Source: ATP 4-02.5, Ch 4, para 4-30)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 46,
+      "source_para": "Chapter 4, para 4-30"
+    },
+    {
+      "front": "What does the TCCC Card document?",
+      "back": "ID, mechanism of injury, treatments, vitals, medications, tourniquet times.\n\n(Source: ATP 4-02.5, Ch 4, para 4-30)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 46,
+      "source_para": "Chapter 4, para 4-30"
+    },
+    {
+      "front": "What is TXA (Tranexamic Acid)?",
+      "back": "Anti-bleeding medication given IV for hemorrhagic shock. Must be given within 3 hours.\n\n(Source: ATP 4-02.5, Ch 4, para 4-20)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 42,
+      "source_para": "Chapter 4, para 4-20"
+    },
+    {
+      "front": "When should tourniquet be converted to pressure dressing?",
+      "back": "ONLY if: not in shock, wound amenable, <2 hours, controlled environment, evacuation not imminent.\n\n(Source: ATP 4-02.5, Ch 4, para 4-8)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 38,
+      "source_para": "Chapter 4, para 4-8"
+    },
+    {
+      "front": "What is the Combat Wound Medication Pack?",
+      "back": "Acetaminophen and Meloxicam for pain management.\n\n(Source: ATP 4-02.5, Ch 4, para 4-25)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 44,
+      "source_para": "Chapter 4, para 4-25"
+    },
+    {
+      "front": "What antibiotic is given for penetrating wounds?",
+      "back": "Moxifloxacin 400mg oral.\n\n(Source: ATP 4-02.5, Ch 4, para 4-26)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 44,
+      "source_para": "Chapter 4, para 4-26"
+    },
+    {
+      "front": "What is the M in MARCH?",
+      "back": "Massive hemorrhage - control life-threatening bleeding FIRST.\n\n(Source: ATP 4-02.5, Ch 3, para 3-5)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 16,
+      "source_para": "Chapter 3, para 3-5"
+    },
+    {
+      "front": "What is the A in MARCH?",
+      "back": "Airway - ensure open airway.\n\n(Source: ATP 4-02.5, Ch 3, para 3-20)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 22,
+      "source_para": "Chapter 3, para 3-20"
+    },
+    {
+      "front": "What is the R in MARCH?",
+      "back": "Respiration - treat chest injuries and breathing problems.\n\n(Source: ATP 4-02.5, Ch 3, para 3-28)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 26,
+      "source_para": "Chapter 3, para 3-28"
+    },
+    {
+      "front": "What is the C in MARCH?",
+      "back": "Circulation - treat shock, establish IV access.\n\n(Source: ATP 4-02.5, Ch 3, para 3-40)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 32,
+      "source_para": "Chapter 3, para 3-40"
+    },
+    {
+      "front": "What is the H in MARCH?",
+      "back": "Hypothermia/Head injury - prevent heat loss, assess neurological status.\n\n(Source: ATP 4-02.5, Ch 3, para 3-45)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 34,
+      "source_para": "Chapter 3, para 3-45"
+    },
+    {
+      "front": "What is the primary survey?",
+      "back": "Rapid assessment: Massive hemorrhage, Airway, Breathing, Circulation, Disability, Exposure.\n\n(Source: ATP 4-02.5, Ch 3, para 3-2)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 16,
+      "source_para": "Chapter 3, para 3-2"
+    },
+    {
+      "front": "What is the CAT tourniquet?",
+      "back": "Combat Application Tourniquet - standard issue extremity tourniquet.\n\n(Source: TC 4-02.1, Ch 2, para 2-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 16,
+      "source_para": "Chapter 2, para 2-12"
+    },
+    {
+      "front": "How do you tighten the CAT tourniquet?",
+      "back": "Pull strap tight, twist windlass until bleeding stops, secure windlass in clip.\n\n(Source: TC 4-02.1, Ch 2, para 2-14)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 17,
+      "source_para": "Chapter 2, para 2-14"
+    },
+    {
+      "front": "What do you write on the tourniquet?",
+      "back": "Time of application (or mark on casualty's forehead).\n\n(Source: TC 4-02.1, Ch 2, para 2-18)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 19,
+      "source_para": "Chapter 2, para 2-18"
+    },
+    {
+      "front": "What is a pressure dressing?",
+      "back": "Bandage wrapped firmly to apply continuous pressure over wound.\n\n(Source: TC 4-02.1, Ch 2, para 2-8)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 14,
+      "source_para": "Chapter 2, para 2-8"
+    },
+    {
+      "front": "How do you treat a spinal injury?",
+      "back": "Do NOT move unless necessary. Stabilize head/neck inline, log roll if needed.\n\n(Source: TC 4-02.1, Ch 5, para 5-8)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 52,
+      "source_para": "Chapter 5, para 5-8"
+    },
+    {
+      "front": "What are signs of closed head injury?",
+      "back": "Altered consciousness, confusion, unequal pupils, CSF leak, nausea/vomiting.\n\n(Source: TC 4-02.1, Ch 5, para 5-3)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 50,
+      "source_para": "Chapter 5, para 5-3"
+    },
+    {
+      "front": "What is the best cooling method for heat stroke?",
+      "back": "Cold water immersion (if available). Otherwise ice packs to neck, armpits, groin.\n\n(Source: TC 4-02.1, Ch 7, para 7-14)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 73,
+      "source_para": "Chapter 7, para 7-14"
+    },
+    {
+      "front": "Can you give oral fluids to a shock casualty?",
+      "back": "No - nothing by mouth. Risk of aspiration if consciousness decreases.\n\n(Source: TC 4-02.1, Ch 4, para 4-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 45,
+      "source_para": "Chapter 4, para 4-12"
+    }
+  ]
+}

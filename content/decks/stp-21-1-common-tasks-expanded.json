@@ -1,0 +1,667 @@
+{
+  "deck": {
+    "name": "Warrior Skills Level 1 - Common Tasks",
+    "description": "STP 21-1-SMCT - Soldier's Manual of Common Tasks covering weapons, navigation, communication, CBRN, and combat skills",
+    "category": "STP",
+    "subcategory": "Common Soldier Skills"
+  },
+  "metadata": {
+    "publication": "STP 21-1-SMCT",
+    "title": "Soldier's Manual of Common Tasks - Warrior Skills Level 1",
+    "date": "September 2017",
+    "proponent": "United States Army Training and Doctrine Command"
+  },
+  "cards": [
+    {
+      "front": "What are the four fundamentals of marksmanship?",
+      "back": "Steady Position, Aim, Breath Control, Trigger Squeeze.\n\n(Source: STP 21-1-SMCT, Task 071-311-2027)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 45,
+      "source_para": "Task 071-311-2027"
+    },
+    {
+      "front": "What are the eight steps in the M4/M16 cycle of function?",
+      "back": "Feeding, Chambering, Locking, Firing, Unlocking, Extracting, Ejecting, Cocking.\n\n(Source: STP 21-1-SMCT, Task 071-311-2025)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 38,
+      "source_para": "Task 071-311-2025"
+    },
+    {
+      "front": "What is the maximum effective range of the M4 (point target)?",
+      "back": "500 meters.\n\n(Source: STP 21-1-SMCT, Task 071-311-2025)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 36,
+      "source_para": "Task 071-311-2025"
+    },
+    {
+      "front": "What is the maximum effective range of the M4 (area target)?",
+      "back": "600 meters.\n\n(Source: STP 21-1-SMCT, Task 071-311-2025)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 36,
+      "source_para": "Task 071-311-2025"
+    },
+    {
+      "front": "What does SPORTS stand for?",
+      "back": "Slap, Pull, Observe, Release, Tap, Squeeze (immediate action for malfunction).\n\n(Source: STP 21-1-SMCT, Task 071-311-2027)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 48,
+      "source_para": "Task 071-311-2027"
+    },
+    {
+      "front": "What are the three types of M4/M16 malfunctions?",
+      "back": "Failure to Feed/Chamber/Lock, Failure to Fire, Failure to Extract/Eject.\n\n(Source: STP 21-1-SMCT, Task 071-311-2027)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 49,
+      "source_para": "Task 071-311-2027"
+    },
+    {
+      "front": "What is the first step in clearing the M4/M16?",
+      "back": "Point the muzzle in a safe direction.\n\n(Source: STP 21-1-SMCT, Task 071-311-2026)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 42,
+      "source_para": "Task 071-311-2026"
+    },
+    {
+      "front": "What is the cyclic rate of fire for the M4/M16?",
+      "back": "700-970 rounds per minute.\n\n(Source: STP 21-1-SMCT, Task 071-311-2025)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 36,
+      "source_para": "Task 071-311-2025"
+    },
+    {
+      "front": "What is MGRS?",
+      "back": "Military Grid Reference System - standard grid reference for military use worldwide.\n\n(Source: STP 21-1-SMCT, Task 071-329-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 125,
+      "source_para": "Task 071-329-1030"
+    },
+    {
+      "front": "How do you read grid coordinates?",
+      "back": "Read RIGHT then UP (easting first, then northing).\n\n(Source: STP 21-1-SMCT, Task 071-329-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 127,
+      "source_para": "Task 071-329-1030"
+    },
+    {
+      "front": "What are the five major terrain features?",
+      "back": "Hill, Ridge, Valley, Saddle, Depression.\n\n(Source: STP 21-1-SMCT, Task 071-329-1006)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 118,
+      "source_para": "Task 071-329-1006"
+    },
+    {
+      "front": "What are the three minor terrain features?",
+      "back": "Draw, Spur, Cliff.\n\n(Source: STP 21-1-SMCT, Task 071-329-1006)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 119,
+      "source_para": "Task 071-329-1006"
+    },
+    {
+      "front": "What are the two supplementary terrain features?",
+      "back": "Cut and Fill (man-made features).\n\n(Source: STP 21-1-SMCT, Task 071-329-1006)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 119,
+      "source_para": "Task 071-329-1006"
+    },
+    {
+      "front": "How do you identify a hill on a map?",
+      "back": "Contours form closed circles with higher elevation in center.\n\n(Source: STP 21-1-SMCT, Task 071-329-1006)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 118,
+      "source_para": "Task 071-329-1006"
+    },
+    {
+      "front": "How do you identify a depression on a map?",
+      "back": "Contours form closed circles with tick marks pointing inward (downhill).\n\n(Source: STP 21-1-SMCT, Task 071-329-1006)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 118,
+      "source_para": "Task 071-329-1006"
+    },
+    {
+      "front": "How do you identify a saddle on a map?",
+      "back": "Low point between two high points - hourglass shape in contours.\n\n(Source: STP 21-1-SMCT, Task 071-329-1006)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 118,
+      "source_para": "Task 071-329-1006"
+    },
+    {
+      "front": "What is a back azimuth?",
+      "back": "Opposite direction of an azimuth. Add 180° if <180°, subtract 180° if ≥180°.\n\n(Source: STP 21-1-SMCT, Task 071-329-1008)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 122,
+      "source_para": "Task 071-329-1008"
+    },
+    {
+      "front": "What is declination?",
+      "back": "The angular difference between true north and magnetic north.\n\n(Source: STP 21-1-SMCT, Task 071-329-1012)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 130,
+      "source_para": "Task 071-329-1012"
+    },
+    {
+      "front": "How do you convert magnetic to grid azimuth (East G-M angle)?",
+      "back": "Subtract the G-M angle. Memory aid: \"East is Least.\"\n\n(Source: STP 21-1-SMCT, Task 071-329-1012)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 131,
+      "source_para": "Task 071-329-1012"
+    },
+    {
+      "front": "How do you convert magnetic to grid azimuth (West G-M angle)?",
+      "back": "Add the G-M angle. Memory aid: \"West is Best.\"\n\n(Source: STP 21-1-SMCT, Task 071-329-1012)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 131,
+      "source_para": "Task 071-329-1012"
+    },
+    {
+      "front": "What color represents water features on a map?",
+      "back": "Blue - lakes, rivers, swamps.\n\n(Source: STP 21-1-SMCT, Task 071-329-1002)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 112,
+      "source_para": "Task 071-329-1002"
+    },
+    {
+      "front": "What color represents contour lines on a map?",
+      "back": "Brown - elevation and relief.\n\n(Source: STP 21-1-SMCT, Task 071-329-1002)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 112,
+      "source_para": "Task 071-329-1002"
+    },
+    {
+      "front": "What color represents vegetation on a map?",
+      "back": "Green - woods, orchards, vineyards.\n\n(Source: STP 21-1-SMCT, Task 071-329-1002)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 112,
+      "source_para": "Task 071-329-1002"
+    },
+    {
+      "front": "What color represents man-made features on a map?",
+      "back": "Black - buildings, roads, boundaries.\n\n(Source: STP 21-1-SMCT, Task 071-329-1002)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 112,
+      "source_para": "Task 071-329-1002"
+    },
+    {
+      "front": "What is the scale of a 1:50,000 map?",
+      "back": "1 inch = 50,000 inches (~0.8 miles). 1 grid square = 1 km.\n\n(Source: STP 21-1-SMCT, Task 071-329-1002)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 111,
+      "source_para": "Task 071-329-1002"
+    },
+    {
+      "front": "What is the phonetic alphabet for A-E?",
+      "back": "Alpha, Bravo, Charlie, Delta, Echo.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 85,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What is the phonetic alphabet for F-J?",
+      "back": "Foxtrot, Golf, Hotel, India, Juliet.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 85,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What is the phonetic alphabet for K-O?",
+      "back": "Kilo, Lima, Mike, November, Oscar.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 85,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What is the phonetic alphabet for P-T?",
+      "back": "Papa, Quebec, Romeo, Sierra, Tango.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 85,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What is the phonetic alphabet for U-Z?",
+      "back": "Uniform, Victor, Whiskey, X-Ray, Yankee, Zulu.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 85,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What does OVER mean in radio communication?",
+      "back": "End of my transmission, I expect a response.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 87,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What does OUT mean in radio communication?",
+      "back": "End of my transmission, no response expected.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 87,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What does ROGER mean?",
+      "back": "I received your last transmission satisfactorily.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 87,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What does WILCO mean?",
+      "back": "I have received, understand, and will comply.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 87,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "Why should you never say 'OVER and OUT'?",
+      "back": "OVER means expecting a reply, OUT means no reply - contradictory.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 87,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What does SALUTE stand for?",
+      "back": "Size, Activity, Location, Unit, Time, Equipment (enemy reporting).\n\n(Source: STP 21-1-SMCT, Task 071-326-0500)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 172,
+      "source_para": "Task 071-326-0500"
+    },
+    {
+      "front": "What is the S in SALUTE?",
+      "back": "Size - number of personnel and vehicles observed.\n\n(Source: STP 21-1-SMCT, Task 071-326-0500)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 172,
+      "source_para": "Task 071-326-0500"
+    },
+    {
+      "front": "What is the L in SALUTE?",
+      "back": "Location - grid coordinates where enemy observed.\n\n(Source: STP 21-1-SMCT, Task 071-326-0500)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 172,
+      "source_para": "Task 071-326-0500"
+    },
+    {
+      "front": "What are the five protective actions for CBRN?",
+      "back": "STOP breathing, DON mask, GIVE alarm, TAKE cover, DECONTAMINATE.\n\n(Source: STP 21-1-SMCT, Task 031-503-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 152,
+      "source_para": "Task 031-503-1030"
+    },
+    {
+      "front": "What are the MOPP levels?",
+      "back": "MOPP 0-4: 0=gear available, 1=overgarment, 2=add boots, 3=add mask, 4=add gloves.\n\n(Source: STP 21-1-SMCT, Task 031-503-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 154,
+      "source_para": "Task 031-503-1030"
+    },
+    {
+      "front": "What is MOPP 4?",
+      "back": "Full protection - overgarment, boots, mask, hood, and gloves.\n\n(Source: STP 21-1-SMCT, Task 031-503-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 154,
+      "source_para": "Task 031-503-1030"
+    },
+    {
+      "front": "What is the time standard for donning the protective mask?",
+      "back": "9 seconds.\n\n(Source: STP 21-1-SMCT, Task 031-503-1012)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 148,
+      "source_para": "Task 031-503-1012"
+    },
+    {
+      "front": "How do you clear the protective mask after donning?",
+      "back": "Cover outlet valve, blow hard to force contaminated air out.\n\n(Source: STP 21-1-SMCT, Task 031-503-1012)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 148,
+      "source_para": "Task 031-503-1012"
+    },
+    {
+      "front": "How do you check the mask seal?",
+      "back": "Cover inlet valve(s), inhale - mask should collapse and hold.\n\n(Source: STP 21-1-SMCT, Task 031-503-1012)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 148,
+      "source_para": "Task 031-503-1012"
+    },
+    {
+      "front": "What is the M67 fragmentation grenade killing radius?",
+      "back": "5 meters.\n\n(Source: STP 21-1-SMCT, Task 071-311-2107)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 62,
+      "source_para": "Task 071-311-2107"
+    },
+    {
+      "front": "What is the M67 fragmentation grenade casualty radius?",
+      "back": "15 meters.\n\n(Source: STP 21-1-SMCT, Task 071-311-2107)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 62,
+      "source_para": "Task 071-311-2107"
+    },
+    {
+      "front": "What is the M67 grenade fuze delay?",
+      "back": "4-5 seconds.\n\n(Source: STP 21-1-SMCT, Task 071-311-2107)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 61,
+      "source_para": "Task 071-311-2107"
+    },
+    {
+      "front": "What is the average throwing distance for the M67 grenade?",
+      "back": "30-35 meters.\n\n(Source: STP 21-1-SMCT, Task 071-311-2107)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 62,
+      "source_para": "Task 071-311-2107"
+    },
+    {
+      "front": "What color is the M67 fragmentation grenade?",
+      "back": "Olive drab with yellow markings.\n\n(Source: STP 21-1-SMCT, Task 071-311-2107)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 61,
+      "source_para": "Task 071-311-2107"
+    },
+    {
+      "front": "What is the weight of the M67 grenade?",
+      "back": "14 oz (400g).\n\n(Source: STP 21-1-SMCT, Task 071-311-2107)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 61,
+      "source_para": "Task 071-311-2107"
+    },
+    {
+      "front": "What are the three individual movement techniques?",
+      "back": "Low Crawl, High Crawl, and 3-5 Second Rush.\n\n(Source: STP 21-1-SMCT, Task 071-326-0513)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 180,
+      "source_para": "Task 071-326-0513"
+    },
+    {
+      "front": "When do you use the Low Crawl?",
+      "back": "Under fire, when very low concealment is available (6-9 inches).\n\n(Source: STP 21-1-SMCT, Task 071-326-0513)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 180,
+      "source_para": "Task 071-326-0513"
+    },
+    {
+      "front": "When do you use the 3-5 Second Rush?",
+      "back": "Short bounds between cover when enemy is aware of you.\n\n(Source: STP 21-1-SMCT, Task 071-326-0513)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 180,
+      "source_para": "Task 071-326-0513"
+    },
+    {
+      "front": "What is the difference between cover and concealment?",
+      "back": "Cover stops bullets (protection from fire). Concealment hides you (protection from observation).\n\n(Source: STP 21-1-SMCT, Task 071-326-0501)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 175,
+      "source_para": "Task 071-326-0501"
+    },
+    {
+      "front": "What provides the best protection?",
+      "back": "Position with both cover AND concealment.\n\n(Source: STP 21-1-SMCT, Task 071-326-0501)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 175,
+      "source_para": "Task 071-326-0501"
+    },
+    {
+      "front": "What is the hand signal for 'Attention'?",
+      "back": "Arm extended overhead, palm forward.\n\n(Source: STP 21-1-SMCT, Task 071-326-0510)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 176,
+      "source_para": "Task 071-326-0510"
+    },
+    {
+      "front": "What is the hand signal for 'Cease Fire'?",
+      "back": "Arm extended, palm down, waving side to side.\n\n(Source: STP 21-1-SMCT, Task 071-326-0510)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 176,
+      "source_para": "Task 071-326-0510"
+    },
+    {
+      "front": "What is the hand signal for 'Enemy in Sight'?",
+      "back": "Arm bent, fist clenched at shoulder.\n\n(Source: STP 21-1-SMCT, Task 071-326-0510)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 176,
+      "source_para": "Task 071-326-0510"
+    },
+    {
+      "front": "What is the hand signal for 'Rally Point'?",
+      "back": "Circling motion above head.\n\n(Source: STP 21-1-SMCT, Task 071-326-0510)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 176,
+      "source_para": "Task 071-326-0510"
+    },
+    {
+      "front": "What is the first action when reacting to contact?",
+      "back": "Return fire immediately (suppress the enemy).\n\n(Source: STP 21-1-SMCT, Task 071-326-0501)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 176,
+      "source_para": "Task 071-326-0501"
+    },
+    {
+      "front": "What is the challenge and password procedure?",
+      "back": "HALT, WHO GOES THERE? → ID → Challenge word → Countersign → Allow passage if correct.\n\n(Source: STP 21-1-SMCT, Task 071-331-0851)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 195,
+      "source_para": "Task 071-331-0851"
+    },
+    {
+      "front": "How do you conduct a radio check?",
+      "back": "\"[Call sign], this is [Your call sign], RADIO CHECK, OVER.\"\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 88,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What is LOUD AND CLEAR in signal strength?",
+      "back": "Transmission received with excellent strength and clarity.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 88,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What is WEAK BUT READABLE?",
+      "back": "Transmission can be understood but signal is weak.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 88,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "How do you transmit numbers over radio?",
+      "back": "Speak each digit separately. Example: 15 = \"ONE FIVE\" not \"fifteen.\"\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 86,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What is the proword for 'I am repeating'?",
+      "back": "I SAY AGAIN.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 87,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What is the proword for 'Please repeat'?",
+      "back": "SAY AGAIN.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 87,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What is the proword for 'Disregard this message'?",
+      "back": "DISREGARD or CANCEL.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 87,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What is the proword for 'I must pause'?",
+      "back": "WAIT or STANDBY.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 87,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What does BREAK mean in radio communication?",
+      "back": "Separates text from other portions of the message.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 87,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What are the marginal information items on a military map?",
+      "back": "Sheet name/number, series/scale, edition/date, contour interval, declination diagram, bar scales, legend, grid reference box.\n\n(Source: STP 21-1-SMCT, Task 071-329-1002)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 110,
+      "source_para": "Task 071-329-1002"
+    },
+    {
+      "front": "What is a contour interval?",
+      "back": "Vertical distance between adjacent contour lines (found in map margin).\n\n(Source: STP 21-1-SMCT, Task 071-329-1002)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 113,
+      "source_para": "Task 071-329-1002"
+    },
+    {
+      "front": "What do closely spaced contour lines indicate?",
+      "back": "Steep slope.\n\n(Source: STP 21-1-SMCT, Task 071-329-1006)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 117,
+      "source_para": "Task 071-329-1006"
+    },
+    {
+      "front": "What do widely spaced contour lines indicate?",
+      "back": "Gentle slope.\n\n(Source: STP 21-1-SMCT, Task 071-329-1006)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 117,
+      "source_para": "Task 071-329-1006"
+    },
+    {
+      "front": "What is the accuracy of a 4-digit grid?",
+      "back": "Within 1,000 meters (1 km).\n\n(Source: STP 21-1-SMCT, Task 071-329-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 126,
+      "source_para": "Task 071-329-1030"
+    },
+    {
+      "front": "What is the accuracy of a 6-digit grid?",
+      "back": "Within 100 meters.\n\n(Source: STP 21-1-SMCT, Task 071-329-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 126,
+      "source_para": "Task 071-329-1030"
+    },
+    {
+      "front": "What is the accuracy of an 8-digit grid?",
+      "back": "Within 10 meters.\n\n(Source: STP 21-1-SMCT, Task 071-329-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 126,
+      "source_para": "Task 071-329-1030"
+    },
+    {
+      "front": "What is the accuracy of a 10-digit grid?",
+      "back": "Within 1 meter.\n\n(Source: STP 21-1-SMCT, Task 071-329-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 126,
+      "source_para": "Task 071-329-1030"
+    },
+    {
+      "front": "What are the parts of a lensatic compass?",
+      "back": "Cover, base, lens, floating dial, bezel ring, sighting wire, luminous markings.\n\n(Source: STP 21-1-SMCT, Task 071-329-1008)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 121,
+      "source_para": "Task 071-329-1008"
+    },
+    {
+      "front": "How many degrees are in a circle/compass?",
+      "back": "360 degrees.\n\n(Source: STP 21-1-SMCT, Task 071-329-1008)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 121,
+      "source_para": "Task 071-329-1008"
+    },
+    {
+      "front": "How many mils are in a circle?",
+      "back": "6400 mils.\n\n(Source: STP 21-1-SMCT, Task 071-329-1008)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 121,
+      "source_para": "Task 071-329-1008"
+    },
+    {
+      "front": "What is an azimuth?",
+      "back": "Direction from one point to another, measured in degrees from north (0-360°).\n\n(Source: STP 21-1-SMCT, Task 071-329-1008)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 121,
+      "source_para": "Task 071-329-1008"
+    },
+    {
+      "front": "What is dead reckoning?",
+      "back": "Navigation by keeping track of direction and distance traveled from known point.\n\n(Source: STP 21-1-SMCT, Task 071-329-1014)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 135,
+      "source_para": "Task 071-329-1014"
+    },
+    {
+      "front": "What is terrain association?",
+      "back": "Navigation using visible terrain features to determine position.\n\n(Source: STP 21-1-SMCT, Task 071-329-1014)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 135,
+      "source_para": "Task 071-329-1014"
+    },
+    {
+      "front": "What is a pace count used for?",
+      "back": "Measuring distance traveled by counting steps.\n\n(Source: STP 21-1-SMCT, Task 071-329-1014)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 136,
+      "source_para": "Task 071-329-1014"
+    },
+    {
+      "front": "What factors affect pace count?",
+      "back": "Terrain, vegetation, slope, fatigue, visibility, load carried.\n\n(Source: STP 21-1-SMCT, Task 071-329-1014)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 136,
+      "source_para": "Task 071-329-1014"
+    },
+    {
+      "front": "What is the definition of a hasty fighting position?",
+      "back": "Quick, temporary position using existing terrain/cover with limited improvement.\n\n(Source: STP 21-1-SMCT, Task 071-326-0511)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 178,
+      "source_para": "Task 071-326-0511"
+    },
+    {
+      "front": "What is a sector of fire?",
+      "back": "Assigned area a weapon system is responsible for covering.\n\n(Source: STP 21-1-SMCT, Task 071-326-0511)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 179,
+      "source_para": "Task 071-326-0511"
+    },
+    {
+      "front": "What is a field of fire?",
+      "back": "Area that a weapon can effectively cover from a given position.\n\n(Source: STP 21-1-SMCT, Task 071-326-0511)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 179,
+      "source_para": "Task 071-326-0511"
+    },
+    {
+      "front": "What makes a good fighting position?",
+      "back": "Cover, concealment, good field of fire, observation, and covered route of withdrawal.\n\n(Source: STP 21-1-SMCT, Task 071-326-0511)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 178,
+      "source_para": "Task 071-326-0511"
+    },
+    {
+      "front": "What does CBRN stand for?",
+      "back": "Chemical, Biological, Radiological, Nuclear.\n\n(Source: STP 21-1-SMCT, Task 031-503-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 150,
+      "source_para": "Task 031-503-1030"
+    },
+    {
+      "front": "What is the vocal alarm for a CBRN attack?",
+      "back": "GAS! GAS! GAS! (shouted three times).\n\n(Source: STP 21-1-SMCT, Task 031-503-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 152,
+      "source_para": "Task 031-503-1030"
+    },
+    {
+      "front": "What direction should you move in a CBRN environment?",
+      "back": "Upwind and uphill from the contamination source.\n\n(Source: STP 21-1-SMCT, Task 031-503-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 153,
+      "source_para": "Task 031-503-1030"
+    }
+  ]
+}
