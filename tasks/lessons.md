@@ -124,3 +124,18 @@
 - Replace placeholder icons/splash screens
 - Avoid trademarked terms (Army, Navy, Marines) without affiliation
 - U.S. Government publications are public domain (17 U.S.C. § 105)
+
+### 2026-02-19 (Phase 1 Content Creation)
+- **Content accuracy:** Always include source citations in answer text (visible during study)
+- **Citation format:** Include publication number, chapter, and paragraph (e.g., "TC 7-21.13, Chapter 2, para 2-1")
+- **Schema enhancement:** Added `source_para` field for paragraph-level citations
+- **Content structure:** Group cards by publication/topic for logical deck organization
+- **Verification:** Source citations enable users to verify accuracy against official publications
+
+### Content Creation Best Practices
+- Use consistent citation format: "(Source: [Pub], [Chapter], para [X])"
+- Include source in both `source_para` field AND answer text for visibility
+- Focus on factual, procedural content (less likely to become outdated)
+- Avoid interpretation - use direct quotes/paraphrasing from source
+- Group 30-50 cards per deck for manageable study sessions
+- Test imports before pushing to production
