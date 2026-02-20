@@ -1,0 +1,296 @@
+{
+  "deck": {
+    "name": "Combat First Aid & TCCC",
+    "description": "Tactical Combat Casualty Care (TCCC) and First Aid based on TC 4-02.1 and ATP 4-02.5 - Life-saving skills for every Soldier",
+    "category": "TC",
+    "subcategory": "Combat Lifesaver"
+  },
+  "metadata": {
+    "publications": ["TC 4-02.1", "ATP 4-02.5"],
+    "title": "First Aid / Tactical Combat Casualty Care",
+    "proponent": "Army Medical Department",
+    "note": "TCCC guidelines updated regularly - verify current guidance"
+  },
+  "cards": [
+    {
+      "front": "What does MARCH stand for in Tactical Combat Casualty Care?",
+      "back": "M - Massive hemorrhage\nA - Airway\nR - Respiration\nC - Circulation\nH - Hypothermia/Head injury\n\nMARCH represents the priority of treatment in tactical environments.\n\n(Source: ATP 4-02.5, Chapter 3, para 3-1)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 15,
+      "source_para": "Chapter 3, para 3-1"
+    },
+    {
+      "front": "What are the three phases of Tactical Combat Casualty Care (TCCC)?",
+      "back": "1. Care Under Fire (CUF) - Care provided while under hostile fire\n2. Tactical Field Care (TFC) - Care when no longer under direct fire\n3. Tactical Evacuation Care (TACEVAC) - Care during casualty evacuation\n\n(Source: ATP 4-02.5, Chapter 2, para 2-5)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 8,
+      "source_para": "Chapter 2, para 2-5"
+    },
+    {
+      "front": "What is the ONLY medical intervention performed during Care Under Fire?",
+      "back": "Stop life-threatening hemorrhage with a tourniquet (self-aid or buddy-aid). Return fire and move to cover. All other care is delayed until the threat is neutralized.\n\n(Source: ATP 4-02.5, Chapter 3, para 3-4)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 16,
+      "source_para": "Chapter 3, para 3-4"
+    },
+    {
+      "front": "Where should a tourniquet be placed for a limb wound?",
+      "back": "Place the tourniquet HIGH and TIGHT - 2-3 inches above the wound, over clothing if necessary. For wounds near a joint, place the tourniquet above the joint. Never place a tourniquet over a joint.\n\n(Source: TC 4-02.1, Chapter 2, para 2-15)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 18,
+      "source_para": "Chapter 2, para 2-15"
+    },
+    {
+      "front": "What is the maximum time a tourniquet can remain in place?",
+      "back": "Tourniquets can remain in place for up to 2 hours with minimal risk. If evacuation is delayed beyond 2 hours, do NOT loosen or remove the tourniquet - the risk of death from hemorrhage outweighs limb loss.\n\n(Source: ATP 4-02.5, Chapter 3, para 3-12)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 19,
+      "source_para": "Chapter 3, para 3-12"
+    },
+    {
+      "front": "How do you verify a tourniquet is properly applied?",
+      "back": "1. Bleeding has stopped\n2. Distal pulse is absent (no pulse below the tourniquet)\n3. Time of application is marked on the tourniquet or casualty's forehead\n\n(Source: TC 4-02.1, Chapter 2, para 2-18)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 19,
+      "source_para": "Chapter 2, para 2-18"
+    },
+    {
+      "front": "What is a junctional hemorrhage and how is it treated?",
+      "back": "Junctional hemorrhage is bleeding from areas where tourniquets cannot be applied: neck, axilla (armpit), and groin. Treatment:\n- Apply direct pressure\n- Pack wound with hemostatic gauze (Combat Gauze)\n- Apply pressure dressing\n- Consider junctional tourniquet device if available\n\n(Source: ATP 4-02.5, Chapter 3, para 3-18)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 21,
+      "source_para": "Chapter 3, para 3-18"
+    },
+    {
+      "front": "How do you apply hemostatic gauze (Combat Gauze) to a wound?",
+      "back": "1. Expose the wound\n2. Remove excess blood\n3. Pack gauze TIGHTLY into wound, directly on the bleeding source\n4. Apply continuous direct pressure for minimum 3 minutes\n5. Apply pressure dressing\n\n(Source: TC 4-02.1, Chapter 2, para 2-25)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 23,
+      "source_para": "Chapter 2, para 2-25"
+    },
+    {
+      "front": "What are the signs and symptoms of tension pneumothorax?",
+      "back": "- Severe and progressive respiratory distress\n- Decreased or absent breath sounds on affected side\n- Tracheal deviation (late sign) - trachea shifts AWAY from affected side\n- Distended neck veins (jugular venous distension)\n- Hypotension/shock\n- Cyanosis (late sign)\n\n(Source: ATP 4-02.5, Chapter 3, para 3-31)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 28,
+      "source_para": "Chapter 3, para 3-31"
+    },
+    {
+      "front": "How do you treat a suspected tension pneumothorax?",
+      "back": "Perform needle decompression (chest needle):\n1. Identify 2nd intercostal space, midclavicular line (preferred) OR\n2. 5th intercostal space, anterior axillary line\n3. Insert 14-gauge needle (3.25\") perpendicular to chest wall\n4. Insert over the TOP of the rib to avoid intercostal vessels\n5. A rush of air confirms tension pneumothorax\n\n(Source: ATP 4-02.5, Chapter 3, para 3-33)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 29,
+      "source_para": "Chapter 3, para 3-33"
+    },
+    {
+      "front": "What is the treatment for an open chest wound (sucking chest wound)?",
+      "back": "1. Apply a vented chest seal over the wound\n2. If no vented seal available, apply occlusive dressing taped on THREE sides (flutter valve)\n3. Monitor for development of tension pneumothorax\n4. If respiratory distress worsens, \"burp\" the seal or perform needle decompression\n\n(Source: TC 4-02.1, Chapter 2, para 2-42)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 32,
+      "source_para": "Chapter 2, para 2-42"
+    },
+    {
+      "front": "What is the recovery position and when is it used?",
+      "back": "The recovery position places an unconscious breathing casualty on their side to maintain an open airway and prevent aspiration. Used when:\n- Casualty is unconscious but breathing\n- You cannot maintain constant airway monitoring\n- Casualty may vomit\n\nPlace casualty on their SIDE with head supported, jaw forward.\n\n(Source: TC 4-02.1, Chapter 3, para 3-8)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 35,
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "What is the nasopharyngeal airway (NPA) and how is it inserted?",
+      "back": "The NPA is a soft rubber tube inserted through the nostril to maintain an open airway. Insertion:\n1. Select proper size (tip of nose to earlobe)\n2. Lubricate with water-based lubricant\n3. Insert in RIGHT nostril, bevel toward septum\n4. Advance gently along floor of nasal passage\n5. If resistance, try LEFT nostril\n\n(Source: TC 4-02.1, Chapter 3, para 3-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 37,
+      "source_para": "Chapter 3, para 3-12"
+    },
+    {
+      "front": "When is a nasopharyngeal airway contraindicated?",
+      "back": "NPA is contraindicated when:\n- Suspected basal skull fracture (raccoon eyes, Battle's sign, CSF from ears/nose)\n- Severe facial trauma involving the nose\n- Blood clots or foreign body in nasal passage\n\n(Source: TC 4-02.1, Chapter 3, para 3-14)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 38,
+      "source_para": "Chapter 3, para 3-14"
+    },
+    {
+      "front": "What are the signs and symptoms of shock (hypovolemic)?",
+      "back": "- Altered mental status (restlessness, confusion, anxiety)\n- Pale, cold, clammy skin\n- Rapid, weak pulse (>100 bpm)\n- Rapid, shallow breathing\n- Delayed capillary refill (>2 seconds)\n- Decreased urine output\n- Thirst\n- Hypotension (late sign)\n\n(Source: TC 4-02.1, Chapter 4, para 4-6)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 42,
+      "source_para": "Chapter 4, para 4-6"
+    },
+    {
+      "front": "How do you treat shock in the field?",
+      "back": "1. Control bleeding (MARCH priorities)\n2. Position casualty flat (elevate legs only if no spine/head injury)\n3. Prevent heat loss - insulate from ground, cover with blanket\n4. Establish IV/IO access and administer fluids if trained\n5. Do NOT give food or water by mouth\n6. Reassess frequently\n7. Evacuate URGENTLY\n\n(Source: TC 4-02.1, Chapter 4, para 4-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 45,
+      "source_para": "Chapter 4, para 4-12"
+    },
+    {
+      "front": "What are the triage categories and their colors?",
+      "back": "IMMEDIATE (Red/T1) - Life-threatening, requires immediate intervention\nDELAYED (Yellow/T2) - Serious but can wait for treatment\nMINIMAL (Green/T3) - Minor injuries, \"walking wounded\"\nEXPECTANT (Black/T4) - Unlikely to survive given available resources\n\n(Source: ATP 4-02.5, Chapter 5, para 5-8)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 48,
+      "source_para": "Chapter 5, para 5-8"
+    },
+    {
+      "front": "What are the nine-line MEDEVAC request line items?",
+      "back": "Line 1: Grid location of pickup site\nLine 2: Radio frequency and call sign\nLine 3: Number of patients by precedence\nLine 4: Special equipment required\nLine 5: Number of patients by type (litter/ambulatory)\nLine 6: Security of pickup site (N/P/E/X)\nLine 7: Method of marking pickup site\nLine 8: Patient nationality and status\nLine 9: NBC contamination (if applicable)\n\n(Source: ATP 4-02.5, Chapter 6, para 6-4)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 54,
+      "source_para": "Chapter 6, para 6-4"
+    },
+    {
+      "front": "What are the MEDEVAC precedence categories (Line 3)?",
+      "back": "URGENT (A) - Within 2 hours to save life, limb, or eyesight\nURGENT SURGICAL (B) - Within 2 hours, requires surgical intervention\nPRIORITY (C) - Within 4 hours, prevents deterioration\nROUTINE (D) - Within 24 hours, no deterioration expected\nCONVENIENCE (E) - When convenient, minor injuries\n\n(Source: ATP 4-02.5, Chapter 6, para 6-6)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 55,
+      "source_para": "Chapter 6, para 6-6"
+    },
+    {
+      "front": "What does Line 6 (Security) of the 9-line MEDEVAC mean?",
+      "back": "N - No enemy troops in area\nP - Possible enemy troops in area (approach with caution)\nE - Enemy troops in area (approach with caution, armed escort required)\nX - Hot LZ, enemy troops in area (armed escort required)\n\n(Source: ATP 4-02.5, Chapter 6, para 6-10)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 56,
+      "source_para": "Chapter 6, para 6-10"
+    },
+    {
+      "front": "How do you check for a radial pulse?",
+      "back": "1. Place index and middle fingers on the inner wrist, below the thumb\n2. Press lightly against the radial artery\n3. Count beats for 15 seconds and multiply by 4\n4. Note rhythm (regular/irregular) and strength (strong/weak)\n\nNormal adult: 60-100 bpm at rest\n\n(Source: TC 4-02.1, Chapter 1, para 1-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 8,
+      "source_para": "Chapter 1, para 1-12"
+    },
+    {
+      "front": "What is the treatment for a suspected spinal injury?",
+      "back": "1. Do NOT move the casualty unless absolutely necessary\n2. Stabilize head and neck in neutral position (inline stabilization)\n3. Log roll only when necessary (requires 3-4 rescuers)\n4. Apply cervical collar if available\n5. Secure to backboard for transport\n6. Reassess neurological status frequently\n\n(Source: TC 4-02.1, Chapter 5, para 5-8)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 52,
+      "source_para": "Chapter 5, para 5-8"
+    },
+    {
+      "front": "How do you treat a burn casualty?",
+      "back": "1. Stop the burning process (remove from source, smother flames)\n2. Remove jewelry and non-adhered clothing\n3. Cover burns with dry, sterile dressing (do NOT use wet dressings for large burns - hypothermia risk)\n4. Prevent hypothermia\n5. Administer pain medication if available\n6. IV fluids for burns >20% BSA\n7. Do NOT pop blisters\n\n(Source: TC 4-02.1, Chapter 6, para 6-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 62,
+      "source_para": "Chapter 6, para 6-12"
+    },
+    {
+      "front": "What is the Rule of Nines for estimating burn surface area?",
+      "back": "Head & Neck: 9%\nEach arm: 9%\nChest (front): 9%\nAbdomen (front): 9%\nUpper back: 9%\nLower back: 9%\nEach leg (front): 9%\nEach leg (back): 9%\nGroin: 1%\n\nTotal: 100%\n\n(Source: TC 4-02.1, Chapter 6, para 6-8)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 60,
+      "source_para": "Chapter 6, para 6-8"
+    },
+    {
+      "front": "What are the signs of heat stroke?",
+      "back": "- Body temperature above 104°F (40°C)\n- Hot, DRY, flushed skin (sweating may be absent)\n- Altered mental status (confusion, combativeness, unconsciousness)\n- Rapid, strong pulse initially, then weak\n- Headache, nausea, dizziness\n- Possible seizures\n\nHeat stroke is a MEDICAL EMERGENCY requiring immediate cooling.\n\n(Source: TC 4-02.1, Chapter 7, para 7-12)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 72,
+      "source_para": "Chapter 7, para 7-12"
+    },
+    {
+      "front": "How do you treat heat stroke?",
+      "back": "1. Move to shade/cool area immediately\n2. Remove clothing and equipment\n3. Cool rapidly using any available means:\n   - Ice packs to neck, armpits, groin\n   - Wet sheets with fan\n   - Cold water immersion (ideal)\n4. Do NOT give fluids by mouth if altered mental status\n5. Monitor airway\n6. URGENT evacuation\n\n(Source: TC 4-02.1, Chapter 7, para 7-14)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 73,
+      "source_para": "Chapter 7, para 7-14"
+    },
+    {
+      "front": "What are the signs of hypothermia?",
+      "back": "Mild (90-95°F): Shivering, cold sensation, numbness, impaired coordination\nModerate (82-90°F): Violent shivering then shivering stops, confusion, slurred speech, drowsiness\nSevere (<82°F): No shivering, rigid muscles, unconscious, weak/absent pulse, may appear dead\n\n(Source: TC 4-02.1, Chapter 7, para 7-22)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 76,
+      "source_para": "Chapter 7, para 7-22"
+    },
+    {
+      "front": "How do you treat hypothermia in the field?",
+      "back": "1. Handle casualty GENTLY (cold heart is irritable - rough handling can cause cardiac arrest)\n2. Remove wet clothing\n3. Insulate from ground and cover with dry blankets/sleeping bags\n4. Apply external heat sources to torso (armpits, chest, groin)\n5. If conscious and able to swallow, give warm sweet drinks\n6. Do NOT rub extremities\n7. URGENT evacuation\n\n(Source: TC 4-02.1, Chapter 7, para 7-25)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 78,
+      "source_para": "Chapter 7, para 7-25"
+    },
+    {
+      "front": "What is the treatment for a suspected fracture?",
+      "back": "1. Check circulation, sensation, and movement (CSM) below injury\n2. Immobilize the fracture - splint in position found\n3. Include joint above and below fracture site\n4. Pad splint and secure with bandages (not too tight)\n5. Recheck CSM after splinting\n6. Apply cold pack if available\n7. Treat for shock\n\n(Source: TC 4-02.1, Chapter 5, para 5-15)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 55,
+      "source_para": "Chapter 5, para 5-15"
+    },
+    {
+      "front": "What are the signs of a closed head injury?",
+      "back": "- Altered level of consciousness\n- Confusion, disorientation, amnesia\n- Unequal pupils or pupils unresponsive to light\n- Clear fluid from ears or nose (CSF leak)\n- Battle's sign (bruising behind ear)\n- Raccoon eyes (bruising around both eyes)\n- Nausea/vomiting\n- Seizures\n\n(Source: TC 4-02.1, Chapter 5, para 5-3)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 50,
+      "source_para": "Chapter 5, para 5-3"
+    },
+    {
+      "front": "What is the primary survey in trauma assessment?",
+      "back": "Rapid assessment to identify life-threatening conditions:\nM - Massive hemorrhage (control first)\nA - Airway (open and clear?)\nB - Breathing (adequate?)\nC - Circulation (pulse, perfusion, bleeding)\nD - Disability (neurological status, AVPU)\nE - Exposure (undress to find all injuries, prevent hypothermia)\n\n(Source: ATP 4-02.5, Chapter 3, para 3-2)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 16,
+      "source_para": "Chapter 3, para 3-2"
+    },
+    {
+      "front": "What does AVPU stand for in casualty assessment?",
+      "back": "A - Alert (awake, oriented)\nV - Voice (responds to verbal stimuli)\nP - Pain (responds to painful stimuli)\nU - Unresponsive (no response)\n\nUsed for rapid neurological assessment.\n\n(Source: TC 4-02.1, Chapter 1, para 1-8)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 6,
+      "source_para": "Chapter 1, para 1-8"
+    },
+    {
+      "front": "What is Tactical Combat Casualty Care (TCCC)?",
+      "back": "TCCC is the standard of care for prehospital battlefield trauma care. It integrates tactical requirements with medical care priorities to:\n- Treat the casualty\n- Prevent additional casualties\n- Complete the mission\n\nDeveloped by the Committee on TCCC (CoTCCC), updated regularly based on combat data.\n\n(Source: ATP 4-02.5, Chapter 1, para 1-2)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 1,
+      "source_para": "Chapter 1, para 1-2"
+    },
+    {
+      "front": "What is the leading cause of preventable death on the battlefield?",
+      "back": "Hemorrhage (massive bleeding) is the leading cause of preventable death on the battlefield, accounting for approximately 90% of potentially survivable deaths. This is why \"M\" (Massive hemorrhage) is first in MARCH.\n\n(Source: ATP 4-02.5, Chapter 1, para 1-5)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 3,
+      "source_para": "Chapter 1, para 1-5"
+    },
+    {
+      "front": "What is the Tactical Field Care phase of TCCC?",
+      "back": "Tactical Field Care (TFC) occurs when the tactical situation allows for more thorough medical treatment. The threat has been suppressed or the casualty has been moved to cover. Provider can:\n- Conduct full MARCH assessment\n- Establish IV/IO access\n- Administer medications\n- Reassess and adjust tourniquets\n- Document care on TCCC Card\n\n(Source: ATP 4-02.5, Chapter 4, para 4-1)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 35,
+      "source_para": "Chapter 4, para 4-1"
+    },
+    {
+      "front": "When should you convert a tourniquet to a pressure dressing?",
+      "back": "Consider conversion ONLY when:\n1. Casualty is NOT in shock\n2. Wound is amenable to direct pressure\n3. Tourniquet has been in place <2 hours\n4. Controlled environment allows close monitoring\n5. Evacuation is NOT imminent\n\nDo NOT convert in Care Under Fire or if any doubt exists.\n\n(Source: ATP 4-02.5, Chapter 4, para 4-8)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 38,
+      "source_para": "Chapter 4, para 4-8"
+    },
+    {
+      "front": "What medications are authorized for Combat Lifesavers?",
+      "back": "Varies by unit SOP, but typically includes:\n- Combat Wound Medication Pack (CWMP): Acetaminophen, Meloxicam\n- Oral transmucosal fentanyl citrate (OTFC) for pain - requires training\n- Antibiotics (Moxifloxacin 400mg) for penetrating wounds\n- Tranexamic acid (TXA) for hemorrhage - requires IV/IO\n\nFollow unit-specific protocols.\n\n(Source: ATP 4-02.5, Chapter 4, para 4-25)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 44,
+      "source_para": "Chapter 4, para 4-25"
+    },
+    {
+      "front": "What is the TCCC Card used for?",
+      "back": "The DD Form 1380 (TCCC Card) documents:\n- Casualty identification\n- Mechanism of injury\n- All treatments provided\n- Vital signs\n- Medications given (time, dose, route)\n- Tourniquet times\n\nAttach to casualty and transfer with them to higher care.\n\n(Source: ATP 4-02.5, Chapter 4, para 4-30)",
+      "source_doc": "ATP 4-02.5",
+      "source_page": 46,
+      "source_para": "Chapter 4, para 4-30"
+    },
+    {
+      "front": "How do you perform the head-tilt chin-lift maneuver?",
+      "back": "1. Place one hand on the casualty's forehead\n2. Apply firm, backward pressure to tilt head back\n3. Place fingertips of other hand under the bony part of chin\n4. Lift chin upward and forward\n5. Do NOT close the mouth completely\n\nContraindicated if cervical spine injury suspected - use jaw thrust instead.\n\n(Source: TC 4-02.1, Chapter 3, para 3-5)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 34,
+      "source_para": "Chapter 3, para 3-5"
+    },
+    {
+      "front": "What is the jaw thrust maneuver?",
+      "back": "Used to open airway when cervical spine injury is suspected:\n1. Kneel above the casualty's head\n2. Place fingers behind angles of jaw on both sides\n3. Push jaw forward (anteriorly)\n4. Keep head and neck in neutral alignment\n5. Use thumbs to open mouth if needed\n\n(Source: TC 4-02.1, Chapter 3, para 3-7)",
+      "source_doc": "TC 4-02.1",
+      "source_page": 35,
+      "source_para": "Chapter 3, para 3-7"
+    }
+  ]
+}

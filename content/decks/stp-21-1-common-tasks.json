@@ -1,0 +1,261 @@
+{
+  "deck": {
+    "name": "Warrior Skills Level 1 - Common Tasks",
+    "description": "STP 21-1-SMCT - Soldier's Manual of Common Tasks covering weapons, navigation, communication, and survival skills",
+    "category": "STP",
+    "subcategory": "Common Soldier Skills"
+  },
+  "metadata": {
+    "publication": "STP 21-1-SMCT",
+    "title": "Soldier's Manual of Common Tasks - Warrior Skills Level 1",
+    "date": "September 2017",
+    "proponent": "United States Army Training and Doctrine Command"
+  },
+  "cards": [
+    {
+      "front": "What are the four fundamentals of marksmanship?",
+      "back": "1. Steady Position - Establish stable firing platform\n2. Aim - Proper sight alignment and sight picture\n3. Breath Control - Pause breathing at natural respiratory pause\n4. Trigger Squeeze - Smooth, continuous pressure without disturbing aim\n\n(Source: STP 21-1-SMCT, Task 071-311-2027)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 45,
+      "source_para": "Task 071-311-2027"
+    },
+    {
+      "front": "What are the eight steps in the functioning cycle of the M4/M16?",
+      "back": "1. Feeding - Round strips from magazine\n2. Chambering - Round moves into chamber\n3. Locking - Bolt rotates and locks\n4. Firing - Firing pin strikes primer\n5. Unlocking - Gas pressure unlocks bolt\n6. Extracting - Extractor removes case\n7. Ejecting - Case expelled from receiver\n8. Cocking - Hammer cocked for next round\n\n(Source: STP 21-1-SMCT, Task 071-311-2025)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 38,
+      "source_para": "Task 071-311-2025"
+    },
+    {
+      "front": "What is the maximum effective range of the M4 Carbine?",
+      "back": "Point Target: 500 meters\nArea Target: 600 meters\n\nThe M4 fires 5.56mm NATO ammunition at a cyclic rate of 700-970 rounds per minute.\n\n(Source: STP 21-1-SMCT, Task 071-311-2025)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 36,
+      "source_para": "Task 071-311-2025"
+    },
+    {
+      "front": "What are the steps to clear an M4/M16 rifle?",
+      "back": "1. Point muzzle in safe direction\n2. Attempt to place selector on SAFE\n3. Remove magazine\n4. Lock bolt to rear\n5. Visually inspect chamber and magazine well\n6. With bolt locked, place selector on SAFE\n7. Allow bolt to go forward\n8. Squeeze trigger\n9. Close ejection port cover\n\n(Source: STP 21-1-SMCT, Task 071-311-2026)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 42,
+      "source_para": "Task 071-311-2026"
+    },
+    {
+      "front": "What immediate action is taken for a malfunction (SPORTS)?",
+      "back": "S - Slap the magazine upward\nP - Pull the charging handle to the rear\nO - Observe the chamber for round/obstruction\nR - Release the charging handle\nT - Tap the forward assist\nS - Squeeze the trigger\n\n(Source: STP 21-1-SMCT, Task 071-311-2027)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 48,
+      "source_para": "Task 071-311-2027"
+    },
+    {
+      "front": "What are the three types of malfunctions for the M4/M16?",
+      "back": "1. Failure to Feed/Chamber/Lock - Usually caused by magazine or ammunition issues\n2. Failure to Fire - Usually caused by faulty primer or firing pin issues\n3. Failure to Extract/Eject - Usually caused by short recoil, broken extractor, or dirty chamber\n\n(Source: STP 21-1-SMCT, Task 071-311-2027)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 49,
+      "source_para": "Task 071-311-2027"
+    },
+    {
+      "front": "What is MGRS (Military Grid Reference System)?",
+      "back": "MGRS is the standard grid reference system for military use worldwide. It uses:\n- Grid Zone Designator (e.g., 18S)\n- 100,000m Square ID (e.g., UJ)\n- Numerical coordinates (easting/northing)\n\nExample: 18SUJ 12345 67890 (10-digit grid)\n\n(Source: STP 21-1-SMCT, Task 071-329-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 125,
+      "source_para": "Task 071-329-1030"
+    },
+    {
+      "front": "How do you determine a six-digit grid coordinate?",
+      "back": "1. Find the grid square containing the point\n2. Read right to get first two digits of easting\n3. Estimate third digit within grid square (0-9)\n4. Read up to get first two digits of northing\n5. Estimate third digit within grid square (0-9)\n\nFormat: Read RIGHT then UP (easting-northing)\n\n(Source: STP 21-1-SMCT, Task 071-329-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 127,
+      "source_para": "Task 071-329-1030"
+    },
+    {
+      "front": "What are the five major terrain features?",
+      "back": "1. Hill - High point; contours form closed circles\n2. Ridge - Steep line of high ground; contours form U/V shapes pointing downhill\n3. Valley - Low ground; contours form U/V shapes pointing uphill\n4. Saddle - Low point between two high points\n5. Depression - Low point; contours have tick marks pointing inward\n\n(Source: STP 21-1-SMCT, Task 071-329-1006)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 118,
+      "source_para": "Task 071-329-1006"
+    },
+    {
+      "front": "What are the three minor terrain features?",
+      "back": "1. Draw - Less developed valley; beginning of stream\n2. Spur - Ridge extending from higher ground\n3. Cliff - Vertical or near-vertical slope; contours very close or touching\n\n(Source: STP 21-1-SMCT, Task 071-329-1006)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 119,
+      "source_para": "Task 071-329-1006"
+    },
+    {
+      "front": "What are the two supplementary terrain features?",
+      "back": "1. Cut - Man-made feature cutting through terrain (roads, railroads)\n2. Fill - Man-made elevated terrain (embankments, berms)\n\n(Source: STP 21-1-SMCT, Task 071-329-1006)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 119,
+      "source_para": "Task 071-329-1006"
+    },
+    {
+      "front": "What is the purpose of the lensatic compass?",
+      "back": "The lensatic compass is used for:\n- Determining direction (azimuth)\n- Plotting location\n- Following a course\n- Terrain association\n\nContains: Cover, base, lens, floating dial, bezel ring, and luminous markings.\n\n(Source: STP 21-1-SMCT, Task 071-329-1008)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 121,
+      "source_para": "Task 071-329-1008"
+    },
+    {
+      "front": "What is a back azimuth and how is it calculated?",
+      "back": "A back azimuth is the opposite direction of an azimuth:\n\n- If azimuth is less than 180°: Add 180°\n- If azimuth is 180° or more: Subtract 180°\n\nExample: Azimuth 45° → Back azimuth = 225°\nExample: Azimuth 270° → Back azimuth = 90°\n\n(Source: STP 21-1-SMCT, Task 071-329-1008)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 122,
+      "source_para": "Task 071-329-1008"
+    },
+    {
+      "front": "What is declination and why is it important?",
+      "back": "Declination is the angular difference between true north and magnetic north. It varies by location and changes over time.\n\n- GM (Grid-Magnetic) angle must be applied to convert between grid and magnetic azimuths\n- Found in declination diagram on map margin\n- Critical for accurate land navigation\n\n(Source: STP 21-1-SMCT, Task 071-329-1012)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 130,
+      "source_para": "Task 071-329-1012"
+    },
+    {
+      "front": "How do you convert a magnetic azimuth to a grid azimuth?",
+      "back": "If G-M angle is EAST: Subtract G-M angle from magnetic azimuth\nIf G-M angle is WEST: Add G-M angle to magnetic azimuth\n\nMemory aid: \"East is Least, West is Best\" (subtract for east, add for west)\n\n(Source: STP 21-1-SMCT, Task 071-329-1012)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 131,
+      "source_para": "Task 071-329-1012"
+    },
+    {
+      "front": "What are the map colors and what do they represent?",
+      "back": "BLACK - Man-made features (buildings, roads, boundaries)\nBLUE - Water features (lakes, rivers, swamps)\nBROWN - Contour lines and elevation\nGREEN - Vegetation (woods, orchards, vineyards)\nRED - Major roads, built-up areas, special features\nRED-BROWN - Combined colors on red-light readable maps\n\n(Source: STP 21-1-SMCT, Task 071-329-1002)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 112,
+      "source_para": "Task 071-329-1002"
+    },
+    {
+      "front": "What are the marginal information items on a military map?",
+      "back": "1. Sheet name and number\n2. Series name and scale\n3. Edition number and date\n4. Contour interval\n5. Declination diagram\n6. Bar scales\n7. Legend\n8. Grid reference box\n9. Index to adjoining sheets\n10. Unit of measure\n\n(Source: STP 21-1-SMCT, Task 071-329-1002)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 110,
+      "source_para": "Task 071-329-1002"
+    },
+    {
+      "front": "What is the scale of a 1:50,000 map?",
+      "back": "On a 1:50,000 scale map:\n- 1 inch on map = 50,000 inches on ground\n- 1 inch = approximately 0.8 miles (1.27 km)\n- 1 grid square = 1,000 meters (1 km)\n\n1:50,000 is the standard scale for tactical operations.\n\n(Source: STP 21-1-SMCT, Task 071-329-1002)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 111,
+      "source_para": "Task 071-329-1002"
+    },
+    {
+      "front": "What is the phonetic alphabet?",
+      "back": "A-Alpha, B-Bravo, C-Charlie, D-Delta, E-Echo, F-Foxtrot, G-Golf, H-Hotel, I-India, J-Juliet, K-Kilo, L-Lima, M-Mike, N-November, O-Oscar, P-Papa, Q-Quebec, R-Romeo, S-Sierra, T-Tango, U-Uniform, V-Victor, W-Whiskey, X-X-Ray, Y-Yankee, Z-Zulu\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 85,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What are the prowords OVER, OUT, ROGER, and WILCO?",
+      "back": "OVER - \"This is the end of my transmission, I expect a response\"\nOUT - \"This is the end of my transmission, no response expected\"\nROGER - \"I received your last transmission satisfactorily\"\nWILCO - \"I have received your message, understand it, and will comply\"\n\nNever use \"OVER and OUT\" together.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 87,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What is the format for transmitting grid coordinates over radio?",
+      "back": "Use the word \"GRID\" followed by phonetic letters for grid zone and 100km ID, then break numbers into pairs:\n\nExample: Grid 18SUJ 123 456\n\"GRID ONE EIGHT SIERRA UNIFORM JULIET, ONE TWO THREE, FOUR FIVE SIX\"\n\nSpeak slowly and clearly. Use authentication if required.\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 89,
+      "source_para": "Task 113-571-1022"
+    },
+    {
+      "front": "What are the protective actions for CBRN (Chemical, Biological, Radiological, Nuclear)?",
+      "back": "1. STOP breathing - Hold breath\n2. DON protective mask - Within 9 seconds\n3. GIVE the alarm - Voice and hand signals\n4. TAKE cover - Shelter or move upwind/uphill\n5. DECONTAMINATE - Self and equipment as needed\n\n(Source: STP 21-1-SMCT, Task 031-503-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 152,
+      "source_para": "Task 031-503-1030"
+    },
+    {
+      "front": "What is MOPP (Mission Oriented Protective Posture)?",
+      "back": "MOPP 0: Protective gear available\nMOPP 1: Overgarment, mask carrier\nMOPP 2: Add overboots\nMOPP 3: Add mask and hood\nMOPP 4: Add gloves (full protection)\n\nMOPP level is determined by threat level and commander's guidance.\n\n(Source: STP 21-1-SMCT, Task 031-503-1030)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 154,
+      "source_para": "Task 031-503-1030"
+    },
+    {
+      "front": "How do you don the protective mask?",
+      "back": "1. Stop breathing and close eyes\n2. Remove headgear\n3. Pull mask from carrier\n4. Insert chin first, pull harness over head\n5. Clear mask - Cover outlet, blow hard\n6. Check seal - Cover inlet, inhale (mask should collapse)\n7. Resume breathing\n8. Clear eyes, don hood and headgear\n\nTime standard: 9 seconds\n\n(Source: STP 21-1-SMCT, Task 031-503-1012)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 148,
+      "source_para": "Task 031-503-1012"
+    },
+    {
+      "front": "What is the challenge and password procedure?",
+      "back": "1. Challenge approaching person with \"HALT! WHO GOES THERE?\"\n2. Receive response (friendly identification)\n3. Issue challenge (first word of password combination)\n4. Receive countersign (second word)\n5. If correct, allow passage\n6. If incorrect, detain and report\n\nPasswords are changed daily; found in unit SOI/ANCD.\n\n(Source: STP 21-1-SMCT, Task 071-331-0851)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 195,
+      "source_para": "Task 071-331-0851"
+    },
+    {
+      "front": "What is the maximum effective range of a hand grenade?",
+      "back": "M67 Fragmentation Grenade:\n- Average throw: 30-35 meters\n- Killing radius: 5 meters\n- Casualty radius: 15 meters\n\nSafety: Always seek cover after throwing.\n\n(Source: STP 21-1-SMCT, Task 071-311-2107)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 62,
+      "source_para": "Task 071-311-2107"
+    },
+    {
+      "front": "What are the steps to throw a hand grenade?",
+      "back": "1. Observe target area, select target\n2. Hold grenade with safety clip toward body\n3. Pull pin with non-throwing hand\n4. Look at target, throw overhand\n5. Follow through toward target\n6. Take cover immediately\n7. Observe for effects\n\n(Source: STP 21-1-SMCT, Task 071-311-2107)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 64,
+      "source_para": "Task 071-311-2107"
+    },
+    {
+      "front": "What is the composition and characteristics of the M67 grenade?",
+      "back": "Body: Steel sphere filled with Comp B explosive\nFuze delay: 4-5 seconds\nWeight: 14 oz (400g)\nColor: Olive drab with yellow markings\nKilling radius: 5 meters\nCasualty radius: 15 meters\n\n(Source: STP 21-1-SMCT, Task 071-311-2107)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 61,
+      "source_para": "Task 071-311-2107"
+    },
+    {
+      "front": "What are the three individual movement techniques?",
+      "back": "1. Low Crawl - Under fire, very low concealment (6-9 inches)\n2. High Crawl - Faster than low crawl, more concealment available\n3. 3-5 Second Rush - Short bounds between cover, used when enemy aware\n\nUse terrain for cover and concealment during movement.\n\n(Source: STP 21-1-SMCT, Task 071-326-0513)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 180,
+      "source_para": "Task 071-326-0513"
+    },
+    {
+      "front": "What is the difference between cover and concealment?",
+      "back": "COVER: Protection from enemy fire (walls, vehicles, terrain features). Stops or deflects bullets.\n\nCONCEALMENT: Protection from enemy observation (bushes, shadows, camouflage). Does NOT stop bullets.\n\nBest position provides both cover AND concealment.\n\n(Source: STP 21-1-SMCT, Task 071-326-0501)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 175,
+      "source_para": "Task 071-326-0501"
+    },
+    {
+      "front": "What are the procedures for a hasty fighting position?",
+      "back": "1. Select position with cover, concealment, and good field of fire\n2. Check for existing cover (folds, depressions, trees)\n3. Improve position as time allows\n4. Clear debris that restricts field of fire\n5. Position equipment within reach\n6. Establish sector of fire\n7. Improve position continually\n\n(Source: STP 21-1-SMCT, Task 071-326-0511)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 178,
+      "source_para": "Task 071-326-0511"
+    },
+    {
+      "front": "What visual signals are used to communicate on the battlefield?",
+      "back": "ARM/HAND SIGNALS:\n- Attention: Arm extended overhead, palm forward\n- Cease Fire: Arm extended, palm down, wave side to side\n- Commence Fire: Arm extended, pointing at target\n- Rally Point: Circling motion above head\n- Enemy in Sight: Arm bent, fist clenched at shoulder\n- Disperse: Arms extended, pushing motion outward\n\n(Source: STP 21-1-SMCT, Task 071-326-0510)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 176,
+      "source_para": "Task 071-326-0510"
+    },
+    {
+      "front": "What information should be reported when observing enemy activity (SALUTE)?",
+      "back": "S - Size (number of personnel/vehicles)\nA - Activity (what they are doing)\nL - Location (grid coordinates)\nU - Unit (identification if known)\nT - Time (when observed)\nE - Equipment (weapons, vehicles, special equipment)\n\n(Source: STP 21-1-SMCT, Task 071-326-0500)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 172,
+      "source_para": "Task 071-326-0500"
+    },
+    {
+      "front": "What are the Steps to Perform React to Contact?",
+      "back": "1. Return fire immediately (3-5 second rush to cover if caught in open)\n2. Seek covered position\n3. Locate the enemy\n4. Engage with well-aimed fire\n5. Communicate situation to team leader\n6. Prepare to maneuver/follow team leader's direction\n\n(Source: STP 21-1-SMCT, Task 071-326-0501)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 176,
+      "source_para": "Task 071-326-0501"
+    },
+    {
+      "front": "What are the procedures for conducting a radio check?",
+      "back": "1. \"[Call sign], this is [Your call sign], RADIO CHECK, OVER\"\n2. Wait for response\n3. Receive: \"[Your call sign], this is [Call sign], I READ YOU [strength], OVER\"\n\nSignal Strength:\n- LOUD AND CLEAR\n- READABLE\n- WEAK BUT READABLE\n- WEAK WITH INTERFERENCE\n- UNREADABLE\n\n(Source: STP 21-1-SMCT, Task 113-571-1022)",
+      "source_doc": "STP 21-1-SMCT",
+      "source_page": 88,
+      "source_para": "Task 113-571-1022"
+    }
+  ]
+}

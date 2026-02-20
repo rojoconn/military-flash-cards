@@ -1,0 +1,367 @@
+{
+  "deck": {
+    "name": "The Soldier's Guide",
+    "description": "TC 7-21.13 - Foundational knowledge for every Soldier including Army Values, Soldier's Creed, customs, and courtesies",
+    "category": "TC",
+    "subcategory": "Common Soldier Skills"
+  },
+  "metadata": {
+    "publication": "TC 7-21.13",
+    "title": "The Soldier's Guide",
+    "date": "December 2020",
+    "proponent": "United States Army Combined Arms Center",
+    "distribution": "Approved for public release; distribution is unlimited"
+  },
+  "cards": [
+    {
+      "front": "What are the seven Army Values?",
+      "back": "Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, and Personal Courage (LDRSHIP).\n\n(Source: TC 7-21.13, Chapter 2, para 2-1)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 7,
+      "source_para": "Chapter 2, para 2-1"
+    },
+    {
+      "front": "Define the Army Value: LOYALTY",
+      "back": "Bear true faith and allegiance to the U.S. Constitution, the Army, your unit, and other Soldiers.\n\n(Source: TC 7-21.13, Chapter 2, para 2-2)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 7,
+      "source_para": "Chapter 2, para 2-2"
+    },
+    {
+      "front": "Define the Army Value: DUTY",
+      "back": "Fulfill your obligations. Accept responsibility for your own actions and those entrusted to your care. Find opportunities to improve oneself for the good of the group.\n\n(Source: TC 7-21.13, Chapter 2, para 2-3)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 7,
+      "source_para": "Chapter 2, para 2-3"
+    },
+    {
+      "front": "Define the Army Value: RESPECT",
+      "back": "Treat people as they should be treated. Respect is trusting that all people have done their jobs and fulfilled their duty.\n\n(Source: TC 7-21.13, Chapter 2, para 2-4)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 8,
+      "source_para": "Chapter 2, para 2-4"
+    },
+    {
+      "front": "Define the Army Value: SELFLESS SERVICE",
+      "back": "Put the welfare of the Nation, the Army, and your subordinates before your own. Selfless service leads to teamwork and encompasses discipline.\n\n(Source: TC 7-21.13, Chapter 2, para 2-5)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 8,
+      "source_para": "Chapter 2, para 2-5"
+    },
+    {
+      "front": "Define the Army Value: HONOR",
+      "back": "Live up to all the Army Values. Honor provides the 'moral compass' for character and personal conduct.\n\n(Source: TC 7-21.13, Chapter 2, para 2-6)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 8,
+      "source_para": "Chapter 2, para 2-6"
+    },
+    {
+      "front": "Define the Army Value: INTEGRITY",
+      "back": "Do what is right, legally and morally. Be willing to do what is right even when no one is looking.\n\n(Source: TC 7-21.13, Chapter 2, para 2-7)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 8,
+      "source_para": "Chapter 2, para 2-7"
+    },
+    {
+      "front": "Define the Army Value: PERSONAL COURAGE",
+      "back": "Face fear, danger, or adversity (physical or moral). Physical courage means overcoming fears of bodily harm and doing your duty. Moral courage means standing firm for values, principles, and convictions.\n\n(Source: TC 7-21.13, Chapter 2, para 2-8)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 8,
+      "source_para": "Chapter 2, para 2-8"
+    },
+    {
+      "front": "Recite the Soldier's Creed.",
+      "back": "I am an American Soldier.\nI am a warrior and a member of a team.\nI serve the people of the United States, and live the Army Values.\nI will always place the mission first.\nI will never accept defeat.\nI will never quit.\nI will never leave a fallen comrade.\nI am disciplined, physically and mentally tough, trained and proficient in my warrior tasks and drills.\nI always maintain my arms, my equipment and myself.\nI am an expert and I am a professional.\nI stand ready to deploy, engage, and destroy the enemies of the United States of America in close combat.\nI am a guardian of freedom and the American way of life.\nI am an American Soldier.\n\n(Source: TC 7-21.13, Chapter 2, para 2-9)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 9,
+      "source_para": "Chapter 2, para 2-9"
+    },
+    {
+      "front": "What are the four tenets of the Warrior Ethos?",
+      "back": "1. I will always place the mission first.\n2. I will never accept defeat.\n3. I will never quit.\n4. I will never leave a fallen comrade.\n\n(Source: TC 7-21.13, Chapter 2, para 2-10)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 10,
+      "source_para": "Chapter 2, para 2-10"
+    },
+    {
+      "front": "What is the Warrior Ethos?",
+      "back": "The Warrior Ethos is the professional attitudes and beliefs that characterize the American Soldier. It reflects a Soldier's selfless commitment to the Nation, mission, unit, and fellow Soldiers.\n\n(Source: TC 7-21.13, Chapter 2, para 2-10)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 10,
+      "source_para": "Chapter 2, para 2-10"
+    },
+    {
+      "front": "What is the Army motto?",
+      "back": "\"This We'll Defend\" - The motto encapsulates the Army's primary mission to defend the Nation and its interests.\n\n(Source: TC 7-21.13, Chapter 2, para 2-15)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 11,
+      "source_para": "Chapter 2, para 2-15"
+    },
+    {
+      "front": "When was the United States Army established?",
+      "back": "14 June 1775, when the Continental Congress authorized enlistment of riflemen to serve the United Colonies for one year.\n\n(Source: TC 7-21.13, Chapter 2, para 2-14)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 11,
+      "source_para": "Chapter 2, para 2-14"
+    },
+    {
+      "front": "What does a military salute represent?",
+      "back": "The salute is a courteous exchange of greetings, with the junior member always saluting first. It is a gesture of respect and trust among Soldiers.\n\n(Source: TC 7-21.13, Chapter 3, para 3-1)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 21,
+      "source_para": "Chapter 3, para 3-1"
+    },
+    {
+      "front": "When do you salute?",
+      "back": "Salute when:\n- Outdoors and you meet or pass a commissioned or warrant officer\n- The National Anthem, \"To the Color,\" or \"Hail to the Chief\" is played\n- The National or organizational colors pass (not cased)\n- Reporting to a superior officer\n- Being dismissed by a superior officer\n- In a formation receiving the command \"Present, ARMS\"\n\n(Source: TC 7-21.13, Chapter 3, para 3-2 through 3-7)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 21,
+      "source_para": "Chapter 3, paras 3-2 to 3-7"
+    },
+    {
+      "front": "When do you NOT salute?",
+      "back": "Do NOT salute when:\n- Indoors (except when reporting or under arms)\n- When impractical (carrying articles with both hands, actively working)\n- In public gatherings (sporting events, meetings)\n- In a military vehicle\n- When passing an officer who is walking with a senior officer\n- When guarding prisoners\n- In civilian attire\n\n(Source: TC 7-21.13, Chapter 3, para 3-8)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 23,
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "What is the proper greeting when addressing an officer?",
+      "back": "Use \"Sir\" or \"Ma'am\" when addressing commissioned or warrant officers. When reporting or in formal situations, state your rank and name (e.g., \"Private Smith reports as ordered, Sir/Ma'am\").\n\n(Source: TC 7-21.13, Chapter 3, para 3-13)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 25,
+      "source_para": "Chapter 3, para 3-13"
+    },
+    {
+      "front": "How should you address a noncommissioned officer?",
+      "back": "Address NCOs by their rank and last name (e.g., \"Sergeant Smith\"). For all sergeants E-5 through E-8, you may address them as \"Sergeant.\" Address a Sergeant Major (E-9) as \"Sergeant Major.\"\n\n(Source: TC 7-21.13, Chapter 3, para 3-14)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 25,
+      "source_para": "Chapter 3, para 3-14"
+    },
+    {
+      "front": "What are military customs?",
+      "back": "Military customs are courtesies, acts of respect, and ceremonial procedures that have become established through tradition and are commonly practiced in military organizations. They are unwritten laws that guide Soldier conduct.\n\n(Source: TC 7-21.13, Chapter 3, para 3-16)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 26,
+      "source_para": "Chapter 3, para 3-16"
+    },
+    {
+      "front": "What is the difference between customs and courtesies?",
+      "back": "Customs are established practices with the force of law within the military. Courtesies are acts of politeness, civility, and respect that reflect discipline and unit cohesion. Both are essential to military professionalism.\n\n(Source: TC 7-21.13, Chapter 3, para 3-16)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 26,
+      "source_para": "Chapter 3, para 3-16"
+    },
+    {
+      "front": "What should a Soldier do when outdoors during Reveille or Retreat?",
+      "back": "During Reveille (if the flag is being raised) and Retreat (lowering of the flag):\n- Stop, turn and face the flag (or the direction of the music if the flag is not visible)\n- Stand at attention\n- Render the hand salute at the first note of \"To the Color\" or the National Anthem\n- Hold the salute until the last note of the music\n\n(Source: TC 7-21.13, Chapter 3, paras 3-21 and 3-22)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 28,
+      "source_para": "Chapter 3, paras 3-21 to 3-22"
+    },
+    {
+      "front": "What are the two types of military formations?",
+      "back": "1. Formation - An arrangement of units (or elements of a unit) for a specific purpose\n2. Drill Formation - A prescribed arrangement of elements (files, ranks, columns, etc.) for parade or ceremony\n\n(Source: TC 7-21.13, Chapter 4, para 4-2)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 39,
+      "source_para": "Chapter 4, para 4-2"
+    },
+    {
+      "front": "What is a 'rank' in military drill?",
+      "back": "A rank is a line of Soldiers placed side by side.\n\n(Source: TC 7-21.13, Chapter 4, para 4-3)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 39,
+      "source_para": "Chapter 4, para 4-3"
+    },
+    {
+      "front": "What is a 'file' in military drill?",
+      "back": "A file is a column of Soldiers placed one behind the other.\n\n(Source: TC 7-21.13, Chapter 4, para 4-3)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 39,
+      "source_para": "Chapter 4, para 4-3"
+    },
+    {
+      "front": "What is the normal interval between Soldiers in formation?",
+      "back": "Normal interval is one arm's length (approximately 30 inches).\n\n(Source: TC 7-21.13, Chapter 4, para 4-4)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 40,
+      "source_para": "Chapter 4, para 4-4"
+    },
+    {
+      "front": "What is 'close interval' in drill?",
+      "back": "Close interval is approximately 4 inches, measured as the horizontal distance from shoulder to shoulder.\n\n(Source: TC 7-21.13, Chapter 4, para 4-4)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 40,
+      "source_para": "Chapter 4, para 4-4"
+    },
+    {
+      "front": "What are the two parts of a drill command?",
+      "back": "1. Preparatory command - States the movement to be carried out and mentally prepares the Soldier (e.g., \"Forward\")\n2. Command of execution - Causes execution of the movement (e.g., \"MARCH\")\n\n(Source: TC 7-21.13, Chapter 4, para 4-6)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 41,
+      "source_para": "Chapter 4, para 4-6"
+    },
+    {
+      "front": "What is the length of a normal marching step (quick time)?",
+      "back": "30 inches, measured from heel to heel.\n\n(Source: TC 7-21.13, Chapter 4, para 4-9)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 42,
+      "source_para": "Chapter 4, para 4-9"
+    },
+    {
+      "front": "How many steps per minute is quick time?",
+      "back": "120 steps per minute.\n\n(Source: TC 7-21.13, Chapter 4, para 4-9)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 42,
+      "source_para": "Chapter 4, para 4-9"
+    },
+    {
+      "front": "How many steps per minute is double time?",
+      "back": "180 steps per minute, with a 30-inch step.\n\n(Source: TC 7-21.13, Chapter 4, para 4-9)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 42,
+      "source_para": "Chapter 4, para 4-9"
+    },
+    {
+      "front": "What is the position of Attention?",
+      "back": "Heels together, feet forming 45-degree angle. Legs straight without stiffness. Body erect, hips level, chest lifted, shoulders squared. Arms hang straight (thumbs along trouser seams). Head erect, eyes looking straight to the front.\n\n(Source: TC 7-21.13, Chapter 4, para 4-11)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 43,
+      "source_para": "Chapter 4, para 4-11"
+    },
+    {
+      "front": "What is the position of Parade Rest?",
+      "back": "On the command \"Parade, REST\":\n- Move left foot 10 inches to the left\n- Simultaneously place hands at the small of the back, fingers extended and joined, right hand over left\n- Keep head and eyes straight to the front\n- Remain silent and immobile\n\n(Source: TC 7-21.13, Chapter 4, para 4-12)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 44,
+      "source_para": "Chapter 4, para 4-12"
+    },
+    {
+      "front": "What does the acronym UCMJ stand for?",
+      "back": "Uniform Code of Military Justice - the foundation of military law in the United States. It applies to all active duty military personnel.\n\n(Source: TC 7-21.13, Chapter 6, para 6-1)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 59,
+      "source_para": "Chapter 6, para 6-1"
+    },
+    {
+      "front": "What are the three types of courts-martial?",
+      "back": "1. Summary Court-Martial - Minor offenses; maximum punishment is 30 days confinement\n2. Special Court-Martial - Intermediate offenses; maximum confinement of 12 months\n3. General Court-Martial - Most serious offenses; can impose any authorized punishment including death for certain offenses\n\n(Source: TC 7-21.13, Chapter 6, para 6-4)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 61,
+      "source_para": "Chapter 6, para 6-4"
+    },
+    {
+      "front": "What is non-judicial punishment (Article 15)?",
+      "back": "Non-judicial punishment (Article 15 of the UCMJ) allows commanders to impose punishment for minor offenses without the formality of a court-martial. Soldiers have the right to demand trial by court-martial instead.\n\n(Source: TC 7-21.13, Chapter 6, para 6-3)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 60,
+      "source_para": "Chapter 6, para 6-3"
+    },
+    {
+      "front": "What is the General Order 1 for guard duty?",
+      "back": "I will guard everything within the limits of my post and quit my post only when properly relieved.\n\n(Source: TC 7-21.13, Chapter 6, para 6-12)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 65,
+      "source_para": "Chapter 6, para 6-12"
+    },
+    {
+      "front": "What is the General Order 2 for guard duty?",
+      "back": "I will obey my special orders and perform all my duties in a military manner.\n\n(Source: TC 7-21.13, Chapter 6, para 6-12)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 65,
+      "source_para": "Chapter 6, para 6-12"
+    },
+    {
+      "front": "What is the General Order 3 for guard duty?",
+      "back": "I will report violations of my special orders, emergencies, and anything not covered in my instructions to the commander of the relief.\n\n(Source: TC 7-21.13, Chapter 6, para 6-12)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 65,
+      "source_para": "Chapter 6, para 6-12"
+    },
+    {
+      "front": "What is the Code of Conduct?",
+      "back": "The Code of Conduct establishes standards for military members who become prisoners of war. It consists of six articles that prescribe how Soldiers will conduct themselves in combat and captivity.\n\n(Source: TC 7-21.13, Chapter 6, para 6-15)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 67,
+      "source_para": "Chapter 6, para 6-15"
+    },
+    {
+      "front": "What is Article I of the Code of Conduct?",
+      "back": "I am an American, fighting in the forces which guard my country and our way of life. I am prepared to give my life in their defense.\n\n(Source: TC 7-21.13, Chapter 6, para 6-16)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 67,
+      "source_para": "Chapter 6, para 6-16"
+    },
+    {
+      "front": "What is Article II of the Code of Conduct?",
+      "back": "I will never surrender of my own free will. If in command, I will never surrender the members of my command while they still have the means to resist.\n\n(Source: TC 7-21.13, Chapter 6, para 6-16)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 67,
+      "source_para": "Chapter 6, para 6-16"
+    },
+    {
+      "front": "What is Article III of the Code of Conduct?",
+      "back": "If I am captured I will continue to resist by all means available. I will make every effort to escape and aid others to escape. I will accept neither parole nor special favors from the enemy.\n\n(Source: TC 7-21.13, Chapter 6, para 6-16)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 67,
+      "source_para": "Chapter 6, para 6-16"
+    },
+    {
+      "front": "What is Article IV of the Code of Conduct?",
+      "back": "If I become a prisoner of war, I will keep faith with my fellow prisoners. I will give no information or take part in any action which might be harmful to my comrades. If I am senior, I will take command. If not, I will obey the lawful orders of those appointed over me and will back them up in every way.\n\n(Source: TC 7-21.13, Chapter 6, para 6-16)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 68,
+      "source_para": "Chapter 6, para 6-16"
+    },
+    {
+      "front": "What is Article V of the Code of Conduct?",
+      "back": "When questioned, should I become a prisoner of war, I am required to give name, rank, service number, and date of birth. I will evade answering further questions to the utmost of my ability. I will make no oral or written statements disloyal to my country and its allies or harmful to their cause.\n\n(Source: TC 7-21.13, Chapter 6, para 6-16)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 68,
+      "source_para": "Chapter 6, para 6-16"
+    },
+    {
+      "front": "What is Article VI of the Code of Conduct?",
+      "back": "I will never forget that I am an American, fighting for freedom, responsible for my actions, and dedicated to the principles which made my country free. I will trust in my God and in the United States of America.\n\n(Source: TC 7-21.13, Chapter 6, para 6-16)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 68,
+      "source_para": "Chapter 6, para 6-16"
+    },
+    {
+      "front": "What four pieces of information may a POW give under the Code of Conduct?",
+      "back": "1. Name\n2. Rank\n3. Service Number (or Social Security Number)\n4. Date of Birth\n\n(Source: TC 7-21.13, Chapter 6, para 6-17)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 68,
+      "source_para": "Chapter 6, para 6-17"
+    },
+    {
+      "front": "What is the NCO Creed?",
+      "back": "No one is more professional than I. I am a noncommissioned officer, a leader of Soldiers. As a noncommissioned officer, I realize that I am a member of a time honored corps, which is known as \"The Backbone of the Army.\"\n\nI am proud of the Corps of Noncommissioned Officers and will at all times conduct myself so as to bring credit upon the Corps, the military service and my country regardless of the situation in which I find myself.\n\nI will not use my grade or position to attain pleasure, profit, or personal safety.\n\nCompetence is my watchword. My two basic responsibilities will always be uppermost in my mind—accomplishment of my mission and the welfare of my Soldiers.\n\nI will strive to remain technically and tactically proficient. I am aware of my role as a noncommissioned officer. I will fulfill my responsibilities inherent in that role. All Soldiers are entitled to outstanding leadership; I will provide that leadership. I know my Soldiers and I will always place their needs above my own. I will communicate consistently with my Soldiers and never leave them uninformed.\n\nI will be fair and impartial when recommending both rewards and punishment. Officers of my unit will have maximum time to accomplish their duties; they will not have to accomplish mine. I will earn their respect and confidence as well as that of my Soldiers. I will be loyal to those with whom I serve; seniors, peers, and subordinates alike. I will exercise initiative by taking appropriate action in the absence of orders.\n\nI will not compromise my integrity, nor my moral courage. I will not forget, nor will I allow my comrades to forget that we are professionals, noncommissioned officers, leaders!\n\n(Source: TC 7-21.13, Chapter 2, para 2-12)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 10,
+      "source_para": "Chapter 2, para 2-12"
+    },
+    {
+      "front": "What is the Army's official flag?",
+      "back": "The Army flag is white with embroidered blue letters \"UNITED STATES ARMY\" and the official seal of the Department of the Army in the center. Campaign streamers attached to the flagstaff represent battles and campaigns.\n\n(Source: TC 7-21.13, Chapter 3, para 3-35)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 33,
+      "source_para": "Chapter 3, para 3-35"
+    },
+    {
+      "front": "When should you stand at Attention outdoors while the National Anthem is playing?",
+      "back": "When the National Anthem is played outdoors, stand at Attention, face the flag (or music if flag is not visible), and render the hand salute from the first to the last note of the music. If in a vehicle, remain seated at Attention.\n\n(Source: TC 7-21.13, Chapter 3, para 3-23)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 29,
+      "source_para": "Chapter 3, para 3-23"
+    },
+    {
+      "front": "What is the proper way to display the U.S. flag with other flags?",
+      "back": "The U.S. flag should be:\n- Displayed to its own right (observer's left) when with other national flags\n- Above other flags when grouped on a single staff\n- Raised first and lowered last\n- Never dipped to any person or thing\n\n(Source: TC 7-21.13, Chapter 3, paras 3-27 to 3-30)",
+      "source_doc": "TC 7-21.13",
+      "source_page": 30,
+      "source_para": "Chapter 3, paras 3-27 to 3-30"
+    }
+  ]
+}

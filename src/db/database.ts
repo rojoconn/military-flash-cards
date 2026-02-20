@@ -87,12 +87,13 @@ export async function createCard(card: Omit<Card, 'id' | 'created_at' | 'updated
   const id = generateId();
 
   await database.runAsync(
-    `INSERT INTO cards (id, deck_id, front, back, type, source_doc, source_page,
+    `INSERT INTO cards (id, deck_id, front, back, type, source_doc, source_page, source_para,
       due, stability, difficulty, elapsed_days, scheduled_days, reps, lapses, state, last_review,
       created_at, updated_at)
-     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
     [
       id, card.deck_id, card.front, card.back, card.type, card.source_doc, card.source_page,
+      card.source_para ?? null,
       card.due, card.stability, card.difficulty, card.elapsed_days, card.scheduled_days,
       card.reps, card.lapses, card.state, card.last_review, now, now
     ]
@@ -322,6 +323,7 @@ export async function bulkImportCards(deckId: string, cards: Array<{
   type?: 'qa' | 'fillblank' | 'image';
   source_doc?: string;
   source_page?: number;
+  source_para?: string;
 }>): Promise<number> {
   const database = await getDatabase();
   const now = Date.now();
@@ -332,13 +334,13 @@ export async function bulkImportCards(deckId: string, cards: Array<{
     for (const card of cards) {
       const id = generateId();
       await database.runAsync(
-        `INSERT INTO cards (id, deck_id, front, back, type, source_doc, source_page,
+        `INSERT INTO cards (id, deck_id, front, back, type, source_doc, source_page, source_para,
           due, stability, difficulty, elapsed_days, scheduled_days, reps, lapses, state, last_review,
           created_at, updated_at)
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?, 0, 0, 0, 0, 0, 0, 'new', NULL, ?, ?)`,
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 0, 0, 0, 0, 0, 0, 'new', NULL, ?, ?)`,
         [
           id, deckId, card.front, card.back, card.type ?? 'qa',
-          card.source_doc ?? null, card.source_page ?? null,
+          card.source_doc ?? null, card.source_page ?? null, card.source_para ?? null,
           now, now, now
         ]
       );

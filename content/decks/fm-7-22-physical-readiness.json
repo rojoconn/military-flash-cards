@@ -1,0 +1,227 @@
+{
+  "deck": {
+    "name": "Physical Readiness Training (PRT)",
+    "description": "FM 7-22 - Army Physical Readiness Training doctrine, ACFT events, training principles, and exercise techniques",
+    "category": "FM",
+    "subcategory": "Physical Fitness"
+  },
+  "metadata": {
+    "publication": "FM 7-22",
+    "title": "Holistic Health and Fitness",
+    "date": "October 2020",
+    "proponent": "United States Army Center for Initial Military Training",
+    "note": "Supersedes TC 3-22.20"
+  },
+  "cards": [
+    {
+      "front": "What are the six events of the Army Combat Fitness Test (ACFT)?",
+      "back": "1. 3 Repetition Maximum Deadlift (MDL)\n2. Standing Power Throw (SPT)\n3. Hand Release Push-Up - Arm Extension (HRP)\n4. Sprint-Drag-Carry (SDC)\n5. Plank (PLK)\n6. 2-Mile Run (2MR)\n\n(Source: FM 7-22, Chapter 10, para 10-3)",
+      "source_doc": "FM 7-22",
+      "source_page": 123,
+      "source_para": "Chapter 10, para 10-3"
+    },
+    {
+      "front": "What is the minimum passing score for each ACFT event?",
+      "back": "The minimum score is 60 points per event, with a total minimum of 360 points to pass. Maximum score per event is 100 points, for a total possible score of 600 points.\n\n(Source: FM 7-22, Chapter 10, para 10-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 125,
+      "source_para": "Chapter 10, para 10-8"
+    },
+    {
+      "front": "What are the weight options for the 3 Repetition Maximum Deadlift (MDL)?",
+      "back": "Weight options: 140, 180, 200, 220, 250, 280, 310, 340 lbs\n\nMinimum passing weight: 140 lbs (60 points)\nMaximum score (100 points): 340 lbs\n\n(Source: FM 7-22, Chapter 10, Table 10-1)",
+      "source_doc": "FM 7-22",
+      "source_page": 127,
+      "source_para": "Chapter 10, Table 10-1"
+    },
+    {
+      "front": "What is the proper technique for the 3 Repetition Maximum Deadlift?",
+      "back": "1. Step inside the hex bar, feet shoulder-width apart\n2. Bend at knees and hips, grasp handles\n3. Arms fully extended, back flat, head neutral\n4. Stand up, fully extending hips and knees\n5. Lower weight under control to ground\n6. Repeat for 3 repetitions without stopping\n7. Rest periods between weight increases allowed\n\n(Source: FM 7-22, Chapter 10, para 10-15)",
+      "source_doc": "FM 7-22",
+      "source_page": 128,
+      "source_para": "Chapter 10, para 10-15"
+    },
+    {
+      "front": "How is the Standing Power Throw (SPT) performed?",
+      "back": "1. Stand with back to throw line, feet shoulder-width apart\n2. Hold 10-lb medicine ball at hip level\n3. Lower ball between legs while bending knees\n4. Explosively throw ball backward overhead\n5. Record distance from throw line to where ball lands\n6. One practice throw, then two record attempts\n7. Better of two attempts is recorded\n\n(Source: FM 7-22, Chapter 10, para 10-22)",
+      "source_doc": "FM 7-22",
+      "source_page": 132,
+      "source_para": "Chapter 10, para 10-22"
+    },
+    {
+      "front": "What is the Hand Release Push-Up - Arm Extension technique?",
+      "back": "1. Start in prone position, hands flat on ground\n2. Arms extend to side, forming a \"T\"\n3. Place hands under shoulders and push up\n4. Lower body until chest touches ground\n5. Lift hands and extend arms to sides (release)\n6. Return hands and push up again\n7. Continue for 2 minutes or until failure\n\n(Source: FM 7-22, Chapter 10, para 10-28)",
+      "source_doc": "FM 7-22",
+      "source_page": 135,
+      "source_para": "Chapter 10, para 10-28"
+    },
+    {
+      "front": "What are the five elements of the Sprint-Drag-Carry (SDC)?",
+      "back": "1. Sprint: 25m sprint down\n2. Drag: 25m backward drag with 90-lb sled\n3. Lateral: 25m lateral shuffle down and back\n4. Carry: 25m carry with two 40-lb kettlebells down and back\n5. Sprint: 25m sprint to finish\n\nTotal distance: 250 meters\n\n(Source: FM 7-22, Chapter 10, para 10-35)",
+      "source_doc": "FM 7-22",
+      "source_page": 138,
+      "source_para": "Chapter 10, para 10-35"
+    },
+    {
+      "front": "What is the Plank (PLK) event standard?",
+      "back": "Maintain a proper plank position for maximum time:\n- Elbows bent at 90°, directly under shoulders\n- Forearms flat on ground, hands open or in fists\n- Body forms straight line from shoulders to ankles\n- Head aligned with spine\n\nMinimum time: 1:00 (60 points)\nMaximum score: 3:20 or greater (100 points)\n\n(Source: FM 7-22, Chapter 10, para 10-42)",
+      "source_doc": "FM 7-22",
+      "source_page": 141,
+      "source_para": "Chapter 10, para 10-42"
+    },
+    {
+      "front": "What is the 2-Mile Run (2MR) time standard?",
+      "back": "The 2-Mile Run tests aerobic endurance.\n\nMinimum passing time: 21:00 (60 points)\nMaximum score (100 points): 13:30 or faster\n\nSoldiers must complete the run without walking or physical assistance.\n\n(Source: FM 7-22, Chapter 10, para 10-48)",
+      "source_doc": "FM 7-22",
+      "source_page": 144,
+      "source_para": "Chapter 10, para 10-48"
+    },
+    {
+      "front": "What are the three phases of Army Physical Readiness Training?",
+      "back": "1. Initial Conditioning Phase - Builds foundation (BCT/IET)\n2. Toughening Phase - Develops combat fitness (later BCT/AIT)\n3. Sustaining Phase - Maintains and improves fitness (unit level)\n\nEach phase progressively increases intensity and complexity.\n\n(Source: FM 7-22, Chapter 4, para 4-2)",
+      "source_doc": "FM 7-22",
+      "source_page": 35,
+      "source_para": "Chapter 4, para 4-2"
+    },
+    {
+      "front": "What are the seven principles of exercise?",
+      "back": "1. Precision - Correct technique\n2. Progression - Gradually increase difficulty\n3. Integration - Train all components together\n4. Specificity - Train for specific outcomes\n5. Overload - Work beyond normal levels\n6. Recovery - Allow adequate rest\n7. Variety - Vary activities to prevent boredom/plateau\n\n(Source: FM 7-22, Chapter 3, para 3-5)",
+      "source_doc": "FM 7-22",
+      "source_page": 22,
+      "source_para": "Chapter 3, para 3-5"
+    },
+    {
+      "front": "What are the components of Holistic Health and Fitness (H2F)?",
+      "back": "1. Physical Readiness - Strength, endurance, mobility\n2. Nutritional Readiness - Proper fueling\n3. Mental Readiness - Cognitive performance, emotional stability\n4. Sleep Readiness - Quantity and quality of sleep\n5. Spiritual Readiness - Core values and purpose\n\n(Source: FM 7-22, Chapter 1, para 1-4)",
+      "source_doc": "FM 7-22",
+      "source_page": 3,
+      "source_para": "Chapter 1, para 1-4"
+    },
+    {
+      "front": "What are the three types of strength training in PRT?",
+      "back": "1. Muscular Strength - Maximum force production (heavy loads, low reps)\n2. Muscular Endurance - Sustained force over time (lighter loads, high reps)\n3. Muscular Power - Force applied rapidly (explosive movements)\n\n(Source: FM 7-22, Chapter 6, para 6-3)",
+      "source_doc": "FM 7-22",
+      "source_page": 55,
+      "source_para": "Chapter 6, para 6-3"
+    },
+    {
+      "front": "What is the recommended PRT session structure?",
+      "back": "1. Preparation Drill (PD) - 5-10 minutes warm-up\n2. Activities - Main training (strength, endurance, mobility)\n3. Recovery Drill (RD) - 5-10 minutes cool-down\n\nSessions should last 45-90 minutes depending on training objectives.\n\n(Source: FM 7-22, Chapter 5, para 5-2)",
+      "source_doc": "FM 7-22",
+      "source_page": 42,
+      "source_para": "Chapter 5, para 5-2"
+    },
+    {
+      "front": "What exercises make up the Preparation Drill (PD)?",
+      "back": "1. Bend and Reach\n2. Rear Lunge\n3. High Jumper\n4. Rower\n5. Squat Bender\n6. Windmill\n7. Forward Lunge\n8. Prone Row\n9. Bent Leg Body Twist\n10. Push-Up\n\nPerform 5-10 repetitions each at moderate pace.\n\n(Source: FM 7-22, Chapter 5, para 5-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 45,
+      "source_para": "Chapter 5, para 5-8"
+    },
+    {
+      "front": "What is the Recovery Drill (RD)?",
+      "back": "Post-exercise cool-down consisting of static stretches held for 20-30 seconds:\n1. Overhead Arm Pull\n2. Rear Lunge\n3. Extend and Flex\n4. Thigh Stretch\n5. Single Leg Over\n6. Groin Stretch\n7. Calf Stretch\n8. Hamstring Stretch\n\n(Source: FM 7-22, Chapter 5, para 5-15)",
+      "source_doc": "FM 7-22",
+      "source_page": 49,
+      "source_para": "Chapter 5, para 5-15"
+    },
+    {
+      "front": "What is the 4 for the Core exercise series?",
+      "back": "1. Bent Leg Raise\n2. Side Bridge (left and right)\n3. Back Bridge\n4. Quadraplex\n\nThese exercises develop core stability and strength for functional movement.\n\n(Source: FM 7-22, Chapter 6, para 6-18)",
+      "source_doc": "FM 7-22",
+      "source_page": 62,
+      "source_para": "Chapter 6, para 6-18"
+    },
+    {
+      "front": "What are the Hip Stability Drills (HSD)?",
+      "back": "1. Lateral Leg Raise\n2. Medial Leg Raise\n3. Bent Leg Lateral Raise\n4. Single Leg Tuck\n5. Single Leg Over\n\nPerform 5-10 reps per leg to develop hip stability and strength.\n\n(Source: FM 7-22, Chapter 6, para 6-22)",
+      "source_doc": "FM 7-22",
+      "source_page": 65,
+      "source_para": "Chapter 6, para 6-22"
+    },
+    {
+      "front": "What are the types of running activities in PRT?",
+      "back": "1. Sustained Running (endurance) - 30-60 minutes at steady pace\n2. Speed Running - Sprints, intervals\n3. Foot Marching - Rucking with load\n4. Ability Group Runs - Formation runs by fitness level\n5. Release Runs - Individual pace for distance\n6. Terrain Running - Variable surfaces and grades\n\n(Source: FM 7-22, Chapter 7, para 7-3)",
+      "source_doc": "FM 7-22",
+      "source_page": 72,
+      "source_para": "Chapter 7, para 7-3"
+    },
+    {
+      "front": "What is the 30:60 interval training method?",
+      "back": "Alternating 30 seconds of high-intensity work with 60 seconds of recovery (walking or light jog). Used to develop speed and anaerobic capacity.\n\nProgression: Start with 5-6 intervals, build to 10-12 over time.\n\n(Source: FM 7-22, Chapter 7, para 7-12)",
+      "source_doc": "FM 7-22",
+      "source_page": 76,
+      "source_para": "Chapter 7, para 7-12"
+    },
+    {
+      "front": "What is the 60:120 interval training method?",
+      "back": "Alternating 60 seconds of high-intensity work with 120 seconds of recovery. Develops aerobic power and stamina.\n\nMore challenging than 30:60s; used in Toughening and Sustaining phases.\n\n(Source: FM 7-22, Chapter 7, para 7-13)",
+      "source_doc": "FM 7-22",
+      "source_page": 76,
+      "source_para": "Chapter 7, para 7-13"
+    },
+    {
+      "front": "What is the recommended foot march training progression?",
+      "back": "Start: 3 miles with 35 lbs at 20 min/mile pace\nProgress: Add distance before adding weight\nStandard: 12 miles with 35 lbs in 3 hours or less\n\nConduct no more than twice per week. Include recovery time.\n\n(Source: FM 7-22, Chapter 7, para 7-22)",
+      "source_doc": "FM 7-22",
+      "source_page": 80,
+      "source_para": "Chapter 7, para 7-22"
+    },
+    {
+      "front": "What is the Military Movement Drill 1 (MMD1)?",
+      "back": "1. Verticals - High knee run\n2. Laterals - Lateral shuffle\n3. Shuttle Sprint - Sprint forward and back\n\nPerform over 25m distance, develops agility and speed.\n\n(Source: FM 7-22, Chapter 7, para 7-28)",
+      "source_doc": "FM 7-22",
+      "source_page": 83,
+      "source_para": "Chapter 7, para 7-28"
+    },
+    {
+      "front": "What is the Military Movement Drill 2 (MMD2)?",
+      "back": "1. Power Skip\n2. Crossover\n3. Crouch Run\n\nMore advanced than MMD1, develops power and coordination.\n\n(Source: FM 7-22, Chapter 7, para 7-32)",
+      "source_doc": "FM 7-22",
+      "source_page": 85,
+      "source_para": "Chapter 7, para 7-32"
+    },
+    {
+      "front": "What are the signs of overtraining?",
+      "back": "- Decreased performance despite training\n- Persistent fatigue\n- Increased resting heart rate\n- Disturbed sleep\n- Loss of appetite\n- Irritability/mood changes\n- Increased injuries/illness\n- Decreased motivation\n\nResponse: Reduce training volume, increase recovery.\n\n(Source: FM 7-22, Chapter 3, para 3-18)",
+      "source_doc": "FM 7-22",
+      "source_page": 28,
+      "source_para": "Chapter 3, para 3-18"
+    },
+    {
+      "front": "What is the recommended work-to-rest ratio for strength training?",
+      "back": "Heavy loads (1-5 reps): 2-5 minutes rest\nModerate loads (6-12 reps): 1-2 minutes rest\nLight loads/endurance (12+ reps): 30-60 seconds rest\n\nAdequate rest allows for quality repetitions.\n\n(Source: FM 7-22, Chapter 6, para 6-8)",
+      "source_doc": "FM 7-22",
+      "source_page": 58,
+      "source_para": "Chapter 6, para 6-8"
+    },
+    {
+      "front": "What are the Conditioning Drills?",
+      "back": "CD 1: Power Jump, V-Up, Mountain Climber, Leg Tuck and Twist, Single Leg Push-Up\n\nCD 2: Turn and Lunge, Supine Bicycle, Half Jacks, Swimmer, 8-Count T Push-Up\n\nCD 3: Y Squat, Single Leg Dead Lift, Side-to-Side Knee Lift, Front Kick Alternate Toe Touch, Tuck Jump\n\n(Source: FM 7-22, Chapter 6, para 6-25)",
+      "source_doc": "FM 7-22",
+      "source_page": 68,
+      "source_para": "Chapter 6, para 6-25"
+    },
+    {
+      "front": "How often should Soldiers take the ACFT?",
+      "back": "- Diagnostic ACFT: Can be taken anytime for training purposes\n- Record ACFT: Minimum twice per year (semi-annually)\n- Minimum rest between record tests: 4 months\n\nCommanders may schedule additional diagnostic ACFTs as needed.\n\n(Source: FM 7-22, Chapter 10, para 10-5)",
+      "source_doc": "FM 7-22",
+      "source_page": 124,
+      "source_para": "Chapter 10, para 10-5"
+    },
+    {
+      "front": "What rest is required between ACFT events?",
+      "back": "Minimum 2 minutes, maximum 5 minutes between events.\n\nEvents must be completed in order: MDL → SPT → HRP → SDC → PLK → 2MR\n\n(Source: FM 7-22, Chapter 10, para 10-10)",
+      "source_doc": "FM 7-22",
+      "source_page": 126,
+      "source_para": "Chapter 10, para 10-10"
+    },
+    {
+      "front": "What are the environmental considerations for the ACFT?",
+      "back": "Heat Category V (Black Flag): Commander's discretion, consider postponing\nWet Bulb Globe Temperature >90°F: Increase rest, hydration, monitor Soldiers\nLightning within 6 miles: Suspend outdoor test\nWind >15 mph: May affect SPT results\nAltitude >5,000 ft: 2MR times may be affected\n\n(Source: FM 7-22, Chapter 10, para 10-12)",
+      "source_doc": "FM 7-22",
+      "source_page": 127,
+      "source_para": "Chapter 10, para 10-12"
+    }
+  ]
+}

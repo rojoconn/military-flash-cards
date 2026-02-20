@@ -17,8 +17,9 @@ export interface Card {
   front: string;
   back: string;
   type: 'qa' | 'fillblank' | 'image';
-  source_doc: string | null;
-  source_page: number | null;
+  source_doc: string | null;      // Publication number (e.g., "TC 7-21.13")
+  source_page: number | null;      // Page number
+  source_para: string | null;      // Paragraph/section reference (e.g., "Chapter 3, para 3-12")
 
   // FSRS State
   due: number;
@@ -75,6 +76,7 @@ export const CREATE_TABLES_SQL = `
     type TEXT NOT NULL DEFAULT 'qa' CHECK (type IN ('qa', 'fillblank', 'image')),
     source_doc TEXT,
     source_page INTEGER,
+    source_para TEXT,
 
     -- FSRS State
     due INTEGER NOT NULL,
