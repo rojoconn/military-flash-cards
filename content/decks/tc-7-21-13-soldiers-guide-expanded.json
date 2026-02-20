@@ -1,0 +1,635 @@
+{
+  "deck": {
+    "name": "The Soldier's Guide",
+    "description": "TC 7-21.13 - Comprehensive coverage of Army Values, ranks, customs, drill, and military justice",
+    "category": "TC",
+    "subcategory": "Common Soldier Skills"
+  },
+  "metadata": {
+    "publication": "TC 7-21.13",
+    "title": "The Soldier's Guide",
+    "date": "December 2020",
+    "proponent": "United States Army Combined Arms Center",
+    "card_count": 105
+  },
+  "cards": [
+    {
+      "front": "What are the seven Army Values?",
+      "back": "Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, and Personal Courage (LDRSHIP).\n\n(Source: TC 7-21.13, Ch 2, para 2-1)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-1"
+    },
+    {
+      "front": "Define the Army Value: LOYALTY",
+      "back": "Bear true faith and allegiance to the U.S. Constitution, the Army, your unit, and other Soldiers.\n\n(Source: TC 7-21.13, Ch 2, para 2-2)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-2"
+    },
+    {
+      "front": "Define the Army Value: DUTY",
+      "back": "Fulfill your obligations. Accept responsibility for your own actions and those entrusted to your care.\n\n(Source: TC 7-21.13, Ch 2, para 2-3)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-3"
+    },
+    {
+      "front": "Define the Army Value: RESPECT",
+      "back": "Treat people as they should be treated.\n\n(Source: TC 7-21.13, Ch 2, para 2-4)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-4"
+    },
+    {
+      "front": "Define the Army Value: SELFLESS SERVICE",
+      "back": "Put the welfare of the Nation, the Army, and your subordinates before your own.\n\n(Source: TC 7-21.13, Ch 2, para 2-5)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-5"
+    },
+    {
+      "front": "Define the Army Value: HONOR",
+      "back": "Live up to all the Army Values.\n\n(Source: TC 7-21.13, Ch 2, para 2-6)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-6"
+    },
+    {
+      "front": "Define the Army Value: INTEGRITY",
+      "back": "Do what is right, legally and morally.\n\n(Source: TC 7-21.13, Ch 2, para 2-7)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-7"
+    },
+    {
+      "front": "Define the Army Value: PERSONAL COURAGE",
+      "back": "Face fear, danger, or adversity (physical or moral).\n\n(Source: TC 7-21.13, Ch 2, para 2-8)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-8"
+    },
+    {
+      "front": "What are the four tenets of the Warrior Ethos?",
+      "back": "1. I will always place the mission first\n2. I will never accept defeat\n3. I will never quit\n4. I will never leave a fallen comrade\n\n(Source: TC 7-21.13, Ch 2, para 2-10)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-10"
+    },
+    {
+      "front": "What is the Army motto?",
+      "back": "\"This We'll Defend.\"\n\n(Source: TC 7-21.13, Ch 2, para 2-15)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-15"
+    },
+    {
+      "front": "When was the United States Army established?",
+      "back": "14 June 1775.\n\n(Source: TC 7-21.13, Ch 2, para 2-14)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-14"
+    },
+    {
+      "front": "What is the NCO watchword?",
+      "back": "Competence.\n\n(Source: TC 7-21.13, Ch 2, para 2-12)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-12"
+    },
+    {
+      "front": "What are the two basic responsibilities of an NCO?",
+      "back": "1. Accomplishment of the mission\n2. Welfare of Soldiers\n\n(Source: TC 7-21.13, Ch 2, para 2-12)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-12"
+    },
+    {
+      "front": "What is the NCO Corps known as?",
+      "back": "\"The Backbone of the Army.\"\n\n(Source: TC 7-21.13, Ch 2, para 2-12)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-12"
+    },
+    {
+      "front": "What rank is E-1?",
+      "back": "Private (PV1). No insignia.\n\n(Source: TC 7-21.13, Ch 2, para 2-20)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-20"
+    },
+    {
+      "front": "What rank is E-2?",
+      "back": "Private (PV2). One chevron.\n\n(Source: TC 7-21.13, Ch 2, para 2-20)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-20"
+    },
+    {
+      "front": "What rank is E-3?",
+      "back": "Private First Class (PFC). One chevron, one rocker.\n\n(Source: TC 7-21.13, Ch 2, para 2-20)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-20"
+    },
+    {
+      "front": "What rank is E-4?",
+      "back": "Specialist (SPC) or Corporal (CPL). SPC has eagle; CPL has two chevrons.\n\n(Source: TC 7-21.13, Ch 2, para 2-20)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-20"
+    },
+    {
+      "front": "What rank is E-5?",
+      "back": "Sergeant (SGT). Three chevrons.\n\n(Source: TC 7-21.13, Ch 2, para 2-20)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-20"
+    },
+    {
+      "front": "What rank is E-6?",
+      "back": "Staff Sergeant (SSG). Three chevrons, one rocker.\n\n(Source: TC 7-21.13, Ch 2, para 2-20)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-20"
+    },
+    {
+      "front": "What rank is E-7?",
+      "back": "Sergeant First Class (SFC). Three chevrons, two rockers.\n\n(Source: TC 7-21.13, Ch 2, para 2-20)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-20"
+    },
+    {
+      "front": "What rank is E-8?",
+      "back": "Master Sergeant (MSG) or First Sergeant (1SG). Three chevrons, three rockers. 1SG has diamond.\n\n(Source: TC 7-21.13, Ch 2, para 2-20)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-20"
+    },
+    {
+      "front": "What rank is E-9?",
+      "back": "Sergeant Major (SGM), Command Sergeant Major (CSM), or Sergeant Major of the Army (SMA).\n\n(Source: TC 7-21.13, Ch 2, para 2-20)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-20"
+    },
+    {
+      "front": "What distinguishes a First Sergeant (1SG) from a Master Sergeant (MSG)?",
+      "back": "The 1SG has a diamond in the center of the insignia. 1SG is a leadership position; MSG is a technical position.\n\n(Source: TC 7-21.13, Ch 2, para 2-20)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-20"
+    },
+    {
+      "front": "What rank is O-1?",
+      "back": "Second Lieutenant (2LT). One gold bar.\n\n(Source: TC 7-21.13, Ch 2, para 2-21)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-21"
+    },
+    {
+      "front": "What rank is O-2?",
+      "back": "First Lieutenant (1LT). One silver bar.\n\n(Source: TC 7-21.13, Ch 2, para 2-21)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-21"
+    },
+    {
+      "front": "What rank is O-3?",
+      "back": "Captain (CPT). Two silver bars (railroad tracks).\n\n(Source: TC 7-21.13, Ch 2, para 2-21)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-21"
+    },
+    {
+      "front": "What rank is O-4?",
+      "back": "Major (MAJ). Gold oak leaf.\n\n(Source: TC 7-21.13, Ch 2, para 2-21)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-21"
+    },
+    {
+      "front": "What rank is O-5?",
+      "back": "Lieutenant Colonel (LTC). Silver oak leaf.\n\n(Source: TC 7-21.13, Ch 2, para 2-21)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-21"
+    },
+    {
+      "front": "What rank is O-6?",
+      "back": "Colonel (COL). Silver eagle.\n\n(Source: TC 7-21.13, Ch 2, para 2-21)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-21"
+    },
+    {
+      "front": "What rank is O-7?",
+      "back": "Brigadier General (BG). One star.\n\n(Source: TC 7-21.13, Ch 2, para 2-21)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-21"
+    },
+    {
+      "front": "What rank is O-8?",
+      "back": "Major General (MG). Two stars.\n\n(Source: TC 7-21.13, Ch 2, para 2-21)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-21"
+    },
+    {
+      "front": "What rank is O-9?",
+      "back": "Lieutenant General (LTG). Three stars.\n\n(Source: TC 7-21.13, Ch 2, para 2-21)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-21"
+    },
+    {
+      "front": "What rank is O-10?",
+      "back": "General (GEN). Four stars.\n\n(Source: TC 7-21.13, Ch 2, para 2-21)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-21"
+    },
+    {
+      "front": "What rank is WO1?",
+      "back": "Warrant Officer One. Silver bar with black square.\n\n(Source: TC 7-21.13, Ch 2, para 2-22)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-22"
+    },
+    {
+      "front": "What rank is CW2?",
+      "back": "Chief Warrant Officer Two. Silver bar with two black squares.\n\n(Source: TC 7-21.13, Ch 2, para 2-22)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-22"
+    },
+    {
+      "front": "What rank is CW3?",
+      "back": "Chief Warrant Officer Three. Silver bar with three black squares.\n\n(Source: TC 7-21.13, Ch 2, para 2-22)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-22"
+    },
+    {
+      "front": "What rank is CW4?",
+      "back": "Chief Warrant Officer Four. Silver bar with four black squares.\n\n(Source: TC 7-21.13, Ch 2, para 2-22)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-22"
+    },
+    {
+      "front": "What rank is CW5?",
+      "back": "Chief Warrant Officer Five. Silver bar with black stripe.\n\n(Source: TC 7-21.13, Ch 2, para 2-22)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 2, para 2-22"
+    },
+    {
+      "front": "Who salutes first?",
+      "back": "The junior member always salutes first.\n\n(Source: TC 7-21.13, Ch 3, para 3-1)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-1"
+    },
+    {
+      "front": "When do you salute outdoors?",
+      "back": "When you meet or pass a commissioned or warrant officer.\n\n(Source: TC 7-21.13, Ch 3, para 3-2)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-2"
+    },
+    {
+      "front": "When do you salute during music/ceremonies?",
+      "back": "During the National Anthem, \"To the Color,\" \"Hail to the Chief,\" or when uncased colors pass.\n\n(Source: TC 7-21.13, Ch 3, para 3-5)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-5"
+    },
+    {
+      "front": "Do you salute indoors?",
+      "back": "No, except when reporting to a superior officer or when under arms.\n\n(Source: TC 7-21.13, Ch 3, para 3-8)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "Do you salute while in a military vehicle?",
+      "back": "No, occupants of vehicles do not salute.\n\n(Source: TC 7-21.13, Ch 3, para 3-8)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "Do you salute while carrying items with both hands?",
+      "back": "No, when impractical, render a verbal greeting instead.\n\n(Source: TC 7-21.13, Ch 3, para 3-8)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "How do you address an officer?",
+      "back": "Use \"Sir\" or \"Ma'am.\"\n\n(Source: TC 7-21.13, Ch 3, para 3-13)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-13"
+    },
+    {
+      "front": "How do you address an NCO (E-5 to E-8)?",
+      "back": "Address them as \"Sergeant\" or by full rank (\"Staff Sergeant\").\n\n(Source: TC 7-21.13, Ch 3, para 3-14)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-14"
+    },
+    {
+      "front": "How do you address a Sergeant Major (E-9)?",
+      "back": "\"Sergeant Major.\"\n\n(Source: TC 7-21.13, Ch 3, para 3-14)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-14"
+    },
+    {
+      "front": "What should you do outdoors when \"Reveille\" is played?",
+      "back": "Face the flag, stand at attention, and salute during \"To the Color.\"\n\n(Source: TC 7-21.13, Ch 3, para 3-21)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-21"
+    },
+    {
+      "front": "What should you do outdoors when \"Retreat\" is played?",
+      "back": "Stop, face the flag, and stand at attention. Salute when \"To the Color\" plays.\n\n(Source: TC 7-21.13, Ch 3, para 3-22)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-22"
+    },
+    {
+      "front": "What is the proper response when the National Anthem plays outdoors?",
+      "back": "Face the flag (or music), stand at attention, and salute from first to last note.\n\n(Source: TC 7-21.13, Ch 3, para 3-23)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-23"
+    },
+    {
+      "front": "What is the correct position of the U.S. flag when displayed with other flags?",
+      "back": "To its own right (observer's left) and raised first, lowered last.\n\n(Source: TC 7-21.13, Ch 3, para 3-27)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-27"
+    },
+    {
+      "front": "Should the U.S. flag ever be dipped?",
+      "back": "No, the U.S. flag is never dipped to any person or thing.\n\n(Source: TC 7-21.13, Ch 3, para 3-30)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-30"
+    },
+    {
+      "front": "What is a 'rank' in drill?",
+      "back": "A line of Soldiers placed side by side.\n\n(Source: TC 7-21.13, Ch 4, para 4-3)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-3"
+    },
+    {
+      "front": "What is a 'file' in drill?",
+      "back": "A column of Soldiers placed one behind the other.\n\n(Source: TC 7-21.13, Ch 4, para 4-3)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-3"
+    },
+    {
+      "front": "What is 'normal interval' in formation?",
+      "back": "One arm's length (approximately 30 inches).\n\n(Source: TC 7-21.13, Ch 4, para 4-4)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-4"
+    },
+    {
+      "front": "What is 'close interval' in formation?",
+      "back": "Approximately 4 inches (shoulder to shoulder).\n\n(Source: TC 7-21.13, Ch 4, para 4-4)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-4"
+    },
+    {
+      "front": "What are the two parts of a drill command?",
+      "back": "Preparatory command and command of execution.\n\n(Source: TC 7-21.13, Ch 4, para 4-6)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-6"
+    },
+    {
+      "front": "What is the length of a normal marching step?",
+      "back": "30 inches.\n\n(Source: TC 7-21.13, Ch 4, para 4-9)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-9"
+    },
+    {
+      "front": "How many steps per minute is quick time?",
+      "back": "120 steps per minute.\n\n(Source: TC 7-21.13, Ch 4, para 4-9)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-9"
+    },
+    {
+      "front": "How many steps per minute is double time?",
+      "back": "180 steps per minute.\n\n(Source: TC 7-21.13, Ch 4, para 4-9)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-9"
+    },
+    {
+      "front": "What is the position of Attention?",
+      "back": "Heels together, feet at 45°, arms at sides, thumbs along trouser seams, head erect.\n\n(Source: TC 7-21.13, Ch 4, para 4-11)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-11"
+    },
+    {
+      "front": "On \"Parade, REST\" where do your hands go?",
+      "back": "Small of the back, right hand over left, fingers extended and joined.\n\n(Source: TC 7-21.13, Ch 4, para 4-12)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-12"
+    },
+    {
+      "front": "How far does the left foot move on \"Parade, REST\"?",
+      "back": "10 inches to the left.\n\n(Source: TC 7-21.13, Ch 4, para 4-12)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-12"
+    },
+    {
+      "front": "What is the difference between \"At Ease\" and \"Rest\"?",
+      "back": "At Ease: Keep right foot in place, remain silent. Rest: May move and talk, but keep right foot in place.\n\n(Source: TC 7-21.13, Ch 4, para 4-13)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-13"
+    },
+    {
+      "front": "What command allows movement and talking?",
+      "back": "\"REST\" or \"Fall Out.\"\n\n(Source: TC 7-21.13, Ch 4, para 4-13)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-13"
+    },
+    {
+      "front": "On what foot does \"HALT\" execute?",
+      "back": "Right foot (take one more step with left, then bring right alongside).\n\n(Source: TC 7-21.13, Ch 4, para 4-18)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-18"
+    },
+    {
+      "front": "What is the command to execute a right turn while marching?",
+      "back": "\"Right turn, MARCH\" or \"Column right, MARCH.\"\n\n(Source: TC 7-21.13, Ch 4, para 4-22)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-22"
+    },
+    {
+      "front": "How do you execute \"About, FACE\" from attention?",
+      "back": "Pivot 180° to the right on the heel of the right foot and ball of the left foot.\n\n(Source: TC 7-21.13, Ch 4, para 4-17)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-17"
+    },
+    {
+      "front": "What is the command to change from quick time to double time?",
+      "back": "\"Double time, MARCH.\"\n\n(Source: TC 7-21.13, Ch 4, para 4-20)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-20"
+    },
+    {
+      "front": "What is the command to change from double time to quick time?",
+      "back": "\"Quick time, MARCH.\"\n\n(Source: TC 7-21.13, Ch 4, para 4-20)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 4, para 4-20"
+    },
+    {
+      "front": "What does UCMJ stand for?",
+      "back": "Uniform Code of Military Justice.\n\n(Source: TC 7-21.13, Ch 6, para 6-1)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-1"
+    },
+    {
+      "front": "What is Article 15?",
+      "back": "Non-judicial punishment. Allows commanders to punish minor offenses without a court-martial.\n\n(Source: TC 7-21.13, Ch 6, para 6-3)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-3"
+    },
+    {
+      "front": "Can a Soldier refuse Article 15?",
+      "back": "Yes, a Soldier has the right to demand trial by court-martial instead.\n\n(Source: TC 7-21.13, Ch 6, para 6-3)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-3"
+    },
+    {
+      "front": "What is a Summary Court-Martial?",
+      "back": "For minor offenses. Maximum punishment: 30 days confinement.\n\n(Source: TC 7-21.13, Ch 6, para 6-4)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-4"
+    },
+    {
+      "front": "What is a Special Court-Martial?",
+      "back": "For intermediate offenses. Maximum: 12 months confinement.\n\n(Source: TC 7-21.13, Ch 6, para 6-4)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-4"
+    },
+    {
+      "front": "What is a General Court-Martial?",
+      "back": "For most serious offenses. Can impose any authorized punishment, including death.\n\n(Source: TC 7-21.13, Ch 6, para 6-4)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-4"
+    },
+    {
+      "front": "What is Article 86 of the UCMJ?",
+      "back": "Absence Without Leave (AWOL).\n\n(Source: TC 7-21.13, Ch 6, para 6-8)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-8"
+    },
+    {
+      "front": "What is Article 91 of the UCMJ?",
+      "back": "Insubordinate conduct toward a warrant officer, NCO, or petty officer.\n\n(Source: TC 7-21.13, Ch 6, para 6-8)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-8"
+    },
+    {
+      "front": "What is Article 92 of the UCMJ?",
+      "back": "Failure to obey an order or regulation.\n\n(Source: TC 7-21.13, Ch 6, para 6-8)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-8"
+    },
+    {
+      "front": "What is Article 134 of the UCMJ?",
+      "back": "The \"General Article\" - covers conduct prejudicial to good order and discipline.\n\n(Source: TC 7-21.13, Ch 6, para 6-8)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-8"
+    },
+    {
+      "front": "What is General Order 1 for guard duty?",
+      "back": "I will guard everything within the limits of my post and quit my post only when properly relieved.\n\n(Source: TC 7-21.13, Ch 6, para 6-12)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-12"
+    },
+    {
+      "front": "What is General Order 2 for guard duty?",
+      "back": "I will obey my special orders and perform all my duties in a military manner.\n\n(Source: TC 7-21.13, Ch 6, para 6-12)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-12"
+    },
+    {
+      "front": "What is General Order 3 for guard duty?",
+      "back": "I will report violations of my special orders, emergencies, and anything not covered in my instructions.\n\n(Source: TC 7-21.13, Ch 6, para 6-12)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-12"
+    },
+    {
+      "front": "What is the Code of Conduct?",
+      "back": "Six articles prescribing how Soldiers conduct themselves in combat and captivity.\n\n(Source: TC 7-21.13, Ch 6, para 6-15)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-15"
+    },
+    {
+      "front": "What is Article I of the Code of Conduct?",
+      "back": "I am an American, fighting in the forces which guard my country. I am prepared to give my life in their defense.\n\n(Source: TC 7-21.13, Ch 6, para 6-16)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-16"
+    },
+    {
+      "front": "What is Article II of the Code of Conduct?",
+      "back": "I will never surrender of my own free will.\n\n(Source: TC 7-21.13, Ch 6, para 6-16)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-16"
+    },
+    {
+      "front": "What is Article III of the Code of Conduct?",
+      "back": "If captured, I will continue to resist. I will make every effort to escape.\n\n(Source: TC 7-21.13, Ch 6, para 6-16)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-16"
+    },
+    {
+      "front": "What is Article IV of the Code of Conduct?",
+      "back": "If a POW, I will keep faith with my fellow prisoners. If senior, I will take command.\n\n(Source: TC 7-21.13, Ch 6, para 6-16)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-16"
+    },
+    {
+      "front": "What is Article V of the Code of Conduct?",
+      "back": "If questioned as a POW, I give only name, rank, service number, and date of birth.\n\n(Source: TC 7-21.13, Ch 6, para 6-16)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-16"
+    },
+    {
+      "front": "What is Article VI of the Code of Conduct?",
+      "back": "I will never forget that I am an American, responsible for my actions, and dedicated to freedom.\n\n(Source: TC 7-21.13, Ch 6, para 6-16)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-16"
+    },
+    {
+      "front": "What four pieces of information may a POW give?",
+      "back": "Name, Rank, Service Number, Date of Birth.\n\n(Source: TC 7-21.13, Ch 6, para 6-17)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 6, para 6-17"
+    },
+    {
+      "front": "What does the term \"chain of command\" mean?",
+      "back": "The succession of leaders through which command authority is exercised.\n\n(Source: TC 7-21.13, Ch 1, para 1-5)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 1, para 1-5"
+    },
+    {
+      "front": "Who is the Commander in Chief of the U.S. Armed Forces?",
+      "back": "The President of the United States.\n\n(Source: TC 7-21.13, Ch 1, para 1-5)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 1, para 1-5"
+    },
+    {
+      "front": "What is the difference between a command and a staff position?",
+      "back": "Command positions have authority over units. Staff positions advise and assist commanders.\n\n(Source: TC 7-21.13, Ch 1, para 1-8)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 1, para 1-8"
+    },
+    {
+      "front": "What is the purpose of military courtesy?",
+      "back": "To show respect and develop teamwork among Soldiers.\n\n(Source: TC 7-21.13, Ch 3, para 3-16)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-16"
+    },
+    {
+      "front": "What is the proper procedure when entering an officer's office?",
+      "back": "Knock, enter when told, approach within two paces, salute, and report.\n\n(Source: TC 7-21.13, Ch 3, para 3-15)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-15"
+    },
+    {
+      "front": "What does \"rendering honors\" mean?",
+      "back": "Showing respect through salutes, attention, or other prescribed actions.\n\n(Source: TC 7-21.13, Ch 3, para 3-24)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-24"
+    },
+    {
+      "front": "When walking with a senior, where should the junior be?",
+      "back": "On the senior's left (the position of honor is on the right).\n\n(Source: TC 7-21.13, Ch 3, para 3-18)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-18"
+    },
+    {
+      "front": "What is a \"guidon\"?",
+      "back": "A swallow-tailed flag that identifies a company, battery, troop, or detachment.\n\n(Source: TC 7-21.13, Ch 3, para 3-36)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-36"
+    },
+    {
+      "front": "What does \"colors\" refer to?",
+      "back": "The national flag and organizational flag of a unit.\n\n(Source: TC 7-21.13, Ch 3, para 3-33)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-33"
+    },
+    {
+      "front": "What is \"half-staff\" (half-mast)?",
+      "back": "The flag is flown at half the height of the pole as a sign of mourning.\n\n(Source: TC 7-21.13, Ch 3, para 3-31)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-31"
+    },
+    {
+      "front": "When is the flag flown at half-staff?",
+      "back": "On Memorial Day (until noon), death of officials, or as ordered by the President.\n\n(Source: TC 7-21.13, Ch 3, para 3-31)",
+      "source_doc": "TC 7-21.13",
+      "source_para": "Chapter 3, para 3-31"
+    }
+  ]
+}

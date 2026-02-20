@@ -1,0 +1,709 @@
+{
+  "deck": {
+    "name": "The NCO Guide",
+    "description": "TC 7-22.7 - NCO responsibilities, leadership, counseling, professional development, and training management",
+    "category": "TC",
+    "subcategory": "Leadership"
+  },
+  "metadata": {
+    "publication": "TC 7-22.7",
+    "title": "The Noncommissioned Officer Guide",
+    "date": "December 2020",
+    "proponent": "United States Army Combined Arms Center"
+  },
+  "cards": [
+    {
+      "front": "What is the primary duty of an NCO?",
+      "back": "To train Soldiers and lead them in the execution of tasks.\n\n(Source: TC 7-22.7, Ch 1, para 1-2)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 3,
+      "source_para": "Chapter 1, para 1-2"
+    },
+    {
+      "front": "What are the three main duties of every NCO?",
+      "back": "Conduct training, Maintain and enforce standards, Take care of Soldiers.\n\n(Source: TC 7-22.7, Ch 1, para 1-3)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 3,
+      "source_para": "Chapter 1, para 1-3"
+    },
+    {
+      "front": "What are the three types of developmental counseling?",
+      "back": "Event counseling, Performance counseling, and Professional growth counseling.\n\n(Source: TC 7-22.7, Ch 3, para 3-4)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 22,
+      "source_para": "Chapter 3, para 3-4"
+    },
+    {
+      "front": "When should performance counseling be conducted?",
+      "back": "Within 30 days of initial assignment and quarterly thereafter.\n\n(Source: TC 7-22.7, Ch 3, para 3-8)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 24,
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "What form is used to document developmental counseling?",
+      "back": "DA Form 4856 (Developmental Counseling Form).\n\n(Source: TC 7-22.7, Ch 3, para 3-12)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 26,
+      "source_para": "Chapter 3, para 3-12"
+    },
+    {
+      "front": "What are the four stages of the counseling process?",
+      "back": "Identify need, Prepare, Conduct, Follow up.\n\n(Source: TC 7-22.7, Ch 3, para 3-15)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 28,
+      "source_para": "Chapter 3, para 3-15"
+    },
+    {
+      "front": "What is event counseling?",
+      "back": "Counseling that addresses specific events (positive or corrective) such as superior performance or misconduct.\n\n(Source: TC 7-22.7, Ch 3, para 3-5)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 22,
+      "source_para": "Chapter 3, para 3-5"
+    },
+    {
+      "front": "What is professional growth counseling?",
+      "back": "Counseling focused on long-term career goals, professional development, and personal growth.\n\n(Source: TC 7-22.7, Ch 3, para 3-7)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 23,
+      "source_para": "Chapter 3, para 3-7"
+    },
+    {
+      "front": "What are the NCO's responsibilities regarding training?",
+      "back": "Train Soldiers to standard, certify training proficiency, and maintain individual/crew readiness.\n\n(Source: TC 7-22.7, Ch 2, para 2-4)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 12,
+      "source_para": "Chapter 2, para 2-4"
+    },
+    {
+      "front": "What does 'train as you fight' mean?",
+      "back": "Training should replicate combat conditions as closely as possible to prepare Soldiers for actual operations.\n\n(Source: TC 7-22.7, Ch 2, para 2-8)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 14,
+      "source_para": "Chapter 2, para 2-8"
+    },
+    {
+      "front": "What is the NCO Support Channel?",
+      "back": "The communication path used by NCOs from squad leader through CSM parallel to the chain of command.\n\n(Source: TC 7-22.7, Ch 1, para 1-8)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 6,
+      "source_para": "Chapter 1, para 1-8"
+    },
+    {
+      "front": "What is the relationship between officers and NCOs?",
+      "back": "Officers command, establish policy, and assign missions. NCOs train Soldiers, maintain standards, and execute missions.\n\n(Source: TC 7-22.7, Ch 1, para 1-6)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 5,
+      "source_para": "Chapter 1, para 1-6"
+    },
+    {
+      "front": "What are the three levels of leadership (BE, KNOW, DO)?",
+      "back": "BE: Character and values. KNOW: Knowledge and skills. DO: Actions and influence.\n\n(Source: TC 7-22.7, Ch 1, para 1-12)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 8,
+      "source_para": "Chapter 1, para 1-12"
+    },
+    {
+      "front": "What is the purpose of the NCO Evaluation Report (NCOER)?",
+      "back": "To evaluate NCO performance and potential, provide feedback, and inform personnel decisions.\n\n(Source: TC 7-22.7, Ch 4, para 4-2)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 35,
+      "source_para": "Chapter 4, para 4-2"
+    },
+    {
+      "front": "How often is an NCOER typically completed?",
+      "back": "Annually, or upon change of rater, departure from unit, or completion of rating period.\n\n(Source: TC 7-22.7, Ch 4, para 4-4)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 36,
+      "source_para": "Chapter 4, para 4-4"
+    },
+    {
+      "front": "What form is used for the NCO Evaluation Report?",
+      "back": "DA Form 2166-9 series (various versions for different ranks).\n\n(Source: TC 7-22.7, Ch 4, para 4-5)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 36,
+      "source_para": "Chapter 4, para 4-5"
+    },
+    {
+      "front": "What is the NCO's role in maintaining discipline?",
+      "back": "Enforce standards, correct deficiencies immediately, counsel Soldiers, and recommend appropriate action.\n\n(Source: TC 7-22.7, Ch 2, para 2-15)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 18,
+      "source_para": "Chapter 2, para 2-15"
+    },
+    {
+      "front": "What should an NCO do when a Soldier performs poorly?",
+      "back": "Identify the cause, counsel the Soldier, develop a plan for improvement, and follow up.\n\n(Source: TC 7-22.7, Ch 3, para 3-18)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 30,
+      "source_para": "Chapter 3, para 3-18"
+    },
+    {
+      "front": "What is the purpose of the NCO Professional Development System (NCOPDS)?",
+      "back": "To provide progressive military education and training for NCOs at each rank level.\n\n(Source: TC 7-22.7, Ch 5, para 5-2)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 45,
+      "source_para": "Chapter 5, para 5-2"
+    },
+    {
+      "front": "What is the first level of NCOPDS?",
+      "back": "Basic Leader Course (BLC) - required for promotion to SSG (E-6).\n\n(Source: TC 7-22.7, Ch 5, para 5-4)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 46,
+      "source_para": "Chapter 5, para 5-4"
+    },
+    {
+      "front": "What is the second level of NCOPDS?",
+      "back": "Advanced Leader Course (ALC) - required for promotion to SFC (E-7).\n\n(Source: TC 7-22.7, Ch 5, para 5-5)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 46,
+      "source_para": "Chapter 5, para 5-5"
+    },
+    {
+      "front": "What is the third level of NCOPDS?",
+      "back": "Senior Leader Course (SLC) - required for promotion to MSG/1SG (E-8).\n\n(Source: TC 7-22.7, Ch 5, para 5-6)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 47,
+      "source_para": "Chapter 5, para 5-6"
+    },
+    {
+      "front": "What is the fourth level of NCOPDS?",
+      "back": "Master Leader Course (MLC) - required for consideration as SGM/CSM (E-9).\n\n(Source: TC 7-22.7, Ch 5, para 5-7)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 47,
+      "source_para": "Chapter 5, para 5-7"
+    },
+    {
+      "front": "What is the purpose of the initial counseling session?",
+      "back": "To establish expectations, explain duties, and set goals for the rating period.\n\n(Source: TC 7-22.7, Ch 3, para 3-10)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 25,
+      "source_para": "Chapter 3, para 3-10"
+    },
+    {
+      "front": "What information should be included in the NCO Support Form (DA Form 2166-9-1A)?",
+      "back": "Duty description, areas of emphasis, and specific goals for the rating period.\n\n(Source: TC 7-22.7, Ch 4, para 4-8)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 38,
+      "source_para": "Chapter 4, para 4-8"
+    },
+    {
+      "front": "What is 'on-the-spot' correction?",
+      "back": "Immediate verbal correction of a Soldier's performance or behavior - the first step in maintaining discipline.\n\n(Source: TC 7-22.7, Ch 2, para 2-16)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 18,
+      "source_para": "Chapter 2, para 2-16"
+    },
+    {
+      "front": "What are the seven NCO Common Core Competencies?",
+      "back": "Leadership, Communications, Readiness, Training Management, Operations, Program Management, and Adaptive.\n\n(Source: TC 7-22.7, Ch 1, para 1-15)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 10,
+      "source_para": "Chapter 1, para 1-15"
+    },
+    {
+      "front": "What is the purpose of After Action Reviews (AARs)?",
+      "back": "To identify what happened, why it happened, and how to improve performance for future operations.\n\n(Source: TC 7-22.7, Ch 2, para 2-12)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 16,
+      "source_para": "Chapter 2, para 2-12"
+    },
+    {
+      "front": "Who conducts an AAR?",
+      "back": "The leader responsible for the training event, with input from all participants.\n\n(Source: TC 7-22.7, Ch 2, para 2-13)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 16,
+      "source_para": "Chapter 2, para 2-13"
+    },
+    {
+      "front": "What are the four AAR questions?",
+      "back": "What was planned? What actually happened? Why did it happen? What can we do better?\n\n(Source: TC 7-22.7, Ch 2, para 2-14)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 17,
+      "source_para": "Chapter 2, para 2-14"
+    },
+    {
+      "front": "What is the Sergeant Major of the Army's (SMA) role?",
+      "back": "Senior enlisted advisor to the Chief of Staff and principal advisor on enlisted matters.\n\n(Source: TC 7-22.7, Ch 1, para 1-18)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 11,
+      "source_para": "Chapter 1, para 1-18"
+    },
+    {
+      "front": "What are the seven Army Values?",
+      "back": "Loyalty, Duty, Respect, Selfless Service, Honor, Integrity, Personal Courage (LDRSHIP).\n\n(Source: TC 7-22.7, Ch 1, para 1-10)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 7,
+      "source_para": "Chapter 1, para 1-10"
+    },
+    {
+      "front": "What is Loyalty as an Army Value?",
+      "back": "Bear true faith and allegiance to the Constitution, the Army, your unit, and other Soldiers.\n\n(Source: TC 7-22.7, Ch 1, para 1-10)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 7,
+      "source_para": "Chapter 1, para 1-10"
+    },
+    {
+      "front": "What is Duty as an Army Value?",
+      "back": "Fulfill your obligations - carry out all assigned tasks to the fullest of your ability.\n\n(Source: TC 7-22.7, Ch 1, para 1-10)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 7,
+      "source_para": "Chapter 1, para 1-10"
+    },
+    {
+      "front": "What is Respect as an Army Value?",
+      "back": "Treat people as they should be treated - with dignity and consideration.\n\n(Source: TC 7-22.7, Ch 1, para 1-10)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 7,
+      "source_para": "Chapter 1, para 1-10"
+    },
+    {
+      "front": "What is Selfless Service as an Army Value?",
+      "back": "Put the welfare of the Nation, the Army, and your subordinates before your own.\n\n(Source: TC 7-22.7, Ch 1, para 1-10)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 7,
+      "source_para": "Chapter 1, para 1-10"
+    },
+    {
+      "front": "What is Honor as an Army Value?",
+      "back": "Live up to all the Army Values in your actions every day.\n\n(Source: TC 7-22.7, Ch 1, para 1-10)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 7,
+      "source_para": "Chapter 1, para 1-10"
+    },
+    {
+      "front": "What is Integrity as an Army Value?",
+      "back": "Do what is right, legally and morally - be honest in all that you do.\n\n(Source: TC 7-22.7, Ch 1, para 1-10)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 7,
+      "source_para": "Chapter 1, para 1-10"
+    },
+    {
+      "front": "What is Personal Courage as an Army Value?",
+      "back": "Face fear, danger, or adversity - physical or moral courage to do what is right.\n\n(Source: TC 7-22.7, Ch 1, para 1-10)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 7,
+      "source_para": "Chapter 1, para 1-10"
+    },
+    {
+      "front": "What is the Warrior Ethos?",
+      "back": "I will always place the mission first. I will never accept defeat. I will never quit. I will never leave a fallen comrade.\n\n(Source: TC 7-22.7, Ch 1, para 1-11)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 8,
+      "source_para": "Chapter 1, para 1-11"
+    },
+    {
+      "front": "What is the first tenet of the Warrior Ethos?",
+      "back": "I will always place the mission first.\n\n(Source: TC 7-22.7, Ch 1, para 1-11)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 8,
+      "source_para": "Chapter 1, para 1-11"
+    },
+    {
+      "front": "What is the second tenet of the Warrior Ethos?",
+      "back": "I will never accept defeat.\n\n(Source: TC 7-22.7, Ch 1, para 1-11)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 8,
+      "source_para": "Chapter 1, para 1-11"
+    },
+    {
+      "front": "What is the third tenet of the Warrior Ethos?",
+      "back": "I will never quit.\n\n(Source: TC 7-22.7, Ch 1, para 1-11)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 8,
+      "source_para": "Chapter 1, para 1-11"
+    },
+    {
+      "front": "What is the fourth tenet of the Warrior Ethos?",
+      "back": "I will never leave a fallen comrade.\n\n(Source: TC 7-22.7, Ch 1, para 1-11)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 8,
+      "source_para": "Chapter 1, para 1-11"
+    },
+    {
+      "front": "What is the NCO's role as a trainer?",
+      "back": "Plan, prepare, execute, and assess individual and collective training to standard.\n\n(Source: TC 7-22.7, Ch 2, para 2-3)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 11,
+      "source_para": "Chapter 2, para 2-3"
+    },
+    {
+      "front": "What does 'training to standard' mean?",
+      "back": "Ensuring Soldiers can perform tasks correctly every time, meeting all task conditions and standards.\n\n(Source: TC 7-22.7, Ch 2, para 2-5)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 12,
+      "source_para": "Chapter 2, para 2-5"
+    },
+    {
+      "front": "What are the three components of a task?",
+      "back": "Conditions (circumstances), Standards (criteria), and Task (what to do).\n\n(Source: TC 7-22.7, Ch 2, para 2-6)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 13,
+      "source_para": "Chapter 2, para 2-6"
+    },
+    {
+      "front": "What is the difference between training and education?",
+      "back": "Training develops skills and knowledge for specific tasks; education develops thinking skills for new situations.\n\n(Source: TC 7-22.7, Ch 2, para 2-2)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 11,
+      "source_para": "Chapter 2, para 2-2"
+    },
+    {
+      "front": "What is a performance-oriented training event?",
+      "back": "Training where Soldiers actually perform the task rather than just discussing or watching it.\n\n(Source: TC 7-22.7, Ch 2, para 2-7)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 13,
+      "source_para": "Chapter 2, para 2-7"
+    },
+    {
+      "front": "What is the role of the Company First Sergeant (1SG)?",
+      "back": "Senior NCO at company level; advises the commander, executes training, manages personnel.\n\n(Source: TC 7-22.7, Ch 1, para 1-16)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 10,
+      "source_para": "Chapter 1, para 1-16"
+    },
+    {
+      "front": "What is the role of the Command Sergeant Major (CSM)?",
+      "back": "Senior NCO at battalion level and above; advises the commander on enlisted matters and standards.\n\n(Source: TC 7-22.7, Ch 1, para 1-17)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 11,
+      "source_para": "Chapter 1, para 1-17"
+    },
+    {
+      "front": "What is mentorship?",
+      "back": "Voluntary developmental relationship between experienced and less experienced persons focused on growth.\n\n(Source: TC 7-22.7, Ch 5, para 5-10)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 49,
+      "source_para": "Chapter 5, para 5-10"
+    },
+    {
+      "front": "What is the difference between counseling and mentoring?",
+      "back": "Counseling is formal and required; mentoring is informal and voluntary.\n\n(Source: TC 7-22.7, Ch 5, para 5-11)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 49,
+      "source_para": "Chapter 5, para 5-11"
+    },
+    {
+      "front": "What is coaching?",
+      "back": "Guiding another through a specific skill or task, providing feedback to improve performance.\n\n(Source: TC 7-22.7, Ch 5, para 5-12)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 50,
+      "source_para": "Chapter 5, para 5-12"
+    },
+    {
+      "front": "What is the nondirective approach to counseling?",
+      "back": "Subordinate leads the discussion; leader listens and guides with questions rather than directives.\n\n(Source: TC 7-22.7, Ch 3, para 3-16)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 29,
+      "source_para": "Chapter 3, para 3-16"
+    },
+    {
+      "front": "What is the directive approach to counseling?",
+      "back": "Leader controls the discussion, clearly stating expectations and providing specific direction.\n\n(Source: TC 7-22.7, Ch 3, para 3-17)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 29,
+      "source_para": "Chapter 3, para 3-17"
+    },
+    {
+      "front": "What is the combined approach to counseling?",
+      "back": "Using both directive and nondirective techniques as appropriate to the situation.\n\n(Source: TC 7-22.7, Ch 3, para 3-18)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 30,
+      "source_para": "Chapter 3, para 3-18"
+    },
+    {
+      "front": "What should a counselor avoid during a counseling session?",
+      "back": "Personal attacks, comparisons to others, interrupting, and providing solutions without discussion.\n\n(Source: TC 7-22.7, Ch 3, para 3-20)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 31,
+      "source_para": "Chapter 3, para 3-20"
+    },
+    {
+      "front": "What is performance counseling?",
+      "back": "Discussing job performance, strengths, weaknesses, and areas needing improvement.\n\n(Source: TC 7-22.7, Ch 3, para 3-6)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 22,
+      "source_para": "Chapter 3, para 3-6"
+    },
+    {
+      "front": "When is reception and integration counseling conducted?",
+      "back": "Within the first two weeks of arrival to a new organization.\n\n(Source: TC 7-22.7, Ch 3, para 3-9)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 24,
+      "source_para": "Chapter 3, para 3-9"
+    },
+    {
+      "front": "What is the purpose of crisis counseling?",
+      "back": "To provide immediate assistance for traumatic events; refer to professional resources as needed.\n\n(Source: TC 7-22.7, Ch 3, para 3-22)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 32,
+      "source_para": "Chapter 3, para 3-22"
+    },
+    {
+      "front": "What is referral counseling?",
+      "back": "Directing Soldiers to appropriate resources (chaplain, EO, legal, medical) for issues beyond NCO expertise.\n\n(Source: TC 7-22.7, Ch 3, para 3-23)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 32,
+      "source_para": "Chapter 3, para 3-23"
+    },
+    {
+      "front": "What are the three leadership levels?",
+      "back": "Direct, Organizational, and Strategic leadership.\n\n(Source: TC 7-22.7, Ch 1, para 1-13)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 9,
+      "source_para": "Chapter 1, para 1-13"
+    },
+    {
+      "front": "What is direct leadership?",
+      "back": "Face-to-face leadership at squad, section, platoon, company level.\n\n(Source: TC 7-22.7, Ch 1, para 1-13)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 9,
+      "source_para": "Chapter 1, para 1-13"
+    },
+    {
+      "front": "What is organizational leadership?",
+      "back": "Leadership that influences through others at battalion through corps levels.\n\n(Source: TC 7-22.7, Ch 1, para 1-13)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 9,
+      "source_para": "Chapter 1, para 1-13"
+    },
+    {
+      "front": "What is strategic leadership?",
+      "back": "Leadership at the highest levels affecting the entire Army and national defense.\n\n(Source: TC 7-22.7, Ch 1, para 1-13)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 9,
+      "source_para": "Chapter 1, para 1-13"
+    },
+    {
+      "front": "What are the three leader competencies?",
+      "back": "Lead, Develop, Achieve.\n\n(Source: TC 7-22.7, Ch 1, para 1-14)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 9,
+      "source_para": "Chapter 1, para 1-14"
+    },
+    {
+      "front": "What does the 'Lead' competency include?",
+      "back": "Lead others, build trust, extend influence beyond chain of command, and lead by example.\n\n(Source: TC 7-22.7, Ch 1, para 1-14)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 9,
+      "source_para": "Chapter 1, para 1-14"
+    },
+    {
+      "front": "What does the 'Develop' competency include?",
+      "back": "Create positive environment, prepare self, develop others, and steward the profession.\n\n(Source: TC 7-22.7, Ch 1, para 1-14)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 9,
+      "source_para": "Chapter 1, para 1-14"
+    },
+    {
+      "front": "What does the 'Achieve' competency include?",
+      "back": "Get results through planning, executing, and assessing operations and training.\n\n(Source: TC 7-22.7, Ch 1, para 1-14)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 9,
+      "source_para": "Chapter 1, para 1-14"
+    },
+    {
+      "front": "What are leader attributes?",
+      "back": "Character, Presence, and Intellect - the qualities a leader possesses.\n\n(Source: TC 7-22.7, Ch 1, para 1-12)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 8,
+      "source_para": "Chapter 1, para 1-12"
+    },
+    {
+      "front": "What does 'Character' include as a leader attribute?",
+      "back": "Army Values, empathy, warrior ethos, and discipline.\n\n(Source: TC 7-22.7, Ch 1, para 1-12)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 8,
+      "source_para": "Chapter 1, para 1-12"
+    },
+    {
+      "front": "What does 'Presence' include as a leader attribute?",
+      "back": "Military bearing, professional appearance, fitness, confidence, and resilience.\n\n(Source: TC 7-22.7, Ch 1, para 1-12)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 8,
+      "source_para": "Chapter 1, para 1-12"
+    },
+    {
+      "front": "What does 'Intellect' include as a leader attribute?",
+      "back": "Mental agility, judgment, innovation, interpersonal tact, and expertise.\n\n(Source: TC 7-22.7, Ch 1, para 1-12)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 8,
+      "source_para": "Chapter 1, para 1-12"
+    },
+    {
+      "front": "What is the NCO backbone role in the Army?",
+      "back": "NCOs are the link between officers and enlisted; they translate orders into action and enforce standards.\n\n(Source: TC 7-22.7, Ch 1, para 1-4)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 4,
+      "source_para": "Chapter 1, para 1-4"
+    },
+    {
+      "front": "What is the principle of 'know your Soldiers'?",
+      "back": "Understanding each Soldier's abilities, motivations, limitations, and personal situation.\n\n(Source: TC 7-22.7, Ch 1, para 1-5)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 4,
+      "source_para": "Chapter 1, para 1-5"
+    },
+    {
+      "front": "What does 'taking care of Soldiers' include?",
+      "back": "Ensuring their welfare, safety, training, equipment, and professional development.\n\n(Source: TC 7-22.7, Ch 1, para 1-7)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 5,
+      "source_para": "Chapter 1, para 1-7"
+    },
+    {
+      "front": "What is the purpose of the NCO Support Form?",
+      "back": "To outline duties, responsibilities, and performance objectives before the rating period begins.\n\n(Source: TC 7-22.7, Ch 4, para 4-7)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 37,
+      "source_para": "Chapter 4, para 4-7"
+    },
+    {
+      "front": "Who completes the NCO Support Form?",
+      "back": "The rated NCO with input from the rater, then approved by the rater.\n\n(Source: TC 7-22.7, Ch 4, para 4-8)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 38,
+      "source_para": "Chapter 4, para 4-8"
+    },
+    {
+      "front": "What are the five categories of NCOER performance?",
+      "back": "Character, Presence, Intellect, Leadership, and Achieving Results.\n\n(Source: TC 7-22.7, Ch 4, para 4-10)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 39,
+      "source_para": "Chapter 4, para 4-10"
+    },
+    {
+      "front": "What does the rater evaluate on the NCOER?",
+      "back": "Day-to-day performance of duties and achievements during the rating period.\n\n(Source: TC 7-22.7, Ch 4, para 4-11)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 40,
+      "source_para": "Chapter 4, para 4-11"
+    },
+    {
+      "front": "What does the senior rater evaluate on the NCOER?",
+      "back": "Potential for increased responsibility and promotion compared to peers.\n\n(Source: TC 7-22.7, Ch 4, para 4-12)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 40,
+      "source_para": "Chapter 4, para 4-12"
+    },
+    {
+      "front": "What is the Sergeants Major Academy?",
+      "back": "The capstone school for NCO professional development; produces strategic-level NCO leaders.\n\n(Source: TC 7-22.7, Ch 5, para 5-8)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 48,
+      "source_para": "Chapter 5, para 5-8"
+    },
+    {
+      "front": "What is self-development?",
+      "back": "Personal responsibility to improve competence through individual study, training, and experience.\n\n(Source: TC 7-22.7, Ch 5, para 5-13)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 50,
+      "source_para": "Chapter 5, para 5-13"
+    },
+    {
+      "front": "What are the three domains of leader development?",
+      "back": "Institutional (schools), Operational (units), and Self-development.\n\n(Source: TC 7-22.7, Ch 5, para 5-3)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 45,
+      "source_para": "Chapter 5, para 5-3"
+    },
+    {
+      "front": "What is institutional training?",
+      "back": "Formal education at Army schools and centers that provides foundational knowledge.\n\n(Source: TC 7-22.7, Ch 5, para 5-3)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 45,
+      "source_para": "Chapter 5, para 5-3"
+    },
+    {
+      "front": "What is operational training?",
+      "back": "Learning through day-to-day unit activities, deployments, and job experience.\n\n(Source: TC 7-22.7, Ch 5, para 5-3)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 45,
+      "source_para": "Chapter 5, para 5-3"
+    },
+    {
+      "front": "What is a training meeting?",
+      "back": "Weekly forum to coordinate training requirements and resources at company level.\n\n(Source: TC 7-22.7, Ch 2, para 2-9)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 14,
+      "source_para": "Chapter 2, para 2-9"
+    },
+    {
+      "front": "What is risk assessment in training?",
+      "back": "Identifying hazards and implementing controls to minimize risk while maintaining training value.\n\n(Source: TC 7-22.7, Ch 2, para 2-10)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 15,
+      "source_para": "Chapter 2, para 2-10"
+    },
+    {
+      "front": "What is composite risk management?",
+      "back": "Five-step process: identify hazards, assess hazards, develop controls, implement controls, supervise.\n\n(Source: TC 7-22.7, Ch 2, para 2-11)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 15,
+      "source_para": "Chapter 2, para 2-11"
+    },
+    {
+      "front": "What is the NCO's role in accountability?",
+      "back": "Account for Soldiers, equipment, and sensitive items; report status to leadership.\n\n(Source: TC 7-22.7, Ch 2, para 2-17)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 19,
+      "source_para": "Chapter 2, para 2-17"
+    },
+    {
+      "front": "What is the NCO's role in supply operations?",
+      "back": "Maintain property accountability, conduct inventories, and ensure proper storage and maintenance.\n\n(Source: TC 7-22.7, Ch 2, para 2-18)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 19,
+      "source_para": "Chapter 2, para 2-18"
+    },
+    {
+      "front": "What is constructive feedback?",
+      "back": "Specific, timely, and actionable information about performance that helps improve future actions.\n\n(Source: TC 7-22.7, Ch 3, para 3-19)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 30,
+      "source_para": "Chapter 3, para 3-19"
+    },
+    {
+      "front": "What is active listening?",
+      "back": "Fully concentrating on what is being said, understanding, and responding thoughtfully.\n\n(Source: TC 7-22.7, Ch 3, para 3-21)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 31,
+      "source_para": "Chapter 3, para 3-21"
+    },
+    {
+      "front": "What are the characteristics of effective goals?",
+      "back": "Specific, Measurable, Attainable, Realistic, Time-bound (SMART).\n\n(Source: TC 7-22.7, Ch 3, para 3-11)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 25,
+      "source_para": "Chapter 3, para 3-11"
+    },
+    {
+      "front": "What is the NCO's role in maintaining unit morale?",
+      "back": "Set positive example, recognize achievements, address problems, and maintain communication.\n\n(Source: TC 7-22.7, Ch 1, para 1-9)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 6,
+      "source_para": "Chapter 1, para 1-9"
+    },
+    {
+      "front": "What is command climate?",
+      "back": "The culture and environment within a unit that affects morale, discipline, and effectiveness.\n\n(Source: TC 7-22.7, Ch 2, para 2-19)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 20,
+      "source_para": "Chapter 2, para 2-19"
+    },
+    {
+      "front": "What is the Army Profession?",
+      "back": "A vocation of experts who protect the Constitution, applying ethical expertise in service to the Nation.\n\n(Source: TC 7-22.7, Ch 5, para 5-14)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 51,
+      "source_para": "Chapter 5, para 5-14"
+    },
+    {
+      "front": "What makes the NCO Corps unique?",
+      "back": "The only corps in the world trusted to both train and lead enlisted Soldiers.\n\n(Source: TC 7-22.7, Ch 1, para 1-1)",
+      "source_doc": "TC 7-22.7",
+      "source_page": 2,
+      "source_para": "Chapter 1, para 1-1"
+    }
+  ]
+}
