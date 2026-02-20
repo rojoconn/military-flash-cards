@@ -1,0 +1,261 @@
+{
+  "deck": {
+    "name": "Rifle & Carbine Marksmanship",
+    "description": "TC 3-22.9 - M4/M16 specifications, zeroing, fundamentals, and engagement techniques",
+    "category": "TC",
+    "subcategory": "Weapons"
+  },
+  "metadata": {
+    "publication": "TC 3-22.9",
+    "title": "Rifle and Carbine",
+    "date": "May 2016",
+    "proponent": "United States Army Infantry School"
+  },
+  "cards": [
+    {
+      "front": "What is the maximum effective range of the M4 carbine (point target)?",
+      "back": "500 meters.\n\n(Source: TC 3-22.9, Ch 1, Table 1-1)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 5,
+      "source_para": "Chapter 1, Table 1-1"
+    },
+    {
+      "front": "What is the maximum effective range of the M4 carbine (area target)?",
+      "back": "600 meters.\n\n(Source: TC 3-22.9, Ch 1, Table 1-1)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 5,
+      "source_para": "Chapter 1, Table 1-1"
+    },
+    {
+      "front": "What is the maximum effective range of the M16A2/A3/A4 (point target)?",
+      "back": "550 meters.\n\n(Source: TC 3-22.9, Ch 1, Table 1-1)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 5,
+      "source_para": "Chapter 1, Table 1-1"
+    },
+    {
+      "front": "What caliber ammunition does the M4/M16 fire?",
+      "back": "5.56mm NATO (.223 caliber).\n\n(Source: TC 3-22.9, Ch 1, para 1-2)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 4,
+      "source_para": "Chapter 1, para 1-2"
+    },
+    {
+      "front": "What is the cyclic rate of fire for the M4/M16?",
+      "back": "700-970 rounds per minute.\n\n(Source: TC 3-22.9, Ch 1, Table 1-1)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 5,
+      "source_para": "Chapter 1, Table 1-1"
+    },
+    {
+      "front": "What is the sustained rate of fire for the M4/M16?",
+      "back": "12-15 rounds per minute.\n\n(Source: TC 3-22.9, Ch 1, Table 1-1)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 5,
+      "source_para": "Chapter 1, Table 1-1"
+    },
+    {
+      "front": "How many rounds does a standard M4/M16 magazine hold?",
+      "back": "30 rounds.\n\n(Source: TC 3-22.9, Ch 1, para 1-3)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 4,
+      "source_para": "Chapter 1, para 1-3"
+    },
+    {
+      "front": "What is the muzzle velocity of the M4 carbine?",
+      "back": "Approximately 2,970 feet per second (905 m/s).\n\n(Source: TC 3-22.9, Ch 1, Table 1-1)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 5,
+      "source_para": "Chapter 1, Table 1-1"
+    },
+    {
+      "front": "What is the barrel length of the M4 carbine?",
+      "back": "14.5 inches.\n\n(Source: TC 3-22.9, Ch 1, Table 1-1)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 5,
+      "source_para": "Chapter 1, Table 1-1"
+    },
+    {
+      "front": "What is the barrel length of the M16A2/A3/A4?",
+      "back": "20 inches.\n\n(Source: TC 3-22.9, Ch 1, Table 1-1)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 5,
+      "source_para": "Chapter 1, Table 1-1"
+    },
+    {
+      "front": "What does the acronym SPORTS stand for?",
+      "back": "Slap, Pull, Observe, Release, Tap, Squeeze (immediate action for malfunction).\n\n(Source: TC 3-22.9, Ch 3, para 3-5)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 28,
+      "source_para": "Chapter 3, para 3-5"
+    },
+    {
+      "front": "What is the first step in SPORTS?",
+      "back": "SLAP the magazine upward to ensure proper seating.\n\n(Source: TC 3-22.9, Ch 3, para 3-5)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 28,
+      "source_para": "Chapter 3, para 3-5"
+    },
+    {
+      "front": "What are the four fundamentals of marksmanship?",
+      "back": "Steady Position, Aim, Breath Control, Trigger Squeeze.\n\n(Source: TC 3-22.9, Ch 5, para 5-2)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 45,
+      "source_para": "Chapter 5, para 5-2"
+    },
+    {
+      "front": "What is sight alignment?",
+      "back": "The relationship between the front sight post and rear sight aperture. Front sight centered in rear aperture.\n\n(Source: TC 3-22.9, Ch 5, para 5-8)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 48,
+      "source_para": "Chapter 5, para 5-8"
+    },
+    {
+      "front": "What is sight picture?",
+      "back": "The relationship between sight alignment and the target. Proper sight alignment placed on center mass.\n\n(Source: TC 3-22.9, Ch 5, para 5-9)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 48,
+      "source_para": "Chapter 5, para 5-9"
+    },
+    {
+      "front": "Where should the tip of the front sight post be aimed?",
+      "back": "Center mass of the target.\n\n(Source: TC 3-22.9, Ch 5, para 5-9)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 48,
+      "source_para": "Chapter 5, para 5-9"
+    },
+    {
+      "front": "When should you apply trigger squeeze?",
+      "back": "During the natural respiratory pause (after exhaling).\n\n(Source: TC 3-22.9, Ch 5, para 5-11)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 49,
+      "source_para": "Chapter 5, para 5-11"
+    },
+    {
+      "front": "What is the proper trigger finger placement?",
+      "back": "Use the center of the first pad of the trigger finger (pad between tip and first joint).\n\n(Source: TC 3-22.9, Ch 5, para 5-12)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 50,
+      "source_para": "Chapter 5, para 5-12"
+    },
+    {
+      "front": "At what distance is the M4/M16 zeroed?",
+      "back": "25 meters (300 meter zero using 25m target).\n\n(Source: TC 3-22.9, Ch 6, para 6-2)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 55,
+      "source_para": "Chapter 6, para 6-2"
+    },
+    {
+      "front": "What is the relationship between the 25-meter and 300-meter zero?",
+      "back": "At 25m, the bullet is still rising. It crosses the line of sight again at 300m (ballistic trajectory).\n\n(Source: TC 3-22.9, Ch 6, para 6-2)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 55,
+      "source_para": "Chapter 6, para 6-2"
+    },
+    {
+      "front": "What is a Failure to Feed malfunction?",
+      "back": "A round fails to strip from the magazine and enter the chamber. Usually caused by magazine issues.\n\n(Source: TC 3-22.9, Ch 3, para 3-7)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 30,
+      "source_para": "Chapter 3, para 3-7"
+    },
+    {
+      "front": "What is a Failure to Fire malfunction?",
+      "back": "Trigger pulled but no round fires. Usually caused by faulty primer or firing pin issues.\n\n(Source: TC 3-22.9, Ch 3, para 3-8)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 30,
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "What is a Failure to Extract malfunction?",
+      "back": "The spent case fails to be removed from the chamber. Usually caused by dirty chamber or broken extractor.\n\n(Source: TC 3-22.9, Ch 3, para 3-9)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 31,
+      "source_para": "Chapter 3, para 3-9"
+    },
+    {
+      "front": "What is a double feed?",
+      "back": "Two rounds attempting to enter the chamber simultaneously. Requires remedial action (not SPORTS).\n\n(Source: TC 3-22.9, Ch 3, para 3-10)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 31,
+      "source_para": "Chapter 3, para 3-10"
+    },
+    {
+      "front": "What are the three firing positions (basic)?",
+      "back": "Prone (supported/unsupported), Kneeling, and Standing.\n\n(Source: TC 3-22.9, Ch 4, para 4-2)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 35,
+      "source_para": "Chapter 4, para 4-2"
+    },
+    {
+      "front": "Which firing position is most stable?",
+      "back": "Prone supported (lowest profile, most contact with ground).\n\n(Source: TC 3-22.9, Ch 4, para 4-3)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 36,
+      "source_para": "Chapter 4, para 4-3"
+    },
+    {
+      "front": "What is the standard qualification distance for the M4/M16?",
+      "back": "50 to 300 meters (pop-up targets at various distances).\n\n(Source: TC 3-22.9, Ch 8, para 8-2)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 85,
+      "source_para": "Chapter 8, para 8-2"
+    },
+    {
+      "front": "What are the three qualification ratings?",
+      "back": "Expert (36-40 hits), Sharpshooter (30-35 hits), Marksman (23-29 hits).\n\n(Source: TC 3-22.9, Ch 8, para 8-5)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 87,
+      "source_para": "Chapter 8, para 8-5"
+    },
+    {
+      "front": "How many rounds are fired during rifle qualification?",
+      "back": "40 rounds (20 prone supported, 10 prone unsupported, 10 kneeling).\n\n(Source: TC 3-22.9, Ch 8, para 8-3)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 86,
+      "source_para": "Chapter 8, para 8-3"
+    },
+    {
+      "front": "What is the purpose of the forward assist?",
+      "back": "To fully seat the bolt carrier group when it fails to lock.\n\n(Source: TC 3-22.9, Ch 2, para 2-8)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 18,
+      "source_para": "Chapter 2, para 2-8"
+    },
+    {
+      "front": "What is the purpose of the charging handle?",
+      "back": "To manually cycle the bolt carrier group (chamber a round, clear malfunctions).\n\n(Source: TC 3-22.9, Ch 2, para 2-9)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 18,
+      "source_para": "Chapter 2, para 2-9"
+    },
+    {
+      "front": "What type of gas system does the M4/M16 use?",
+      "back": "Direct impingement (gas is channeled through a tube to cycle the bolt).\n\n(Source: TC 3-22.9, Ch 2, para 2-3)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 15,
+      "source_para": "Chapter 2, para 2-3"
+    },
+    {
+      "front": "What is the rifling twist rate of the M4 barrel?",
+      "back": "1:7 (one complete rotation every 7 inches).\n\n(Source: TC 3-22.9, Ch 1, Table 1-1)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 5,
+      "source_para": "Chapter 1, Table 1-1"
+    },
+    {
+      "front": "What are the selector switch positions on the M4?",
+      "back": "SAFE, SEMI (single shot), and BURST (3-round burst) or AUTO.\n\n(Source: TC 3-22.9, Ch 2, para 2-5)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 16,
+      "source_para": "Chapter 2, para 2-5"
+    },
+    {
+      "front": "What must be done before placing the selector on SAFE?",
+      "back": "The hammer must be cocked (bolt must be to the rear or weapon fired).\n\n(Source: TC 3-22.9, Ch 2, para 2-5)",
+      "source_doc": "TC 3-22.9",
+      "source_page": 16,
+      "source_para": "Chapter 2, para 2-5"
+    }
+  ]
+}

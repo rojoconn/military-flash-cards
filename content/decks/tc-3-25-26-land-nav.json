@@ -1,0 +1,331 @@
+{
+  "deck": {
+    "name": "Land Navigation",
+    "description": "TC 3-25.26 - Map reading, terrain association, compass use, and grid coordinates",
+    "category": "TC",
+    "subcategory": "Common Soldier Skills"
+  },
+  "metadata": {
+    "publication": "TC 3-25.26",
+    "title": "Map Reading and Land Navigation",
+    "date": "November 2013",
+    "proponent": "United States Army Infantry School"
+  },
+  "cards": [
+    {
+      "front": "What is the standard military map scale for tactical operations?",
+      "back": "1:50,000 (one inch equals approximately 0.8 miles).\n\n(Source: TC 3-25.26, Ch 2, para 2-2)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 8,
+      "source_para": "Chapter 2, para 2-2"
+    },
+    {
+      "front": "On a 1:50,000 map, how large is one grid square?",
+      "back": "1,000 meters × 1,000 meters (1 kilometer).\n\n(Source: TC 3-25.26, Ch 4, para 4-3)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 42,
+      "source_para": "Chapter 4, para 4-3"
+    },
+    {
+      "front": "What does the color BLACK represent on a military map?",
+      "back": "Man-made features (buildings, roads, boundaries, labels).\n\n(Source: TC 3-25.26, Ch 2, para 2-8)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 12,
+      "source_para": "Chapter 2, para 2-8"
+    },
+    {
+      "front": "What does the color BLUE represent on a military map?",
+      "back": "Water features (lakes, rivers, streams, swamps).\n\n(Source: TC 3-25.26, Ch 2, para 2-8)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 12,
+      "source_para": "Chapter 2, para 2-8"
+    },
+    {
+      "front": "What does the color BROWN represent on a military map?",
+      "back": "Contour lines and elevation.\n\n(Source: TC 3-25.26, Ch 2, para 2-8)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 12,
+      "source_para": "Chapter 2, para 2-8"
+    },
+    {
+      "front": "What does the color GREEN represent on a military map?",
+      "back": "Vegetation (woods, orchards, vineyards).\n\n(Source: TC 3-25.26, Ch 2, para 2-8)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 12,
+      "source_para": "Chapter 2, para 2-8"
+    },
+    {
+      "front": "What does the color RED represent on a military map?",
+      "back": "Major roads, built-up areas, and special features.\n\n(Source: TC 3-25.26, Ch 2, para 2-8)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 12,
+      "source_para": "Chapter 2, para 2-8"
+    },
+    {
+      "front": "What is a contour line?",
+      "back": "A line on a map connecting points of equal elevation.\n\n(Source: TC 3-25.26, Ch 3, para 3-2)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 25,
+      "source_para": "Chapter 3, para 3-2"
+    },
+    {
+      "front": "What is a contour interval?",
+      "back": "The vertical distance between adjacent contour lines (found in marginal information).\n\n(Source: TC 3-25.26, Ch 3, para 3-3)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 25,
+      "source_para": "Chapter 3, para 3-3"
+    },
+    {
+      "front": "How do you identify a HILL on a map?",
+      "back": "Contour lines forming closed circles. Elevation increases toward the center.\n\n(Source: TC 3-25.26, Ch 3, para 3-8)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 28,
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "How do you identify a VALLEY on a map?",
+      "back": "Contour lines forming a U or V shape pointing UPHILL (toward higher elevation).\n\n(Source: TC 3-25.26, Ch 3, para 3-8)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 28,
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "How do you identify a RIDGE on a map?",
+      "back": "Contour lines forming a U or V shape pointing DOWNHILL (toward lower elevation).\n\n(Source: TC 3-25.26, Ch 3, para 3-8)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 28,
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "How do you identify a SADDLE on a map?",
+      "back": "Low point between two higher elevations, like an hourglass shape.\n\n(Source: TC 3-25.26, Ch 3, para 3-8)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 28,
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "How do you identify a DEPRESSION on a map?",
+      "back": "Closed contour lines with tick marks pointing INWARD (toward lower center).\n\n(Source: TC 3-25.26, Ch 3, para 3-8)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 28,
+      "source_para": "Chapter 3, para 3-8"
+    },
+    {
+      "front": "What does steep terrain look like on a map?",
+      "back": "Contour lines close together.\n\n(Source: TC 3-25.26, Ch 3, para 3-6)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 27,
+      "source_para": "Chapter 3, para 3-6"
+    },
+    {
+      "front": "What does gentle terrain look like on a map?",
+      "back": "Contour lines far apart.\n\n(Source: TC 3-25.26, Ch 3, para 3-6)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 27,
+      "source_para": "Chapter 3, para 3-6"
+    },
+    {
+      "front": "What is a DRAW on a map?",
+      "back": "A less developed valley, usually the beginning of a stream. Contour lines form U pointing uphill.\n\n(Source: TC 3-25.26, Ch 3, para 3-9)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 29,
+      "source_para": "Chapter 3, para 3-9"
+    },
+    {
+      "front": "What is a SPUR on a map?",
+      "back": "A short ridge extending from higher ground. Contour lines form U pointing downhill.\n\n(Source: TC 3-25.26, Ch 3, para 3-9)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 29,
+      "source_para": "Chapter 3, para 3-9"
+    },
+    {
+      "front": "What is a CLIFF on a map?",
+      "back": "Contour lines very close together or touching (vertical or near-vertical terrain).\n\n(Source: TC 3-25.26, Ch 3, para 3-9)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 29,
+      "source_para": "Chapter 3, para 3-9"
+    },
+    {
+      "front": "How do you read a grid coordinate? (right/up)",
+      "back": "Read RIGHT first (easting), then UP (northing). Memory aid: \"Right Up.\"\n\n(Source: TC 3-25.26, Ch 4, para 4-5)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 44,
+      "source_para": "Chapter 4, para 4-5"
+    },
+    {
+      "front": "What is a 4-digit grid coordinate?",
+      "back": "Locates to within 1,000 meters. Example: 1234 (grid square).\n\n(Source: TC 3-25.26, Ch 4, para 4-6)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 45,
+      "source_para": "Chapter 4, para 4-6"
+    },
+    {
+      "front": "What is a 6-digit grid coordinate?",
+      "back": "Locates to within 100 meters. Example: 123456.\n\n(Source: TC 3-25.26, Ch 4, para 4-6)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 45,
+      "source_para": "Chapter 4, para 4-6"
+    },
+    {
+      "front": "What is an 8-digit grid coordinate?",
+      "back": "Locates to within 10 meters. Example: 12345678.\n\n(Source: TC 3-25.26, Ch 4, para 4-6)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 45,
+      "source_para": "Chapter 4, para 4-6"
+    },
+    {
+      "front": "What is a 10-digit grid coordinate?",
+      "back": "Locates to within 1 meter. Example: 1234567890.\n\n(Source: TC 3-25.26, Ch 4, para 4-6)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 45,
+      "source_para": "Chapter 4, para 4-6"
+    },
+    {
+      "front": "What are the three norths on a military map?",
+      "back": "True North (star symbol), Grid North (GN), and Magnetic North (half arrow).\n\n(Source: TC 3-25.26, Ch 6, para 6-2)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 62,
+      "source_para": "Chapter 6, para 6-2"
+    },
+    {
+      "front": "What is declination?",
+      "back": "The angular difference between magnetic north and true north at a given location.\n\n(Source: TC 3-25.26, Ch 6, para 6-3)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 63,
+      "source_para": "Chapter 6, para 6-3"
+    },
+    {
+      "front": "What is the G-M angle?",
+      "back": "The angular difference between grid north and magnetic north (used for converting azimuths).\n\n(Source: TC 3-25.26, Ch 6, para 6-4)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 63,
+      "source_para": "Chapter 6, para 6-4"
+    },
+    {
+      "front": "How do you convert magnetic azimuth to grid azimuth when G-M angle is EAST?",
+      "back": "SUBTRACT the G-M angle from the magnetic azimuth.\n\n(Source: TC 3-25.26, Ch 6, para 6-5)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 64,
+      "source_para": "Chapter 6, para 6-5"
+    },
+    {
+      "front": "How do you convert magnetic azimuth to grid azimuth when G-M angle is WEST?",
+      "back": "ADD the G-M angle to the magnetic azimuth.\n\n(Source: TC 3-25.26, Ch 6, para 6-5)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 64,
+      "source_para": "Chapter 6, para 6-5"
+    },
+    {
+      "front": "What is the memory aid for declination conversion?",
+      "back": "\"East is Least, West is Best\" - subtract for east, add for west.\n\n(Source: TC 3-25.26, Ch 6, para 6-5)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 64,
+      "source_para": "Chapter 6, para 6-5"
+    },
+    {
+      "front": "What is an azimuth?",
+      "back": "A horizontal angle measured clockwise from a north base line (0-360 degrees or 0-6400 mils).\n\n(Source: TC 3-25.26, Ch 6, para 6-1)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 61,
+      "source_para": "Chapter 6, para 6-1"
+    },
+    {
+      "front": "How do you calculate a back azimuth?",
+      "back": "If azimuth <180°: ADD 180. If azimuth ≥180°: SUBTRACT 180.\n\n(Source: TC 3-25.26, Ch 6, para 6-8)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 66,
+      "source_para": "Chapter 6, para 6-8"
+    },
+    {
+      "front": "What are the three methods of holding a compass?",
+      "back": "Compass-to-Cheek, Center-Hold, and Compass-to-Map.\n\n(Source: TC 3-25.26, Ch 9, para 9-3)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 95,
+      "source_para": "Chapter 9, para 9-3"
+    },
+    {
+      "front": "What is the purpose of the bezel ring on the lensatic compass?",
+      "back": "Allows you to set and hold a desired azimuth for navigation.\n\n(Source: TC 3-25.26, Ch 9, para 9-2)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 94,
+      "source_para": "Chapter 9, para 9-2"
+    },
+    {
+      "front": "What is a pace count?",
+      "back": "The number of double-steps (counting each time one foot hits the ground) to travel 100 meters.\n\n(Source: TC 3-25.26, Ch 10, para 10-4)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 108,
+      "source_para": "Chapter 10, para 10-4"
+    },
+    {
+      "front": "What is dead reckoning?",
+      "back": "Navigation using azimuth and distance from a known point without terrain association.\n\n(Source: TC 3-25.26, Ch 10, para 10-2)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 106,
+      "source_para": "Chapter 10, para 10-2"
+    },
+    {
+      "front": "What is terrain association?",
+      "back": "Navigation by comparing map features to ground features you observe.\n\n(Source: TC 3-25.26, Ch 10, para 10-3)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 107,
+      "source_para": "Chapter 10, para 10-3"
+    },
+    {
+      "front": "What is intersection?",
+      "back": "Locating an unknown point by sighting from two or more known positions.\n\n(Source: TC 3-25.26, Ch 7, para 7-2)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 72,
+      "source_para": "Chapter 7, para 7-2"
+    },
+    {
+      "front": "What is resection?",
+      "back": "Determining your unknown location by sighting to two or more known points.\n\n(Source: TC 3-25.26, Ch 7, para 7-3)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 73,
+      "source_para": "Chapter 7, para 7-3"
+    },
+    {
+      "front": "What is a handrail in land navigation?",
+      "back": "A linear feature (road, stream, ridge) paralleling your route that helps guide movement.\n\n(Source: TC 3-25.26, Ch 10, para 10-8)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 112,
+      "source_para": "Chapter 10, para 10-8"
+    },
+    {
+      "front": "What is a catching feature?",
+      "back": "An obvious terrain feature beyond your objective that tells you you've gone too far.\n\n(Source: TC 3-25.26, Ch 10, para 10-9)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 112,
+      "source_para": "Chapter 10, para 10-9"
+    },
+    {
+      "front": "What is a steering mark?",
+      "back": "A distant object (tree, hill, tower) on your azimuth used to maintain direction.\n\n(Source: TC 3-25.26, Ch 10, para 10-10)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 113,
+      "source_para": "Chapter 10, para 10-10"
+    },
+    {
+      "front": "What is deliberate offset?",
+      "back": "Intentionally navigating slightly left or right of the objective to know which way to turn upon reaching a linear feature.\n\n(Source: TC 3-25.26, Ch 10, para 10-11)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 113,
+      "source_para": "Chapter 10, para 10-11"
+    },
+    {
+      "front": "How many mils are in a circle?",
+      "back": "6,400 mils (military) or 6,283 mils (scientific).\n\n(Source: TC 3-25.26, Ch 6, para 6-1)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 61,
+      "source_para": "Chapter 6, para 6-1"
+    },
+    {
+      "front": "How many degrees are in one mil (approximate)?",
+      "back": "1 mil ≈ 0.056 degrees. Or: 17.78 mils ≈ 1 degree.\n\n(Source: TC 3-25.26, Ch 6, para 6-1)",
+      "source_doc": "TC 3-25.26",
+      "source_page": 61,
+      "source_para": "Chapter 6, para 6-1"
+    }
+  ]
+}
