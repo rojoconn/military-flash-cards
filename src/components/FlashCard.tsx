@@ -84,33 +84,43 @@ interface GradeButtonsProps {
 }
 
 export function GradeButtons({ options, onGrade, disabled }: GradeButtonsProps) {
-  const getGradeColor = (grade: number) => {
-    switch (grade) {
-      case 1: return colors.gradeAgain;
-      case 2: return colors.gradeHard;
-      case 3: return colors.gradeGood;
-      case 4: return colors.gradeEasy;
-      default: return colors.textMuted;
-    }
-  };
+  // Find the intervals for display
+  const againOption = options.find(o => o.grade === 1);
+  const goodOption = options.find(o => o.grade === 3);
 
   return (
     <View style={styles.gradeContainer}>
-      {options.map((option) => (
-        <TouchableOpacity
-          key={option.grade}
-          style={[
-            styles.gradeButton,
-            { backgroundColor: getGradeColor(option.grade) },
-            disabled && styles.gradeButtonDisabled,
-          ]}
-          onPress={() => onGrade(option.grade)}
-          disabled={disabled}
-        >
-          <Text style={styles.gradeLabel}>{option.label}</Text>
-          <Text style={styles.gradeInterval}>{option.interval}</Text>
-        </TouchableOpacity>
-      ))}
+      {/* Add to Back of Deck (Again) */}
+      <TouchableOpacity
+        style={[
+          styles.gradeButton,
+          styles.gradeButtonAgain,
+          disabled && styles.gradeButtonDisabled,
+        ]}
+        onPress={() => onGrade(1)}
+        disabled={disabled}
+      >
+        <Text style={styles.gradeLabel}>Back of Deck</Text>
+        {againOption && (
+          <Text style={styles.gradeInterval}>{againOption.interval}</Text>
+        )}
+      </TouchableOpacity>
+
+      {/* Good to Go (Good) */}
+      <TouchableOpacity
+        style={[
+          styles.gradeButton,
+          styles.gradeButtonGood,
+          disabled && styles.gradeButtonDisabled,
+        ]}
+        onPress={() => onGrade(3)}
+        disabled={disabled}
+      >
+        <Text style={styles.gradeLabel}>Good to Go</Text>
+        {goodOption && (
+          <Text style={styles.gradeInterval}>{goodOption.interval}</Text>
+        )}
+      </TouchableOpacity>
     </View>
   );
 }
@@ -177,14 +187,22 @@ const styles = StyleSheet.create({
   },
   gradeContainer: {
     flexDirection: 'row',
-    gap: spacing.sm,
+    gap: spacing.md,
     paddingHorizontal: spacing.md,
   },
   gradeButton: {
     flex: 1,
-    paddingVertical: spacing.md,
+    paddingVertical: spacing.lg,
     borderRadius: borderRadius.lg,
     alignItems: 'center',
+  },
+  gradeButtonAgain: {
+    backgroundColor: colors.surface,
+    borderWidth: 2,
+    borderColor: colors.border,
+  },
+  gradeButtonGood: {
+    backgroundColor: colors.primary,
   },
   gradeButtonDisabled: {
     opacity: 0.5,
@@ -195,9 +213,8 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   gradeInterval: {
-    color: colors.text,
+    color: colors.textSecondary,
     fontSize: fontSize.xs,
-    opacity: 0.8,
-    marginTop: 2,
+    marginTop: 4,
   },
 });
