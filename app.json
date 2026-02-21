@@ -9,8 +9,8 @@
     "scheme": "military-flash-cards",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "cover",
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
       "backgroundColor": "#1a1a1a"
     },
     "ios": {
