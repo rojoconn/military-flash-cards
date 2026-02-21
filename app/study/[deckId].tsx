@@ -1,12 +1,13 @@
 import { View, Text, StyleSheet, TouchableOpacity, ActivityIndicator } from 'react-native';
 import { useLocalSearchParams, router } from 'expo-router';
-import { SafeAreaView } from 'react-native-safe-area-context';
+import { SafeAreaView, useSafeAreaInsets } from 'react-native-safe-area-context';
 import { colors, spacing, fontSize, borderRadius } from '../../src/theme';
 import { FlashCard, GradeButtons } from '../../src/components/FlashCard';
 import { useStudySession } from '../../src/hooks/useStudySession';
 
 export default function StudyScreen() {
   const { deckId } = useLocalSearchParams<{ deckId: string }>();
+  const insets = useSafeAreaInsets();
 
   const {
     currentCard,
@@ -106,9 +107,9 @@ export default function StudyScreen() {
   }
 
   return (
-    <SafeAreaView style={styles.container}>
+    <View style={styles.container}>
       {/* Header */}
-      <View style={styles.header}>
+      <View style={[styles.header, { paddingTop: Math.max(insets.top + spacing.sm, spacing.lg) }]}>
         <TouchableOpacity onPress={() => router.back()} style={styles.closeButton}>
           <Text style={styles.closeButtonText}>✕</Text>
         </TouchableOpacity>
@@ -143,7 +144,7 @@ export default function StudyScreen() {
       </View>
 
       {/* Grade Buttons */}
-      <View style={styles.gradeSection}>
+      <View style={[styles.gradeSection, { paddingBottom: Math.max(insets.bottom, spacing.xl) }]}>
         {showAnswer ? (
           <GradeButtons
             options={schedulingOptions}
@@ -155,7 +156,7 @@ export default function StudyScreen() {
           </TouchableOpacity>
         )}
       </View>
-    </SafeAreaView>
+    </View>
   );
 }
 
@@ -181,15 +182,17 @@ const styles = StyleSheet.create({
     paddingVertical: spacing.sm,
   },
   closeButton: {
-    width: 40,
-    height: 40,
+    width: 44,
+    height: 44,
     justifyContent: 'center',
     alignItems: 'center',
+    backgroundColor: colors.surface,
+    borderRadius: 22,
   },
   closeButtonText: {
-    color: colors.textSecondary,
-    fontSize: 24,
-    fontWeight: '300',
+    color: colors.text,
+    fontSize: 20,
+    fontWeight: '500',
   },
   progressContainer: {
     flex: 1,
@@ -234,8 +237,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: spacing.md,
   },
   gradeSection: {
-    paddingVertical: spacing.lg,
-    paddingBottom: spacing.xl,
+    paddingTop: spacing.lg,
   },
   showAnswerButton: {
     marginHorizontal: spacing.md,

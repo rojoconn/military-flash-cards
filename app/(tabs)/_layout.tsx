@@ -1,5 +1,7 @@
 import { Tabs } from 'expo-router';
-import { View, Text, StyleSheet } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
+import { router } from 'expo-router';
 import { colors } from '../../src/theme';
 
 // Simple icon components (no external dependencies)
@@ -21,6 +23,8 @@ function TabIcon({ name, focused }: { name: string; focused: boolean }) {
 }
 
 export default function TabLayout() {
+  const insets = useSafeAreaInsets();
+
   return (
     <Tabs
       screenOptions={{
@@ -31,7 +35,8 @@ export default function TabLayout() {
           borderTopColor: colors.border,
           borderTopWidth: 1,
           paddingTop: 4,
-          height: 60,
+          paddingBottom: insets.bottom > 0 ? insets.bottom : 8,
+          height: 60 + (insets.bottom > 0 ? insets.bottom : 8),
         },
         tabBarLabelStyle: {
           fontSize: 12,
@@ -48,6 +53,14 @@ export default function TabLayout() {
           title: 'Study',
           tabBarIcon: ({ focused }) => <TabIcon name="study" focused={focused} />,
           headerTitle: 'Army Flashcards',
+          headerRight: () => (
+            <TouchableOpacity
+              onPress={() => router.push('/settings')}
+              style={{ marginRight: 16 }}
+            >
+              <Text style={{ fontSize: 24 }}>⚙️</Text>
+            </TouchableOpacity>
+          ),
         }}
       />
       <Tabs.Screen
