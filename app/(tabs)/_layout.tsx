@@ -7,10 +7,10 @@ import { colors } from '../../src/theme';
 // Simple icon components (no external dependencies)
 function TabIcon({ name, focused }: { name: string; focused: boolean }) {
   const icons: Record<string, string> = {
-    study: '📚',
+    study: '🏠',
     decks: '🗂️',
+    challenges: '🏆',
     progress: '📊',
-    search: '🔍',
   };
 
   return (
@@ -50,9 +50,9 @@ export default function TabLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: 'Study',
+          title: 'Home',
           tabBarIcon: ({ focused }) => <TabIcon name="study" focused={focused} />,
-          headerTitle: 'Army Flashcards',
+          headerTitle: 'Military Flash Cards',
           headerRight: () => (
             <TouchableOpacity
               onPress={() => router.push('/settings')}
@@ -71,17 +71,17 @@ export default function TabLayout() {
         }}
       />
       <Tabs.Screen
+        name="challenges"
+        options={{
+          title: 'Challenges',
+          tabBarIcon: ({ focused }) => <TabIcon name="challenges" focused={focused} />,
+        }}
+      />
+      <Tabs.Screen
         name="progress"
         options={{
           title: 'Progress',
           tabBarIcon: ({ focused }) => <TabIcon name="progress" focused={focused} />,
-        }}
-      />
-      <Tabs.Screen
-        name="search"
-        options={{
-          title: 'Search',
-          tabBarIcon: ({ focused }) => <TabIcon name="search" focused={focused} />,
         }}
       />
     </Tabs>

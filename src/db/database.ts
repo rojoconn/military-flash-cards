@@ -1,5 +1,5 @@
 import * as SQLite from 'expo-sqlite';
-import { CREATE_TABLES_SQL, Deck, Card, Review } from './schema';
+import { CREATE_TABLES_SQL, Deck, Card, Review, UserProgress, Achievement, ACHIEVEMENTS } from './schema';
 
 let db: SQLite.SQLiteDatabase | null = null;
 
@@ -351,4 +351,180 @@ export async function bulkImportCards(deckId: string, cards: Array<{
   });
 
   return imported;
+}
+
+// User Progress
+export async function getUserProgress(): Promise<UserProgress> {
+  const database = await getDatabase();
+
+  let progress = await database.getFirstAsync<UserProgress>(
+    'SELECT * FROM user_progress LIMIT 1'
+  );
+
+  // Create default progress if none exists
+  if (!progress) {
+    const now = Date.now();
+    const id = generateId();
+    await database.runAsync(
+      `INSERT INTO user_progress (id, current_streak, longest_streak, total_cards_reviewed, total_study_days, last_study_date, daily_goal, created_at, updated_at)
+       VALUES (?, 0, 0, 0, 0, NULL, 20, ?, ?)`,
+      [id, now, now]
+    );
+    progress = {
+      id,
+      current_streak: 0,
+      longest_streak: 0,
+      total_cards_reviewed: 0,
+      total_study_days: 0,
+      last_study_date: null,
+      daily_goal: 20,
+      created_at: now,
+      updated_at: now,
+    };
+  }
+
+  return progress;
+}
+
+export async function updateUserProgress(cardsReviewed: number = 1): Promise<UserProgress> {
+  const database = await getDatabase();
+  const progress = await getUserProgress();
+  const now = Date.now();
+  const today = new Date().toISOString().split('T')[0];
+
+  let newStreak = progress.current_streak;
+  let studyDays = progress.total_study_days;
+
+  if (progress.last_study_date !== today) {
+    // Check if this continues a streak
+    const yesterday = new Date();
+    yesterday.setDate(yesterday.getDate() - 1);
+    const yesterdayStr = yesterday.toISOString().split('T')[0];
+
+    if (progress.last_study_date === yesterdayStr) {
+      newStreak = progress.current_streak + 1;
+    } else if (progress.last_study_date !== today) {
+      newStreak = 1; // Reset streak
+    }
+    studyDays += 1;
+  }
+
+  const longestStreak = Math.max(progress.longest_streak, newStreak);
+  const totalReviewed = progress.total_cards_reviewed + cardsReviewed;
+
+  await database.runAsync(
+    `UPDATE user_progress SET
+      current_streak = ?,
+      longest_streak = ?,
+      total_cards_reviewed = ?,
+      total_study_days = ?,
+      last_study_date = ?,
+      updated_at = ?
+     WHERE id = ?`,
+    [newStreak, longestStreak, totalReviewed, studyDays, today, now, progress.id]
+  );
+
+  // Check for achievements
+  await checkAndUnlockAchievements(totalReviewed, newStreak);
+
+  return {
+    ...progress,
+    current_streak: newStreak,
+    longest_streak: longestStreak,
+    total_cards_reviewed: totalReviewed,
+    total_study_days: studyDays,
+    last_study_date: today,
+    updated_at: now,
+  };
+}
+
+export async function setDailyGoal(goal: number): Promise<void> {
+  const database = await getDatabase();
+  const progress = await getUserProgress();
+  await database.runAsync(
+    'UPDATE user_progress SET daily_goal = ?, updated_at = ? WHERE id = ?',
+    [goal, Date.now(), progress.id]
+  );
+}
+
+// Achievements
+export async function initializeAchievements(): Promise<void> {
+  const database = await getDatabase();
+
+  for (const achievement of ACHIEVEMENTS) {
+    const existing = await database.getFirstAsync<Achievement>(
+      'SELECT * FROM achievements WHERE key = ?',
+      [achievement.key]
+    );
+
+    if (!existing) {
+      await database.runAsync(
+        `INSERT INTO achievements (id, key, name, description, icon, unlocked_at)
+         VALUES (?, ?, ?, ?, ?, NULL)`,
+        [generateId(), achievement.key, achievement.name, achievement.description, achievement.icon]
+      );
+    }
+  }
+}
+
+export async function getAchievements(): Promise<Achievement[]> {
+  const database = await getDatabase();
+  await initializeAchievements();
+  return database.getAllAsync<Achievement>('SELECT * FROM achievements ORDER BY unlocked_at DESC NULLS LAST');
+}
+
+export async function unlockAchievement(key: string): Promise<Achievement | null> {
+  const database = await getDatabase();
+  const now = Date.now();
+
+  const achievement = await database.getFirstAsync<Achievement>(
+    'SELECT * FROM achievements WHERE key = ? AND unlocked_at IS NULL',
+    [key]
+  );
+
+  if (achievement) {
+    await database.runAsync(
+      'UPDATE achievements SET unlocked_at = ? WHERE key = ?',
+      [now, key]
+    );
+    return { ...achievement, unlocked_at: now };
+  }
+
+  return null;
+}
+
+async function checkAndUnlockAchievements(totalCards: number, streak: number): Promise<void> {
+  // Card milestones
+  if (totalCards >= 1) await unlockAchievement('first_card');
+  if (totalCards >= 10) await unlockAchievement('cards_10');
+  if (totalCards >= 50) await unlockAchievement('cards_50');
+  if (totalCards >= 100) await unlockAchievement('cards_100');
+  if (totalCards >= 500) await unlockAchievement('cards_500');
+  if (totalCards >= 1000) await unlockAchievement('cards_1000');
+
+  // Streak milestones
+  if (streak >= 3) await unlockAchievement('streak_3');
+  if (streak >= 7) await unlockAchievement('streak_7');
+  if (streak >= 14) await unlockAchievement('streak_14');
+  if (streak >= 30) await unlockAchievement('streak_30');
+
+  // Time-based achievements
+  const hour = new Date().getHours();
+  if (hour < 6) await unlockAchievement('early_bird');
+  if (hour >= 22) await unlockAchievement('night_owl');
+}
+
+export async function getStreakInfo(): Promise<{
+  current: number;
+  longest: number;
+  isActiveToday: boolean;
+}> {
+  const progress = await getUserProgress();
+  const today = new Date().toISOString().split('T')[0];
+
+  return {
+    current: progress.current_streak,
+    longest: progress.longest_streak,
+    isActiveToday: progress.last_study_date === today,
+  };
 }

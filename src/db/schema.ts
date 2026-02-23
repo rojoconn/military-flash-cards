@@ -55,6 +55,45 @@ export interface StudyStats {
   average_grade: number;
 }
 
+export interface UserProgress {
+  id: string;
+  current_streak: number;
+  longest_streak: number;
+  total_cards_reviewed: number;
+  total_study_days: number;
+  last_study_date: string | null;  // YYYY-MM-DD
+  daily_goal: number;  // Cards per day goal
+  created_at: number;
+  updated_at: number;
+}
+
+export interface Achievement {
+  id: string;
+  key: string;  // Unique identifier like 'first_card', 'streak_7', etc.
+  name: string;
+  description: string;
+  icon: string;  // Emoji
+  unlocked_at: number | null;
+}
+
+export const ACHIEVEMENTS = [
+  { key: 'first_card', name: 'First Steps', description: 'Review your first card', icon: '🎯' },
+  { key: 'cards_10', name: 'Getting Started', description: 'Review 10 cards', icon: '📚' },
+  { key: 'cards_50', name: 'Dedicated Learner', description: 'Review 50 cards', icon: '🌟' },
+  { key: 'cards_100', name: 'Century Club', description: 'Review 100 cards', icon: '💯' },
+  { key: 'cards_500', name: 'Knowledge Seeker', description: 'Review 500 cards', icon: '🧠' },
+  { key: 'cards_1000', name: 'Scholar', description: 'Review 1000 cards', icon: '🎓' },
+  { key: 'streak_3', name: 'On a Roll', description: '3 day study streak', icon: '🔥' },
+  { key: 'streak_7', name: 'Week Warrior', description: '7 day study streak', icon: '⚡' },
+  { key: 'streak_14', name: 'Two Week Titan', description: '14 day study streak', icon: '💪' },
+  { key: 'streak_30', name: 'Month Master', description: '30 day study streak', icon: '🏆' },
+  { key: 'perfect_10', name: 'Perfect Ten', description: '10 cards in a row without "Back of Deck"', icon: '✨' },
+  { key: 'speed_demon', name: 'Speed Demon', description: 'Review 20 cards in under 2 minutes', icon: '⚡' },
+  { key: 'early_bird', name: 'Early Bird', description: 'Study before 6 AM', icon: '🌅' },
+  { key: 'night_owl', name: 'Night Owl', description: 'Study after 10 PM', icon: '🦉' },
+  { key: 'category_master', name: 'Category Master', description: 'Complete all due cards in a category', icon: '🎖️' },
+] as const;
+
 // SQL statements for creating tables
 export const CREATE_TABLES_SQL = `
   CREATE TABLE IF NOT EXISTS decks (
@@ -123,4 +162,25 @@ export const CREATE_TABLES_SQL = `
   );
 
   CREATE INDEX IF NOT EXISTS idx_study_stats_date ON study_stats(date);
+
+  CREATE TABLE IF NOT EXISTS user_progress (
+    id TEXT PRIMARY KEY,
+    current_streak INTEGER NOT NULL DEFAULT 0,
+    longest_streak INTEGER NOT NULL DEFAULT 0,
+    total_cards_reviewed INTEGER NOT NULL DEFAULT 0,
+    total_study_days INTEGER NOT NULL DEFAULT 0,
+    last_study_date TEXT,
+    daily_goal INTEGER NOT NULL DEFAULT 20,
+    created_at INTEGER NOT NULL,
+    updated_at INTEGER NOT NULL
+  );
+
+  CREATE TABLE IF NOT EXISTS achievements (
+    id TEXT PRIMARY KEY,
+    key TEXT NOT NULL UNIQUE,
+    name TEXT NOT NULL,
+    description TEXT NOT NULL,
+    icon TEXT NOT NULL,
+    unlocked_at INTEGER
+  );
 `;

@@ -9,6 +9,9 @@ import {
   TextInput,
   Modal,
   Alert,
+  LayoutAnimation,
+  Platform,
+  UIManager,
 } from 'react-native';
 import { Link, useFocusEffect } from 'expo-router';
 import { colors, spacing, fontSize, borderRadius } from '../../src/theme';
@@ -20,6 +23,11 @@ import {
 } from '../../src/db/database';
 import { importSampleDecks } from '../../src/services/content-import';
 import type { Deck } from '../../src/db/schema';
+
+// Enable LayoutAnimation on Android
+if (Platform.OS === 'android' && UIManager.setLayoutAnimationEnabledExperimental) {
+  UIManager.setLayoutAnimationEnabledExperimental(true);
+}
 
 // Input validation limits
 const DECK_NAME_MAX = 100;
@@ -46,6 +54,7 @@ interface DeckWithStats extends Deck {
 
 export default function DecksScreen() {
   const [decks, setDecks] = useState<DeckWithStats[]>([]);
+  const [expandedCategories, setExpandedCategories] = useState<Set<string>>(new Set());
   const [refreshing, setRefreshing] = useState(false);
   const [saving, setSaving] = useState(false);
   const [showCreateModal, setShowCreateModal] = useState(false);
@@ -64,10 +73,30 @@ export default function DecksScreen() {
         }))
       );
       setDecks(decksWithStats);
+
+      // Auto-expand categories with due cards on first load
+      if (expandedCategories.size === 0) {
+        const categoriesWithDue = new Set<string>();
+        decksWithStats.forEach((deck) => {
+          if (deck.stats && deck.stats.due > 0) {
+            categoriesWithDue.add(deck.category);
+          }
+        });
+        // If no due cards, expand first category with decks
+        if (categoriesWithDue.size === 0) {
+          const firstCategory = CATEGORIES.find(cat =>
+            decksWithStats.some(d => d.category === cat.value)
+          );
+          if (firstCategory) {
+            categoriesWithDue.add(firstCategory.value);
+          }
+        }
+        setExpandedCategories(categoriesWithDue);
+      }
     } catch {
       // Load failed - shows empty state, user can pull to refresh
     }
-  }, []);
+  }, [expandedCategories.size]);
 
   useFocusEffect(
     useCallback(() => {
@@ -79,6 +108,19 @@ export default function DecksScreen() {
     setRefreshing(true);
     await loadDecks();
     setRefreshing(false);
+  };
+
+  const toggleCategory = (categoryValue: string) => {
+    LayoutAnimation.configureNext(LayoutAnimation.Presets.easeInEaseOut);
+    setExpandedCategories((prev) => {
+      const next = new Set(prev);
+      if (next.has(categoryValue)) {
+        next.delete(categoryValue);
+      } else {
+        next.add(categoryValue);
+      }
+      return next;
+    });
   };
 
   const handleCreateDeck = async () => {
@@ -113,6 +155,8 @@ export default function DecksScreen() {
       setNewDeckDescription('');
       setNewDeckSubcategory('');
       setShowCreateModal(false);
+      // Expand the category we just added to
+      setExpandedCategories((prev) => new Set([...prev, newDeckCategory]));
       await loadDecks();
     } catch {
       Alert.alert('Error', 'Failed to create deck. Please try again.');
@@ -143,14 +187,17 @@ export default function DecksScreen() {
     );
   };
 
-  const getCategoryInfo = (category: string) => {
-    return CATEGORIES.find(c => c.value === category) || CATEGORIES[0];
-  };
-
-  const groupedDecks = CATEGORIES.map(category => ({
-    ...category,
-    decks: decks.filter(d => d.category === category.value),
-  })).filter(group => group.decks.length > 0);
+  const groupedDecks = CATEGORIES.map((category) => {
+    const categoryDecks = decks.filter((d) => d.category === category.value);
+    const totalCards = categoryDecks.reduce((sum, d) => sum + d.card_count, 0);
+    const totalDue = categoryDecks.reduce((sum, d) => sum + (d.stats?.due ?? 0), 0);
+    return {
+      ...category,
+      decks: categoryDecks,
+      totalCards,
+      totalDue,
+    };
+  }).filter((group) => group.decks.length > 0);
 
   return (
     <View style={styles.container}>
@@ -164,49 +211,72 @@ export default function DecksScreen() {
           />
         }
       >
-        {groupedDecks.map((group) => (
-          <View key={group.value} style={styles.categorySection}>
-            <View style={styles.categoryHeader}>
-              <Text style={styles.categoryIcon}>{group.icon}</Text>
-              <Text style={styles.categoryTitle}>{group.label}</Text>
-            </View>
+        {groupedDecks.map((group) => {
+          const isExpanded = expandedCategories.has(group.value);
 
-            {group.decks.map((deck) => (
-              <Link key={deck.id} href={`/deck/${deck.id}`} asChild>
-                <TouchableOpacity
-                  style={styles.deckCard}
-                  onLongPress={() => handleDeleteDeck(deck)}
-                >
-                  <View style={styles.deckInfo}>
-                    <Text style={styles.deckName}>{deck.name}</Text>
-                    {deck.description && (
-                      <Text style={styles.deckDescription} numberOfLines={1}>
-                        {deck.description}
-                      </Text>
-                    )}
-                    {deck.subcategory && (
-                      <Text style={styles.deckSubcategory}>
-                        {deck.subcategory}
-                      </Text>
-                    )}
-                  </View>
-                  <View style={styles.deckStats}>
-                    {deck.stats && deck.stats.due > 0 && (
-                      <View style={styles.dueBadge}>
-                        <Text style={styles.dueBadgeText}>
-                          {deck.stats.due}
-                        </Text>
-                      </View>
-                    )}
-                    <Text style={styles.cardCount}>
-                      {deck.card_count} cards
+          return (
+            <View key={group.value} style={styles.categorySection}>
+              {/* Accordion Header */}
+              <TouchableOpacity
+                style={styles.categoryHeader}
+                onPress={() => toggleCategory(group.value)}
+                activeOpacity={0.7}
+              >
+                <View style={styles.categoryHeaderLeft}>
+                  <Text style={styles.categoryIcon}>{group.icon}</Text>
+                  <View>
+                    <Text style={styles.categoryTitle}>{group.label}</Text>
+                    <Text style={styles.categorySummary}>
+                      {group.decks.length} deck{group.decks.length !== 1 ? 's' : ''} • {group.totalCards} cards
                     </Text>
                   </View>
-                </TouchableOpacity>
-              </Link>
-            ))}
-          </View>
-        ))}
+                </View>
+                <View style={styles.categoryHeaderRight}>
+                  {group.totalDue > 0 && (
+                    <View style={styles.categoryDueBadge}>
+                      <Text style={styles.categoryDueText}>{group.totalDue}</Text>
+                    </View>
+                  )}
+                  <Text style={styles.chevron}>{isExpanded ? '▼' : '▶'}</Text>
+                </View>
+              </TouchableOpacity>
+
+              {/* Accordion Content */}
+              {isExpanded && (
+                <View style={styles.categoryContent}>
+                  {group.decks.map((deck) => (
+                    <Link key={deck.id} href={`/deck/${deck.id}`} asChild>
+                      <TouchableOpacity
+                        style={styles.deckCard}
+                        onLongPress={() => handleDeleteDeck(deck)}
+                      >
+                        <View style={styles.deckInfo}>
+                          <Text style={styles.deckName}>{deck.name}</Text>
+                          {deck.description && (
+                            <Text style={styles.deckDescription} numberOfLines={1}>
+                              {deck.description}
+                            </Text>
+                          )}
+                          {deck.subcategory && (
+                            <Text style={styles.deckSubcategory}>{deck.subcategory}</Text>
+                          )}
+                        </View>
+                        <View style={styles.deckStats}>
+                          {deck.stats && deck.stats.due > 0 && (
+                            <View style={styles.dueBadge}>
+                              <Text style={styles.dueBadgeText}>{deck.stats.due}</Text>
+                            </View>
+                          )}
+                          <Text style={styles.cardCount}>{deck.card_count} cards</Text>
+                        </View>
+                      </TouchableOpacity>
+                    </Link>
+                  ))}
+                </View>
+              )}
+            </View>
+          );
+        })}
 
         {decks.length === 0 && (
           <View style={styles.emptyState}>
@@ -237,10 +307,7 @@ export default function DecksScreen() {
       </ScrollView>
 
       {/* Create Deck Button */}
-      <TouchableOpacity
-        style={styles.fab}
-        onPress={() => setShowCreateModal(true)}
-      >
+      <TouchableOpacity style={styles.fab} onPress={() => setShowCreateModal(true)}>
         <Text style={styles.fabText}>+</Text>
       </TouchableOpacity>
 
@@ -275,7 +342,9 @@ export default function DecksScreen() {
               maxLength={DECK_NAME_MAX}
               editable={!saving}
             />
-            <Text style={styles.charCount}>{newDeckName.length}/{DECK_NAME_MAX}</Text>
+            <Text style={styles.charCount}>
+              {newDeckName.length}/{DECK_NAME_MAX}
+            </Text>
 
             <Text style={styles.inputLabel}>Description (optional)</Text>
             <TextInput
@@ -324,7 +393,9 @@ export default function DecksScreen() {
               maxLength={DECK_SUBCATEGORY_MAX}
               editable={!saving}
             />
-            <Text style={styles.charCount}>{newDeckSubcategory.length}/{DECK_SUBCATEGORY_MAX}</Text>
+            <Text style={styles.charCount}>
+              {newDeckSubcategory.length}/{DECK_SUBCATEGORY_MAX}
+            </Text>
           </ScrollView>
         </View>
       </Modal>
@@ -342,21 +413,58 @@ const styles = StyleSheet.create({
     paddingBottom: 100,
   },
   categorySection: {
-    marginBottom: spacing.lg,
+    marginBottom: spacing.md,
   },
   categoryHeader: {
     flexDirection: 'row',
     alignItems: 'center',
-    marginBottom: spacing.sm,
+    justifyContent: 'space-between',
+    backgroundColor: colors.surface,
+    padding: spacing.md,
+    borderRadius: borderRadius.lg,
+  },
+  categoryHeaderLeft: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    flex: 1,
   },
   categoryIcon: {
-    fontSize: 20,
-    marginRight: spacing.sm,
+    fontSize: 28,
+    marginRight: spacing.md,
   },
   categoryTitle: {
     fontSize: fontSize.lg,
     fontWeight: '600',
     color: colors.text,
+  },
+  categorySummary: {
+    fontSize: fontSize.sm,
+    color: colors.textMuted,
+    marginTop: 2,
+  },
+  categoryHeaderRight: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: spacing.sm,
+  },
+  categoryDueBadge: {
+    backgroundColor: colors.primary,
+    paddingHorizontal: spacing.sm,
+    paddingVertical: spacing.xs,
+    borderRadius: borderRadius.full,
+  },
+  categoryDueText: {
+    color: colors.text,
+    fontSize: fontSize.sm,
+    fontWeight: '600',
+  },
+  chevron: {
+    fontSize: 12,
+    color: colors.textMuted,
+  },
+  categoryContent: {
+    marginTop: spacing.sm,
+    marginLeft: spacing.md,
   },
   deckCard: {
     backgroundColor: colors.surface,
@@ -366,6 +474,8 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
+    borderLeftWidth: 3,
+    borderLeftColor: colors.border,
   },
   deckInfo: {
     flex: 1,

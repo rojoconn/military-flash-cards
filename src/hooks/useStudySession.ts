@@ -1,6 +1,6 @@
 import { useState, useCallback, useEffect } from 'react';
 import type { Card } from '../db/schema';
-import { getDueCards, getAllDueCards, getCardById, getLastReviewByCard, deleteReview, updateCard } from '../db/database';
+import { getDueCards, getAllDueCards, getCardById, getLastReviewByCard, deleteReview, updateCard, updateUserProgress } from '../db/database';
 import { processReview, getSchedulingOptions, type SchedulingOption } from '../services/fsrs';
 
 interface StudySessionState {
@@ -101,6 +101,9 @@ export function useStudySession(deckId?: string) {
 
       // Process the review (updates card in DB and creates review record)
       await processReview(currentCard, grade, timeSpent);
+
+      // Update user progress (streaks, achievements)
+      await updateUserProgress(1);
 
       // Update stats
       const gradeKey = grade === 1 ? 'again' : grade === 2 ? 'hard' : grade === 3 ? 'good' : 'easy';
